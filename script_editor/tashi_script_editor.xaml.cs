@@ -57,30 +57,33 @@ namespace script_editor
 			public uint ptr_pos;
 			public uint str_pos;
 			public string table;
-			public bool redirect;
+			public bool repoint;
 			public string ja_text;
 			public string en_text;
-			public ScriptString(uint StrNum, string Prefix, uint PtrPos, uint StrPos, string Table, bool Redirect)
+			public ScriptString(uint StrNum, string Prefix, uint PtrPos, uint StrPos, string Table, bool Repoint)
             {
 				str_num = StrNum;
 				prefix = Prefix;
 				ptr_pos = PtrPos;
                 str_pos = StrPos;
 				table = Table;
-				redirect = Redirect;
+				repoint = Repoint;
 			}
         }
+
+		IDictionary<uint, ScriptString> stringList = new Dictionary<uint, ScriptString>();
+
+
 		private void Button_OpenFile(object sender, RoutedEventArgs e)
 		{
 			string line;
 			var stringIDList = new List<uint>();
-			IDictionary<uint, ScriptString> stringList = new Dictionary<uint, ScriptString>();
 
 			OpenFileDialog openFileDialog = new OpenFileDialog();
 			if (openFileDialog.ShowDialog() == System.Windows.Forms.DialogResult.OK)
 			{
 
-				ja_textbox.Text = File.ReadAllText(openFileDialog.FileName);
+				//ja_textbox.Text = File.ReadAllText(openFileDialog.FileName);
 				scriptPath.Text = openFileDialog.FileName;
 				// stringList.ItemsSource = new String[] { "a", "b", "c" };
 				System.IO.StreamReader file = new System.IO.StreamReader(openFileDialog.FileName);
@@ -90,14 +93,17 @@ namespace script_editor
                     {
 						
                         ScriptString foo = JsonConvert.DeserializeObject<ScriptString>(line);
-                        stringIDList.Add(foo.str_num);
 						// en_textbox.Text += foo.str_num + "\n";
 						string ja_line = file.ReadLine();
 						if (ja_line.StartsWith("#") )
 						{
 							foo.ja_text = ja_line[1..];
                         }
-						stringList[foo.str_num] = foo;
+						if (!foo.repoint)
+                        {
+							stringIDList.Add(foo.str_num);
+							stringList[foo.str_num] = foo;
+						}
 					}
                 }
 				
@@ -121,8 +127,14 @@ namespace script_editor
 
 		private void ListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
 		{
+			uint selectedID;
 			// sender.id read ID from list -> populate english and japanese textbox
-			en_textbox.Text = ((System.Windows.Controls.ListBox)sender).SelectedItem.ToString();
+			//en_textbox.Text = ((System.Windows.Controls.ListBox)sender).SelectedItem.ToString();
+
+			selectedID = (uint) ((System.Windows.Controls.ListBox)sender).SelectedItem;
+			ja_textbox.Text = stringList[selectedID].ja_text;
+            en_textbox.Text = stringList[selectedID].en_text;
+
 		}
 
 	}
