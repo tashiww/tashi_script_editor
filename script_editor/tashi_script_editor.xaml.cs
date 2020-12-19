@@ -15,6 +15,15 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Windows.Forms;
 using Newtonsoft.Json;
+using KeyEventArgs = System.Windows.Input.KeyEventArgs;
+using TextBox = System.Windows.Controls.TextBox;
+/*
+* Regarding Json.net:
+* Copyright (c) 2007 James Newton-King
+* Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+*/
 
 namespace script_editor
 {
@@ -28,28 +37,6 @@ namespace script_editor
 			InitializeComponent();
 		}
 
-		// data structure?
-		// array xx
-		// {"str_num": 1253, "prefix": "0x7", "ptr_pos": 267904, "str_pos": 268138, "ptr_pos_hex": "0x41680",
-		// "str_pos_hex": "0x4176a", "table": "normal", ja_text: "<player>「父さん<br> しっかりして！」", en_text: "test string XX"}
-		//#<player>「父さん<br> しっかりして！」
-		//   test string #1253<player>
-
-
-		//       class StringBlock :
-		//""" Basic data for script blocks: description of string block,
-
-		//      def __init__(self, pc= None, abs_offset= None, table= None, redirect= False):
-
-		//      self.prefix = pc
-		//      self.pc_hex = f'0x{pc:00x}'
-		//      self.abs_offset = abs_offset
-		//      self.abs_offset_hex = f'0x{abs_offset:00x}'
-		//      self.table = table
-		//      self.redirect = redirect
-		//      self.ja_text = None
-		//      self.en_text = None
-
 		public class ScriptString
         {
 			public uint str_num;
@@ -58,7 +45,9 @@ namespace script_editor
 			public uint str_pos;
 			public string table;
 			public bool repoint;
+			[JsonIgnore]
 			public string ja_text;
+			[JsonIgnore]
 			public string en_text;
 			public ScriptString(uint StrNum, string Prefix, uint PtrPos, uint StrPos, string Table, bool Repoint)
             {
@@ -69,12 +58,12 @@ namespace script_editor
 				table = Table;
 				repoint = Repoint;
 			}
-        }
+		}
 
-		IDictionary<uint, ScriptString> stringList = new Dictionary<uint, ScriptString>();
+        // list of strings from script, keyed by str_num
+        readonly IDictionary<uint, ScriptString> stringList = new Dictionary<uint, ScriptString>();
 
-
-		private void Button_OpenFile(object sender, RoutedEventArgs e)
+        private void Button_OpenFile(object sender, RoutedEventArgs e)
 		{
 			string line;
 			var stringIDList = new List<uint>();
@@ -83,59 +72,155 @@ namespace script_editor
 			if (openFileDialog.ShowDialog() == System.Windows.Forms.DialogResult.OK)
 			{
 
-				//ja_textbox.Text = File.ReadAllText(openFileDialog.FileName);
-				scriptPath.Text = openFileDialog.FileName;
-				// stringList.ItemsSource = new String[] { "a", "b", "c" };
+                //ja_textbox.Text = File.ReadAllText(openFileDialog.FileName);
+                scriptPath.Text = openFileDialog.FileName;
+				
+				// this should be a function "parseScriptFile" or something.
 				System.IO.StreamReader file = new System.IO.StreamReader(openFileDialog.FileName);
+				ScriptString currentString = null;
+				EN_textbox.Text = "";
+				ja_textbox.Text = "";
+
 				while ((line = file.ReadLine()) != null)
                 {
-					if (line.StartsWith("{"))
-                    {
-						
-                        ScriptString foo = JsonConvert.DeserializeObject<ScriptString>(line);
-						// en_textbox.Text += foo.str_num + "\n";
-						string ja_line = file.ReadLine();
-						if (ja_line.StartsWith("#") )
+					if (line.Length > 0)
+					{
+						if (line.StartsWith("{"))
 						{
-							foo.ja_text = ja_line[1..];
-                        }
-						if (!foo.repoint)
-                        {
-							stringIDList.Add(foo.str_num);
-							stringList[foo.str_num] = foo;
+							if (currentString != null && !currentString.repoint)
+							{
+								stringIDList.Add(currentString.str_num);
+								stringList[currentString.str_num] = currentString;
+							}
+
+							currentString = JsonConvert.DeserializeObject<ScriptString>(line);
+							// en_textbox.Text += currentString.str_num + "\n";
 						}
+						else if (line.StartsWith("#") && currentString != null)
+						{
+							if (!String.IsNullOrEmpty(currentString.ja_text))
+							{
+								currentString.ja_text += "\n";
+							}
+							currentString.ja_text += line[1..].Replace("<br>", "<br>\n").TrimEnd();
+						}
+						else if (currentString != null)
+                        {
+							if (!String.IsNullOrEmpty(currentString.en_text))
+							{
+								currentString.en_text += "\n";
+							}
+								currentString.en_text += line;
+                        }
+
 					}
                 }
-				
 			}
 			stringSelector.ItemsSource = stringIDList;
+			stringSelector.SelectedItem = stringSelector.Items.GetItemAt(0);
+
 		}
 
 		private void Button_SaveFile(object sender, RoutedEventArgs e)
 		{
-			SaveFileDialog saveFileDialog = new SaveFileDialog();
-			// saveFileDialog.FileName = "Document"; // Default file name
-			saveFileDialog.DefaultExt = ".txt"; // Default file extension
-			saveFileDialog.Filter = "Text documents (.txt)|*.txt"; // Filter files by extension
-			if (saveFileDialog.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+            SaveFileDialog saveFileDialog = new SaveFileDialog
+            {
+                // saveFileDialog.FileName = "Document"; // Default file name
+                DefaultExt = ".txt", // Default file extension
+                Filter = "Text documents (.txt)|*.txt" // Filter files by extension
+            };
+            if (saveFileDialog.ShowDialog() == System.Windows.Forms.DialogResult.OK)
 			{
-				msgbox.Text = "Saved, I guess.";
 				string fn = saveFileDialog.FileName;
+				(new FileStream(fn, FileMode.Truncate)).Close();
+				using (StreamWriter sw = File.AppendText(fn))
+				{
+					foreach (ScriptString script_string in stringList.Values)
+					{
+						string json_string = JsonConvert.SerializeObject(script_string);
+						sw.WriteLine(json_string);
+						sw.WriteLine("# " + script_string.ja_text.Replace("\n", "\n# "));
+						// sw.WriteLine(script_string.en_text);
+						sw.WriteLine("\n");
+
+					}
+				}
+
 				//File.WriteAllText(fn, txtEditor.Text);
 			}
 		}
 
-		private void ListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+		private void EN_textbox_KeyDown(object sender, KeyEventArgs e)
+		{
+			// make this switch/case
+			if ((Keyboard.Modifiers & ModifierKeys.Control) > 0)
+			{
+				switch(e.Key)
+                {
+					case Key.D1:
+						EN_textbox.Text += "<player>";
+						EN_textbox.Select(EN_textbox.Text.Length, 0);
+						break;
+                    case Key.D2:
+						EN_textbox.Text += "<pc_itm>";
+						EN_textbox.Select(EN_textbox.Text.Length, 0);
+						break;
+					case Key.D3:
+						EN_textbox.Text += "<val>";
+						EN_textbox.Select(EN_textbox.Text.Length, 0);
+						break;
+					case Key.D4:
+						EN_textbox.Text += "<npc1>";
+						EN_textbox.Select(EN_textbox.Text.Length, 0);
+						break;
+					case Key.Return:
+						stringSelector.SelectedItem = stringSelector.Items.GetItemAt(stringSelector.SelectedIndex+1);
+						break;
+					
+
+				}
+			}
+		}
+		public ScriptString selectedString;
+		private void ListBox_SelectionChanged(object sender, System.EventArgs e)
 		{
 			uint selectedID;
 			// sender.id read ID from list -> populate english and japanese textbox
 			//en_textbox.Text = ((System.Windows.Controls.ListBox)sender).SelectedItem.ToString();
 
 			selectedID = (uint) ((System.Windows.Controls.ListBox)sender).SelectedItem;
-			ja_textbox.Text = stringList[selectedID].ja_text;
-            en_textbox.Text = stringList[selectedID].en_text;
+			selectedString = stringList[selectedID];
+			ja_textbox.Text = selectedString.ja_text;
+			EN_textbox.Text = selectedString.en_text;
+			
+			ja_textbox.IsEnabled = true;
+			EN_textbox.IsEnabled = true;
+
+			PointerOffset.Text = $"0x{selectedString.ptr_pos:X}";
+			StringOffset.Text = $"0x{selectedString.str_pos:X}";
+			if (selectedString.table == "normal")
+            {
+				NormalRB.IsChecked = true;
+            }
+			else
+            {
+				MenuRB.IsChecked = true;
+            }
+		
+		}
+
+        
+		private void RadioButton_Checked(object sender, RoutedEventArgs e)
+        {
+			//scriptPath.Text = ((System.Windows.Controls.RadioButton)sender).Content.ToString().ToLower();
+			selectedString.table = ((System.Windows.Controls.RadioButton)sender).Content.ToString().ToLower();
 
 		}
 
-	}
+        private void EN_textbox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+			TextBox enTextbox = (TextBox) sender;
+			selectedString.en_text = enTextbox.Text;
+        }
+    }
 }

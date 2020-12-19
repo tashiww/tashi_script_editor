@@ -5,19 +5,141 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:script_editor"
         mc:Ignorable="d"
-        Title="tashi script editor" Height="450" Width="800">
-	<Grid>
-		<TextBlock HorizontalAlignment="Left" Margin="22,22,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="Hello, choose a "/><Run Language="en-US" Text="script file to edit:"/></TextBlock>
-		<TextBox Name="scriptPath" HorizontalAlignment="Left" Margin="22,47,0,0" Text="path to script file..." TextWrapping="Wrap" VerticalAlignment="Top" Width="389" FontStyle="Italic" Foreground="#FF5B5151"/>
-		<TextBox Name="ja_textbox" TextWrapping="Wrap" Margin="209,131,376,131" VerticalScrollBarVisibility="Visible" />
-		<Button Content="Open File" HorizontalAlignment="Left" Margin="209,20,0,0" VerticalAlignment="Top" Width="79" Click="Button_OpenFile"/>
-		<Button Content="Save File" HorizontalAlignment="Left" Margin="325,20,0,0" VerticalAlignment="Top" Width="86" Click="Button_SaveFile"/>
-		<TextBlock Name="msgbox" HorizontalAlignment="Left" Margin="449,22,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="215" Text=""/>
-		<ListBox Name="stringSelector" Margin="22,131,620,45" SelectionChanged="ListBox_SelectionChanged"/>
-		<TextBox Name="en_textbox" TextWrapping="Wrap" Margin="516,131,69,131" VerticalScrollBarVisibility="Visible" />
-		<TextBlock HorizontalAlignment="Left" Margin="266,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="82"><Run Language="ja-jp" Text="Japanese"/></TextBlock>
-		<TextBlock HorizontalAlignment="Left" Margin="582,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="82"><Run Language="ja-jp" Text="English"/></TextBlock>
-		<TextBlock HorizontalAlignment="Left" Margin="60,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="82"><Run Language="ja-jp" Text="Select String"/></TextBlock>
+        Title="tashi script editor" Height="607" Width="996">
+    <Window.Resources>
+        <Color x:Key="darkmode_fg1">#FFCCC1C1</Color>
+        <Color x:Key="darkmode_bg1">#FF34283C</Color>
+        <!--
+        <local:TextboxSizer x:Key="TextboxSizer" />
+        -->
+    </Window.Resources>
+    <Grid Margin="0,0,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="201"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="86.104"/>
+            <RowDefinition Height="103.124"/>
+            <RowDefinition Height="77*"/>
+            <RowDefinition Height="92*"/>
+            <RowDefinition Height="62.075"/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF282429"/>
+                <GradientStop Color="#FF3E3E3E" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <TextBlock HorizontalAlignment="Left" Margin="22,22,0,0" TextWrapping="Wrap" VerticalAlignment="Top">
+            <TextBlock.Foreground>
+                <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
+            </TextBlock.Foreground><Run Text="Hello, choose a "/><Run Language="en-US" Text="script file to edit:"/></TextBlock>
+        <TextBox Name="scriptPath" HorizontalAlignment="Left" Margin="22,47,0,0" Text="path to script file..." TextWrapping="Wrap" VerticalAlignment="Top" Width="389" FontStyle="Italic" BorderBrush="#FF404F80" IsEnabled="False" Grid.ColumnSpan="2">
+            <TextBox.Background>
+                <SolidColorBrush Color="{DynamicResource darkmode_bg1}"/>
+            </TextBox.Background>
+            <TextBox.Foreground>
+                <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
+            </TextBox.Foreground>
+        </TextBox>
+        <Label FontSize="16" FontWeight="Bold" Width="757" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Japanese / Comments" Margin="8,6,0,0" Grid.Row="2" Grid.Column="1">
+            <Label.Foreground>
+                <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
+            </Label.Foreground>
+        </Label>
+        <TextBox x:Name="EN_textbox" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible" KeyDown="EN_textbox_KeyDown" FontSize="18" VerticalContentAlignment="Stretch" HorizontalContentAlignment="Stretch" Margin="10,61,30,19" Grid.Row="3" Grid.Column="1" TextChanged="EN_textbox_TextChanged" IsEnabled="False" >
+            <TextBox.Foreground>
+                <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
+            </TextBox.Foreground>
+            <TextBox.Background>
+                <SolidColorBrush Color="{DynamicResource darkmode_bg1}"/>
+            </TextBox.Background>
+        </TextBox>
+        <Button Content="Open File" HorizontalAlignment="Left" Margin="8,20,0,0" VerticalAlignment="Top" Width="79" Click="Button_OpenFile" Grid.Column="1"/>
+        <Button Content="Save File" HorizontalAlignment="Left" Margin="124,20,0,0" VerticalAlignment="Top" Width="86" Click="Button_SaveFile" Grid.Column="1"/>
+        <ListBox Name="stringSelector" Margin="22,27,0,22" SelectionChanged="ListBox_SelectionChanged" Width="150" HorizontalAlignment="Left" Grid.Row="1" Grid.RowSpan="4">
+            <ListBox.Foreground>
+                <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
+            </ListBox.Foreground>
+            <ListBox.Background>
+                <SolidColorBrush Color="{DynamicResource darkmode_bg1}"/>
+            </ListBox.Background>
+        </ListBox>
 
-	</Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="22,6,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" FontSize="16" FontWeight="Bold" TextAlignment="Center" Grid.Row="1">
+            <TextBlock.Foreground>
+                <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
+            </TextBlock.Foreground><Run Language="ja-jp" Text="Select String"/></TextBlock>
+        <StackPanel Orientation="Horizontal" MinHeight="30" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" MaxHeight="30" Margin="379,57,0,0" Grid.Row="1" Grid.Column="1">
+            <RadioButton Name="NormalRB" GroupName="Table" Content="Normal" HorizontalAlignment="Stretch" Checked="RadioButton_Checked" FontSize="18" VerticalAlignment="Stretch" VerticalContentAlignment="Center" MinHeight="30" IsTabStop="False">
+                <RadioButton.Foreground>
+                    <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
+                </RadioButton.Foreground>
+            </RadioButton>
+            <RadioButton Name="MenuRB" GroupName="Table" Content="Menu" Checked="RadioButton_Checked" Margin="20,0,0,0" FontSize="18" VerticalContentAlignment="Center" MinHeight="30" IsTabStop="False">
+                <RadioButton.Foreground>
+                    <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
+                </RadioButton.Foreground>
+            </RadioButton>
+        </StackPanel>
+        <TextBox Name="PointerOffset" HorizontalAlignment="Left" Margin="8,56,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="159" Height="32" FontSize="18" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Grid.Row="1" Grid.Column="1" IsEnabled="False" IsTabStop="False">
+            <TextBox.Background>
+                <SolidColorBrush Color="{DynamicResource darkmode_bg1}"/>
+            </TextBox.Background>
+            <TextBox.Foreground>
+                <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
+            </TextBox.Foreground>
+        </TextBox>
+        <Label Content="Pointer Offset" HorizontalAlignment="Left" Margin="8,17,0,0" VerticalAlignment="Top" Width="159" FontWeight="Bold" FontSize="18" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Grid.Row="1" Grid.Column="1">
+            <Label.Foreground>
+                <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
+            </Label.Foreground>
+        </Label>
+        <TextBox Name="StringOffset" HorizontalAlignment="Left" Margin="184,56,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="159" Height="32" FontSize="18" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Grid.Row="1" Grid.Column="1" IsEnabled="False" IsTabStop="False">
+            <TextBox.Background>
+                <SolidColorBrush Color="{DynamicResource darkmode_bg1}"/>
+            </TextBox.Background>
+            <TextBox.Foreground>
+                <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
+            </TextBox.Foreground>
+        </TextBox>
+        <Label Content="String Offset" HorizontalAlignment="Left" Margin="184,17,0,0" VerticalAlignment="Top" Width="159" FontWeight="Bold" FontSize="18" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Grid.Row="1" Grid.Column="1">
+            <Label.Foreground>
+                <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
+            </Label.Foreground>
+        </Label>
+        <Label Content="Table" HorizontalAlignment="Left" Margin="371,17,0,0" VerticalAlignment="Top" Width="179" FontWeight="Bold" HorizontalContentAlignment="Center" FontSize="18" Grid.Row="1" Grid.Column="1">
+            <Label.Foreground>
+                <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
+            </Label.Foreground>
+        </Label>
+        <Label Content="Keyboard Shortcuts:&#xA;CTRL+#:&#x9;1=&lt;player&gt; 2=&lt;pc__itm&gt; 3=&lt;val&gt; 4=&lt;npc1&gt;. CTRL+Enter advances to the next string." HorizontalAlignment="Left" VerticalAlignment="Center" Height="62" Width="768" Grid.Row="4" Grid.Column="1">
+            <Label.Foreground>
+                <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
+            </Label.Foreground>
+        </Label>
+        <Label FontSize="16" FontWeight="Bold" Padding="0,20,0,0" Content="English" Margin="10,10,27,0" Height="46" VerticalAlignment="Top" Grid.Row="3" Grid.Column="1">
+            <Label.Foreground>
+                <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
+            </Label.Foreground>
+        </Label>
+        <TextBox x:Name="ja_textbox" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible" FontSize="18" RenderTransformOrigin="0.5,0.5" Margin="10,43,30,11" Grid.Row="2" Grid.Column="1" IsEnabled="False" >
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+            <TextBox.Foreground>
+                <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
+            </TextBox.Foreground>
+            <TextBox.Background>
+                <SolidColorBrush Color="{DynamicResource darkmode_bg1}"/>
+            </TextBox.Background>
+        </TextBox>
+
+    </Grid>
 </Window>
