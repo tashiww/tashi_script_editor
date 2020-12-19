@@ -1,0 +1,23 @@
+﻿<Window x:Class="script_editor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:script_editor"
+        mc:Ignorable="d"
+        Title="tashi script editor" Height="450" Width="800">
+	<Grid>
+		<TextBlock HorizontalAlignment="Left" Margin="22,22,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="Hello, choose a "/><Run Language="en-US" Text="script file to edit:"/></TextBlock>
+		<TextBox Name="scriptPath" HorizontalAlignment="Left" Margin="22,47,0,0" Text="path to script file..." TextWrapping="Wrap" VerticalAlignment="Top" Width="389" FontStyle="Italic" Foreground="#FF5B5151"/>
+		<TextBox Name="ja_textbox" TextWrapping="Wrap" Margin="209,131,376,131" VerticalScrollBarVisibility="Visible" />
+		<Button Content="Open File" HorizontalAlignment="Left" Margin="209,20,0,0" VerticalAlignment="Top" Width="79" Click="Button_OpenFile"/>
+		<Button Content="Save File" HorizontalAlignment="Left" Margin="325,20,0,0" VerticalAlignment="Top" Width="86" Click="Button_SaveFile"/>
+		<TextBlock Name="msgbox" HorizontalAlignment="Left" Margin="449,22,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="215" Text=""/>
+		<ListBox Name="stringSelector" Margin="22,131,620,45" SelectionChanged="ListBox_SelectionChanged"/>
+		<TextBox Name="en_textbox" TextWrapping="Wrap" Margin="516,131,69,131" VerticalScrollBarVisibility="Visible" />
+		<TextBlock HorizontalAlignment="Left" Margin="266,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="82"><Run Language="ja-jp" Text="Japanese"/></TextBlock>
+		<TextBlock HorizontalAlignment="Left" Margin="582,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="82"><Run Language="ja-jp" Text="English"/></TextBlock>
+		<TextBlock HorizontalAlignment="Left" Margin="60,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="82"><Run Language="ja-jp" Text="Select String"/></TextBlock>
+
+	</Grid>
+</Window>
