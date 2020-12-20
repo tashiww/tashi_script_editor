@@ -58,7 +58,7 @@
         </TextBox>
         <Button Content="Open File" HorizontalAlignment="Left" Margin="8,20,0,0" VerticalAlignment="Top" Width="79" Click="Button_OpenFile" Grid.Column="1"/>
         <Button Content="Save File" HorizontalAlignment="Left" Margin="124,20,0,0" VerticalAlignment="Top" Width="86" Click="Button_SaveFile" Grid.Column="1"/>
-        <ListBox Name="stringSelector" Margin="22,27,0,22" SelectionChanged="ListBox_SelectionChanged" Width="150" HorizontalAlignment="Left" Grid.Row="1" Grid.RowSpan="4">
+        <ListBox  Name="stringSelector" Margin="22,27,0,22" SelectionChanged="ListBox_SelectionChanged" Width="150" HorizontalAlignment="Left" Grid.Row="1" Grid.RowSpan="4">
             <ListBox.Foreground>
                 <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
             </ListBox.Foreground>

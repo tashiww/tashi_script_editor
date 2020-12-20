@@ -123,10 +123,13 @@ namespace script_editor
 				stringList[currentString.str_num] = currentString;
 			}
 			stringSelector.ItemsSource = stringIDList;
+			
 			if (stringIDList.Count > 0)
 			{
 				stringSelector.SelectedItem = stringSelector.Items.GetItemAt(0);
+
 			}
+
 		}
 
 		private void Button_SaveFile(object sender, RoutedEventArgs e)
@@ -141,21 +144,19 @@ namespace script_editor
 			{
 				string fn = saveFileDialog.FileName;
 				(new FileStream(fn, FileMode.Truncate)).Close();
-				using (StreamWriter sw = File.AppendText(fn))
-				{
-					foreach (ScriptString script_string in stringList.Values)
-					{
-						string json_string = JsonConvert.SerializeObject(script_string);
-						sw.WriteLine(json_string);
-						sw.WriteLine("# " + script_string.ja_text.Replace("\n", "\n# "));
-						sw.WriteLine(script_string.en_text);
-						sw.WriteLine("\n");
+                using StreamWriter sw = File.AppendText(fn);
+                foreach (ScriptString script_string in stringList.Values)
+                {
+                    string json_string = JsonConvert.SerializeObject(script_string);
+                    sw.WriteLine(json_string);
+                    sw.WriteLine("# " + script_string.ja_text.Replace("\n", "\n# "));
+                    sw.WriteLine(script_string.en_text);
+                    sw.WriteLine("\n");
 
-					}
-				}
+                }
 
-				//File.WriteAllText(fn, txtEditor.Text);
-			}
+                //File.WriteAllText(fn, txtEditor.Text);
+            }
 		}
 
 		private void EN_textbox_KeyDown(object sender, KeyEventArgs e)
@@ -214,6 +215,8 @@ namespace script_editor
 				}
 			}
 		}
+
+
 		public ScriptString selectedString;
 		private void ListBox_SelectionChanged(object sender, System.EventArgs e)
 		{
@@ -247,10 +250,32 @@ namespace script_editor
             {
 				MenuRB.IsChecked = true;
             }
-		
+
+			stringSelector.ScrollIntoView(selectedID);
+			HighlightTranslated();
+
+
 		}
 
-        
+        private void HighlightTranslated()
+        {
+			for (int i = 0; i < stringSelector.Items.Count; i++)
+			{
+				uint stringID = (uint)stringSelector.Items[i];
+				bool translated = !String.IsNullOrEmpty(stringList[stringID].en_text);
+
+				if (translated)
+				{
+					ListBoxItem li = (ListBoxItem)stringSelector.ItemContainerGenerator.ContainerFromIndex(i);
+					if (li != null)
+					{
+						var tledColor = (SolidColorBrush)(new BrushConverter().ConvertFrom("#FF2C3E40"));
+						li.Background = tledColor;
+
+					}
+				}
+			}
+		}
 		private void RadioButton_Checked(object sender, RoutedEventArgs e)
         {
 			//scriptPath.Text = ((System.Windows.Controls.RadioButton)sender).Content.ToString().ToLower();
