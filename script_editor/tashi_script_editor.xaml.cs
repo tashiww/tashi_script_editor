@@ -68,7 +68,11 @@ namespace script_editor
 			string line;
 			var stringIDList = new List<uint>();
 
-			OpenFileDialog openFileDialog = new OpenFileDialog();
+			OpenFileDialog openFileDialog = new OpenFileDialog()
+			{
+				Filter = "Text documents (.txt)|*.txt" // Filter files by extension
+            };
+
 			if (openFileDialog.ShowDialog() == System.Windows.Forms.DialogResult.OK)
 			{
 
@@ -79,7 +83,7 @@ namespace script_editor
 				System.IO.StreamReader file = new System.IO.StreamReader(openFileDialog.FileName);
 				ScriptString currentString = null;
 				EN_textbox.Text = "";
-				ja_textbox.Text = "";
+				JA_textbox.Text = "";
 
 				while ((line = file.ReadLine()) != null)
                 {
@@ -115,10 +119,14 @@ namespace script_editor
 
 					}
                 }
+				stringIDList.Add(currentString.str_num);
+				stringList[currentString.str_num] = currentString;
 			}
 			stringSelector.ItemsSource = stringIDList;
-			stringSelector.SelectedItem = stringSelector.Items.GetItemAt(0);
-
+			if (stringIDList.Count > 0)
+			{
+				stringSelector.SelectedItem = stringSelector.Items.GetItemAt(0);
+			}
 		}
 
 		private void Button_SaveFile(object sender, RoutedEventArgs e)
@@ -177,6 +185,26 @@ namespace script_editor
 						EN_textbox.Text += "<scroll>";
 						EN_textbox.Select(EN_textbox.Text.Length, 0);
 						break;
+					case Key.PageUp:
+						if (stringSelector.SelectedIndex > 0)
+						{
+							stringSelector.SelectedIndex -= 1;
+						}
+						else
+                        {
+							stringSelector.SelectedIndex = stringSelector.Items.Count-1;
+                        }
+						break;
+					case Key.PageDown:
+						if (stringSelector.SelectedIndex < stringSelector.Items.Count-1)
+                        {
+							stringSelector.SelectedIndex += 1;
+                        }
+						else
+                        {
+							stringSelector.SelectedIndex = 0;
+                        }
+						break;
 
 					case Key.Return:
 						stringSelector.SelectedItem = stringSelector.Items.GetItemAt(stringSelector.SelectedIndex+1);
@@ -195,14 +223,22 @@ namespace script_editor
 
 			selectedID = (uint) ((System.Windows.Controls.ListBox)sender).SelectedItem;
 			selectedString = stringList[selectedID];
-			ja_textbox.Text = selectedString.ja_text;
+			JA_textbox.Text = selectedString.ja_text;
 			EN_textbox.Text = selectedString.en_text;
 			
-			ja_textbox.IsEnabled = true;
+			JA_textbox.IsEnabled = true;
 			EN_textbox.IsEnabled = true;
 
 			PointerOffset.Text = $"0x{selectedString.ptr_pos:X}";
 			StringOffset.Text = $"0x{selectedString.str_pos:X}";
+
+			int stringCount = stringList.Count;
+			var matches = stringList.Where(pair => pair.Value.en_text != null).Select(pair => pair.Key);
+            int tledCount = matches.Count();
+			float completionPercent = (float)tledCount / (float)stringCount;
+
+			Progress.Text = $"{tledCount} / {stringCount}  {completionPercent:P2}";
+
 			if (selectedString.table == "normal")
             {
 				NormalRB.IsChecked = true;
@@ -227,5 +263,11 @@ namespace script_editor
 			TextBox enTextbox = (TextBox) sender;
 			selectedString.en_text = enTextbox.Text;
         }
+
+        private void JA_textbox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+			TextBox jaTextbox = (TextBox)sender;
+			selectedString.ja_text = jaTextbox.Text;
+		}
     }
 }

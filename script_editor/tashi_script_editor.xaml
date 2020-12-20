@@ -124,7 +124,7 @@
                 <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
             </Label.Foreground>
         </Label>
-        <TextBox x:Name="ja_textbox" AcceptsReturn="True" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible" FontSize="18" RenderTransformOrigin="0.5,0.5" Margin="10,43,30,11" Grid.Row="2" Grid.Column="1" IsEnabled="False" >
+        <TextBox x:Name="JA_textbox" AcceptsReturn="True" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible" FontSize="18" RenderTransformOrigin="0.5,0.5" Margin="10,43,30,11" Grid.Row="2" Grid.Column="1" IsEnabled="False" TextChanged="JA_textbox_TextChanged" >
             <TextBox.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform ScaleY="1"/>
@@ -139,6 +139,19 @@
             <TextBox.Background>
                 <SolidColorBrush Color="{DynamicResource darkmode_bg1}"/>
             </TextBox.Background>
+        </TextBox>
+        <Label Content="Progress" HorizontalAlignment="Left" Margin="577,17,0,0" VerticalAlignment="Top" Width="188" FontWeight="Bold" FontSize="18" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Grid.Row="1" Grid.Column="1">
+            <Label.Foreground>
+                <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
+            </Label.Foreground>
+        </Label>
+        <TextBox x:Name="Progress" HorizontalAlignment="Left" Margin="577,56,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="188" Height="32" FontSize="18" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Grid.Row="1" Grid.Column="1" IsEnabled="False" IsTabStop="False">
+            <TextBox.Background>
+                <SolidColorBrush Color="{DynamicResource darkmode_bg1}"/>
+            </TextBox.Background>
+            <TextBox.Foreground>
+                <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
+            </TextBox.Foreground>
         </TextBox>
 
     </Grid>
