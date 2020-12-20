@@ -140,7 +140,7 @@ namespace script_editor
 						string json_string = JsonConvert.SerializeObject(script_string);
 						sw.WriteLine(json_string);
 						sw.WriteLine("# " + script_string.ja_text.Replace("\n", "\n# "));
-						// sw.WriteLine(script_string.en_text);
+						sw.WriteLine(script_string.en_text);
 						sw.WriteLine("\n");
 
 					}
