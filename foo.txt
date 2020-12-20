@@ -1,0 +1,7538 @@
+{"str_num":5,"prefix":"0x41f9","ptr_pos":44552,"str_pos":127954,"table":"normal","repoint":false}
+# <pc_itm>のHPが<br>
+# <val>かいふくした。
+<pc_itm> healed <val> HP.
+
+
+{"str_num":6,"prefix":"0x41f9","ptr_pos":44564,"str_pos":127902,"table":"normal","repoint":false}
+# こうかが，なかった。
+# REJK!こJう/?
+# if the second line is right, change 'table' to 'menu'
+There was no effect.
+
+
+{"str_num":7,"prefix":"0x41f9","ptr_pos":44586,"str_pos":127940,"table":"normal","repoint":false}
+# <pc_itm>は<br>
+# すでに死んでいる。
+<pc_itm> is already dead...
+
+
+{"str_num":8,"prefix":"0x41f9","ptr_pos":44678,"str_pos":128674,"table":"normal","repoint":false}
+# <pc_itm>の<br>
+# MPがかいふくした。
+<pc_itm>'s MP was restored.
+
+
+{"str_num":11,"prefix":"0x41f9","ptr_pos":44792,"str_pos":127914,"table":"normal","repoint":false}
+# <pc_itm>は，生き返った。
+<pc_itm> came back to life.
+
+
+{"str_num":13,"prefix":"0x41f9","ptr_pos":44876,"str_pos":127988,"table":"normal","repoint":false}
+# <pc_itm>の<br>
+# 体から毒がきえた。
+<pc_itm> is no longer poisoned.
+
+
+{"str_num":15,"prefix":"0x41f9","ptr_pos":44960,"str_pos":128268,"table":"normal","repoint":false}
+# <pc_itm>の石化がとけた。
+<pc_itm> is no longer stoned.
+
+
+{"str_num":17,"prefix":"0x41f9","ptr_pos":45044,"str_pos":128784,"table":"normal","repoint":false}
+# <pc_itm>のマヒがとけた。
+<pc_itm> is no longer paralyzed.
+
+
+{"str_num":22,"prefix":"0x41f9","ptr_pos":49740,"str_pos":128362,"table":"normal","repoint":false}
+# <pc_itm>は<br>
+# 目をさました。
+<pc_itm> woke up.
+
+
+{"str_num":23,"prefix":"0x41f9","ptr_pos":49748,"str_pos":128578,"table":"normal","repoint":false}
+# <pc_itm>は，ねむっいる。
+<pc_itm> is taking a nap.
+
+
+{"str_num":24,"prefix":"0x41f9","ptr_pos":49784,"str_pos":128600,"table":"normal","repoint":false}
+# <pc_itm>は，うごけない。
+<pc_itm> can't move.
+
+
+{"str_num":25,"prefix":"0x41f9","ptr_pos":49838,"str_pos":128234,"table":"normal","repoint":false}
+# <pc_itm>は，<br>
+# うごけるようになった。
+<pc_itm> can move and groove.
+
+
+{"str_num":27,"prefix":"0x41f9","ptr_pos":49904,"str_pos":128732,"table":"normal","repoint":false}
+# <pc_itm>は<br>
+# 混乱している。
+<pc_itm> is confused.
+
+
+{"str_num":28,"prefix":"0x41f9","ptr_pos":50064,"str_pos":127764,"table":"normal","repoint":false}
+# <pc_itm>は<br>
+# みをまもっている。
+<pc_itm> took a defensive stance.
+
+
+{"str_num":29,"prefix":"0x41f9","ptr_pos":50150,"str_pos":127794,"table":"normal","repoint":false}
+# <pc_itm>の攻撃。
+<pc_itm> attacks!
+
+
+{"str_num":30,"prefix":"0x41f9","ptr_pos":50204,"str_pos":128806,"table":"normal","repoint":false}
+# <pc_itm>は，あなにおちた。
+<pc_itm> fell into a hole.
+
+
+{"str_num":31,"prefix":"0x41f9","ptr_pos":50318,"str_pos":52624,"table":"normal","repoint":false}
+# <npc9>は<br>
+# コ―ルドのブレスをはいた。
+<npc9> used Cold Breath.
+
+
+{"str_num":32,"prefix":"0x41f9","ptr_pos":50334,"str_pos":52642,"table":"normal","repoint":false}
+# <npc9>は，火をはいた。
+<npc9> breathed fire.
+
+
+{"str_num":33,"prefix":"0x41f9","ptr_pos":50350,"str_pos":52654,"table":"normal","repoint":false}
+# <npc9>は<br>
+# 精神のブレスをはいた。
+<npc9> used Holy Breath.
+
+
+{"str_num":34,"prefix":"0x41f9","ptr_pos":50972,"str_pos":127638,"table":"normal","repoint":false}
+# 何も，おこらなかった。
+Nothing happened.
+
+
+{"str_num":36,"prefix":"0x41f9","ptr_pos":51138,"str_pos":128374,"table":"normal","repoint":false}
+# <pc_itm><val>は<br>
+# 目をさました。
+<pc_itm><val> woke up!
+
+
+{"str_num":38,"prefix":"0x41f9","ptr_pos":51158,"str_pos":128588,"table":"normal","repoint":false}
+# <pc_itm><val>は，ねむっいる。
+<pc_itm><val> is sleeping.
+
+
+{"str_num":40,"prefix":"0x41f9","ptr_pos":51200,"str_pos":128610,"table":"normal","repoint":false}
+# <pc_itm><val>は，うごけない。
+<pc_itm><val> can't move.
+
+
+{"str_num":42,"prefix":"0x41f9","ptr_pos":51260,"str_pos":128250,"table":"normal","repoint":false}
+# <pc_itm><val>は，<br>
+# うごけるようになった。
+<pc_itm><val> can move again.
+
+
+{"str_num":45,"prefix":"0x41f9","ptr_pos":51380,"str_pos":128332,"table":"normal","repoint":false}
+# <pc_itm>は<br>
+# 正気にかえった。
+<pc_itm> came back to their senses.
+
+
+{"str_num":46,"prefix":"0x41f9","ptr_pos":51388,"str_pos":128346,"table":"normal","repoint":false}
+# <pc_itm><val>は<br>
+# 正気にかえった。
+<pc_itm><val> came back to their senses.
+
+
+{"str_num":47,"prefix":"0x41f9","ptr_pos":51454,"str_pos":128294,"table":"normal","repoint":false}
+# <pc_itm>は<br>
+# 目が見えるようになった。
+<pc_itm> can see again!
+
+
+{"str_num":48,"prefix":"0x41f9","ptr_pos":51462,"str_pos":128312,"table":"normal","repoint":false}
+# <pc_itm><val>は<br>
+# 目が見えるようになった。
+<pc_itm><val> can see again.
+
+
+{"str_num":49,"prefix":"0x41f9","ptr_pos":51832,"str_pos":128704,"table":"normal","repoint":false}
+# <pc_itm>は<br>
+# <pc_itm>を覚えた。
+# {"str_num": 51, "prefix": "0x41f9", "ptr_pos": 56166, "str_pos": 86462, "ptr_pos_hex": "0xdb66", "str_pos_hex": "0x151be", "table": "normal"}
+# ベシヌモベ
+# ルキフェル
+# if the second line is right, change 'table' to 'menu'
+# test string #51
+<pc_itm> learned <pc_itm>.
+
+
+{"str_num":52,"prefix":"0x41f9","ptr_pos":58586,"str_pos":127650,"table":"normal","repoint":false}
+# <pc_itm>に<val>の<br>
+# ダメ―ジをあたえた。
+<pc_itm> took <val> damage.
+
+
+{"str_num":53,"prefix":"0x41f9","ptr_pos":58594,"str_pos":127668,"table":"normal","repoint":false}
+# <pc_itm><val>に<val>の<br>
+# ダメ―ジをあたえた。
+<pc_itm><val> took <val> damage.
+
+
+{"str_num":54,"prefix":"0x41f9","ptr_pos":58602,"str_pos":127736,"table":"normal","repoint":false}
+# <pc_itm>は<val>の<br>
+# ダメ―ジをうけた。
+<pc_itm> received <val> damage.
+
+
+{"str_num":55,"prefix":"0x41f9","ptr_pos":58640,"str_pos":127706,"table":"normal","repoint":false}
+# ダメ―ジをあたえられない。
+# タゥ%クぁA/GるわこC?
+# if the second line is right, change 'table' to 'menu'
+It didn't do any damage.
+
+
+{"str_num":56,"prefix":"0x41f9","ptr_pos":58648,"str_pos":127720,"table":"normal","repoint":false}
+# <pc_itm>はダメ―ジを<br>
+# うけなかった。
+<pc_itm> didn't take any damage.
+
+
+{"str_num":57,"prefix":"0x41f9","ptr_pos":58726,"str_pos":127688,"table":"normal","repoint":false}
+# <pc_itm>をたおした。
+<pc_itm> was defeated.
+
+
+{"str_num":58,"prefix":"0x41f9","ptr_pos":58734,"str_pos":127696,"table":"normal","repoint":false}
+# <pc_itm><val>をたおした。
+<pc_itm><val> was defeated.
+
+
+{"str_num":59,"prefix":"0x41f9","ptr_pos":58742,"str_pos":127752,"table":"normal","repoint":false}
+# <pc_itm>は死んでしまった。
+<pc_itm> has left this mortal coil.
+
+
+{"str_num":60,"prefix":"0x41f9","ptr_pos":58780,"str_pos":128622,"table":"normal","repoint":false}
+# <pc_itm>は<br>
+# 攻撃をかわした。
+<pc_itm> dodged the attack.
+
+
+{"str_num":61,"prefix":"0x41f9","ptr_pos":58788,"str_pos":128634,"table":"normal","repoint":false}
+# <pc_itm><val>は<br>
+# 攻撃をかわした。
+<pc_itm><val> dodged the attack.
+
+
+{"str_num":63,"prefix":"0x41f9","ptr_pos":59606,"str_pos":127926,"table":"normal","repoint":false}
+# <pc_itm><val>は，生き返った。
+<pc_itm><val> came back to life.
+
+
+{"str_num":66,"prefix":"0x41f9","ptr_pos":59692,"str_pos":128002,"table":"normal","repoint":false}
+# <pc_itm><val>の<br>
+# 体から毒がきえた。
+<pc_itm><val> is no longer poisoned.
+
+
+{"str_num":69,"prefix":"0x41f9","ptr_pos":59778,"str_pos":128280,"table":"normal","repoint":false}
+# <pc_itm><val>の石化がとけた。
+<pc_itm><val> is no longer stoned.
+
+
+{"str_num":72,"prefix":"0x41f9","ptr_pos":59864,"str_pos":128794,"table":"normal","repoint":false}
+# <pc_itm><val>のマヒがとけた。
+<pc_itm><val> is no longer paralyzed.
+
+
+{"str_num":87,"prefix":"0x41f9","ptr_pos":60288,"str_pos":127970,"table":"normal","repoint":false}
+# <pc_itm><val>のHPが<br>
+# <val>かいふくした。
+<pc_itm><val> healed <val> HP.
+
+
+{"str_num":91,"prefix":"0x41f9","ptr_pos":60400,"str_pos":128688,"table":"normal","repoint":false}
+# <pc_itm><val>の<br>
+# MPがかいふくした。
+<pc_itm><val>'s MP was restored.
+
+
+{"str_num":93,"prefix":"0x41f9","ptr_pos":60480,"str_pos":128544,"table":"normal","repoint":false}
+# <pc_itm>の攻撃力が<br>
+# <val>上がった。
+<pc_itm>'s attack power inceased by <val>.
+
+
+{"str_num":94,"prefix":"0x41f9","ptr_pos":60488,"str_pos":128560,"table":"normal","repoint":false}
+# <pc_itm><val>の攻撃力が<br>
+# <val>上がった。
+<pc_itm><val>'s attack power increased by <val>.
+
+
+{"str_num":96,"prefix":"0x41f9","ptr_pos":60566,"str_pos":127868,"table":"normal","repoint":false}
+# <pc_itm>の攻撃力が<br>
+# <val>下がった。
+<pc_itm>'s attack power went down by <val>.
+
+
+{"str_num":97,"prefix":"0x41f9","ptr_pos":60574,"str_pos":127884,"table":"normal","repoint":false}
+# <pc_itm><val>の攻撃力が<br>
+# <val>下がった。
+<pc_itm><val>'s attack power went down by <val>.
+
+
+{"str_num":99,"prefix":"0x41f9","ptr_pos":60652,"str_pos":127834,"table":"normal","repoint":false}
+# <pc_itm>の防御力が<br>
+# <val>下がった。
+<pc_itm>'s defense went down by <val>.
+
+
+{"str_num":100,"prefix":"0x41f9","ptr_pos":60660,"str_pos":127850,"table":"normal","repoint":false}
+# <pc_itm><val>の防御力が<br>
+# <val>下がった。
+<pc_itm><val>'s defense went down by <val>.
+
+
+{"str_num":102,"prefix":"0x41f9","ptr_pos":60742,"str_pos":128094,"table":"normal","repoint":false}
+# <pc_itm>の素早さが<br>
+# <val>下がった。
+<pc_itm>'s speed went down by <val>.
+
+
+{"str_num":103,"prefix":"0x41f9","ptr_pos":60750,"str_pos":128112,"table":"normal","repoint":false}
+# <pc_itm><val>の素早さが<br>
+# <val>下がった。
+<pc_itm><val>'s speed went down by <val>.
+
+
+{"str_num":106,"prefix":"0x41f9","ptr_pos":65772,"str_pos":128716,"table":"normal","repoint":false}
+# 呪文は，ふうじられている。
+This spell has been blocked.
+
+
+{"str_num":113,"prefix":"0x41f9","ptr_pos":66812,"str_pos":127808,"table":"normal","repoint":false}
+# <pc_itm>は<br>
+# 目がくらんだ。
+<pc_itm> has gone blind!
+
+
+{"str_num":114,"prefix":"0x41f9","ptr_pos":66820,"str_pos":127820,"table":"normal","repoint":false}
+# <pc_itm><val>は<br>
+# 目がくらんだ。
+<pc_itm><val> has gone blind.
+
+
+{"str_num":126,"prefix":"0x41f9","ptr_pos":68176,"str_pos":128048,"table":"normal","repoint":false}
+# <pc_itm>は<br>
+# 呪文をふうじられた。
+<pc_itm>'s spells have been blocked.
+
+
+{"str_num":127,"prefix":"0x41f9","ptr_pos":68188,"str_pos":128018,"table":"normal","repoint":false}
+# <pc_itm>の<br>
+# 呪文をふうじた。
+<pc_itm>'s spells were blocked.2
+
+
+{"str_num":128,"prefix":"0x41f9","ptr_pos":68196,"str_pos":128032,"table":"normal","repoint":false}
+# <pc_itm><val>の<br>
+# 呪文をふうじた。
+<pc_itm><val>'s spells were blocked.
+
+
+{"str_num":130,"prefix":"0x41f9","ptr_pos":68334,"str_pos":128064,"table":"normal","repoint":false}
+# <pc_itm>は<br>
+# 毒におかされた。
+<pc_itm> was beset by poison.
+
+
+{"str_num":131,"prefix":"0x41f9","ptr_pos":68342,"str_pos":128078,"table":"normal","repoint":false}
+# <pc_itm><val>は<br>
+# 毒におかされた。
+<pc_itm><val> was beset by poison.
+
+
+{"str_num":132,"prefix":"0x41f9","ptr_pos":68540,"str_pos":128132,"table":"normal","repoint":false}
+# <pc_itm>の素早さが<br>
+# <val>上がった。
+<pc_itm>'s speed went up by <val>.
+
+
+{"str_num":133,"prefix":"0x41f9","ptr_pos":68548,"str_pos":128150,"table":"normal","repoint":false}
+# <pc_itm><val>の素早さが<br>
+# <val>上がった。
+<pc_itm><val>'s speed went up by <val>.
+
+
+{"str_num":139,"prefix":"0x41f9","ptr_pos":68920,"str_pos":128170,"table":"normal","repoint":false}
+# <pc_itm>の防御力が<br>
+# <val>上がった。
+<pc_itm>'s defense went up by <val>.
+
+
+{"str_num":140,"prefix":"0x41f9","ptr_pos":68928,"str_pos":128186,"table":"normal","repoint":false}
+# <pc_itm><val>の防御力が<br>
+# <val>上がった。
+<pc_itm><val>'s defense went up by <val>.
+
+
+{"str_num":142,"prefix":"0x41f9","ptr_pos":69098,"str_pos":128204,"table":"normal","repoint":false}
+# <pc_itm>は<br>
+# うごけなくなった。
+<pc_itm> can't move!
+
+
+{"str_num":143,"prefix":"0x41f9","ptr_pos":69106,"str_pos":128218,"table":"normal","repoint":false}
+# <pc_itm><val>は<br>
+# うごけなくなった。
+<pc_itm><val> can't move!
+
+
+{"str_num":145,"prefix":"0x41f9","ptr_pos":69236,"str_pos":128414,"table":"normal","repoint":false}
+# <pc_itm>の<br>
+# 魔法防御力が上がった。
+<pc_itm>'s magic defense increased.
+
+
+{"str_num":146,"prefix":"0x41f9","ptr_pos":69244,"str_pos":128432,"table":"normal","repoint":false}
+# <pc_itm><val>の<br>
+# 魔法防御力が上がった。
+<pc_itm><val>'s magic defense increased.
+
+
+{"str_num":148,"prefix":"0x41f9","ptr_pos":69354,"str_pos":128388,"table":"normal","repoint":false}
+# <pc_itm>は，石化した。
+<pc_itm> turned to stone.
+
+
+{"str_num":149,"prefix":"0x41f9","ptr_pos":69362,"str_pos":128400,"table":"normal","repoint":false}
+# <pc_itm><val>は，石化した。
+<pc_itm><val> turned to stone.
+
+
+{"str_num":154,"prefix":"0x41f9","ptr_pos":69652,"str_pos":128452,"table":"normal","repoint":false}
+# <pc_itm>は，混乱した。
+<pc_itm> is confused.
+
+
+{"str_num":155,"prefix":"0x41f9","ptr_pos":69660,"str_pos":128464,"table":"normal","repoint":false}
+# <pc_itm><val>は，混乱した。
+<pc_itm><val> is confused.
+
+
+{"str_num":157,"prefix":"0x41f9","ptr_pos":69812,"str_pos":128478,"table":"normal","repoint":false}
+# <pc_itm>を，ねむらせた。
+<pc_itm> was put to sleep.
+
+
+{"str_num":158,"prefix":"0x41f9","ptr_pos":69820,"str_pos":128488,"table":"normal","repoint":false}
+# <pc_itm><val>を，ねむらせた。
+<pc_itm><val> was put to sleep.
+
+
+{"str_num":159,"prefix":"0x41f9","ptr_pos":69828,"str_pos":128500,"table":"normal","repoint":false}
+# <pc_itm>は，ねむってしまった。
+<pc_itm> is taking a nap.
+
+
+{"str_num":161,"prefix":"0x41f9","ptr_pos":69974,"str_pos":128514,"table":"normal","repoint":false}
+# <pc_itm>は<br>
+# きょうふをおぼえた。
+<pc_itm> is terrified.
+
+
+{"str_num":162,"prefix":"0x41f9","ptr_pos":69982,"str_pos":128528,"table":"normal","repoint":false}
+# <pc_itm><val>は<br>
+# きょうふをおぼえた。
+<pc_itm><val> is terrified.
+
+
+{"str_num":191,"prefix":"0x41f9","ptr_pos":84294,"str_pos":128746,"table":"normal","repoint":false}
+# <pc_itm><val>は<br>
+# 混乱している。
+<pc_itm><val> is confused.
+
+
+{"str_num":193,"prefix":"0x41f9","ptr_pos":84400,"str_pos":127778,"table":"normal","repoint":false}
+# <pc_itm><val>は<br>
+# みをまもっている。
+<pc_itm><val> took a defensive stance.
+
+
+{"str_num":195,"prefix":"0x41f9","ptr_pos":84572,"str_pos":128648,"table":"normal","repoint":false}
+# <pc_itm>は<br>
+# かげを攻撃した。
+<pc_itm> attacked the darkness.
+
+
+{"str_num":196,"prefix":"0x41f9","ptr_pos":84582,"str_pos":128660,"table":"normal","repoint":false}
+# <pc_itm><val>は<br>
+# かげを攻撃した。
+<pc_itm><val> attacked the darkness.
+
+
+{"str_num":197,"prefix":"0x41f9","ptr_pos":84640,"str_pos":128818,"table":"normal","repoint":false}
+# <pc_itm>は<br>
+# 自分を攻撃してしまった。
+<pc_itm> attacked themself.
+
+
+{"str_num":198,"prefix":"0x41f9","ptr_pos":84650,"str_pos":128836,"table":"normal","repoint":false}
+# <pc_itm><val>は<br>
+# 自分を攻撃してしまった。
+<pc_itm><val> hurt themself in their confusion.
+
+
+{"str_num":201,"prefix":"0x41f9","ptr_pos":85866,"str_pos":128762,"table":"normal","repoint":false}
+# <pc_itm>は，マヒした。
+<pc_itm> is paralyzed.
+
+
+{"str_num":210,"prefix":"0x27","ptr_pos":139372,"str_pos":2,"table":"normal","repoint":false}
+# 生
+
+
+
+{"str_num":212,"prefix":"0x7","ptr_pos":145410,"str_pos":144626,"table":"normal","repoint":false}
+# かぎが，かかっている。
+It's locked.
+
+
+{"str_num":213,"prefix":"0x7","ptr_pos":145746,"str_pos":146172,"table":"normal","repoint":false}
+# 盗賊「おい，そこのお兄ちゃん。いた<br>
+# い目にあいたくなかったら，持って<br>
+# る物すべておいていきな。」<scroll><player>「おまえたちは何者だ。<br>
+# そうかんたんに，いいなりになると<br>
+# でもおもっているのか。」<scroll>盗賊「ちっ！    <br>
+# 何いってもムダのようだな。 <br>
+# それじゃあ，しょうがねえ。者ども<br>
+# やっちまえ。」<scroll><player>「うわっ！何をする・・<br>
+# ・・。」
+Bandit "Hey broski, unless you want to wake up without any kidneys, you'd better just hand me all your stuff.<scroll>
+<player> "Who are you?! You've got another thing coming if you think I'm easy prey!"<scroll>
+Bandit "Drats! You've foiled my scheme."<scroll>
+Bandit "Just kidding. Kill him, boys."<scroll>
+<player> "Wait, stop..!"
+
+
+{"str_num":214,"prefix":"0x7","ptr_pos":145814,"str_pos":147282,"table":"normal","repoint":false}
+# 川の中で何かがひかった。
+
+
+
+{"str_num":215,"prefix":"0x7","ptr_pos":145834,"str_pos":147298,"table":"normal","repoint":false}
+# 大きないわによって，入り口はふさ<br>
+# がれている。
+
+
+
+{"str_num":216,"prefix":"0x7","ptr_pos":145854,"str_pos":147220,"table":"normal","repoint":false}
+# でんせつのまけんをみつけた。
+
+
+
+{"str_num":217,"prefix":"0x7","ptr_pos":145874,"str_pos":144590,"table":"normal","repoint":false}
+# しかし，これ以上持てない。
+
+
+
+{"str_num":218,"prefix":"0x7","ptr_pos":145888,"str_pos":146352,"table":"normal","repoint":false}
+# マ―リ―「<player>さん。ちょ<br>
+# っと，いいわすれた事があって。」<scroll><player>「いいわすれた事って何<br>
+# ですか。」<scroll>マ―リ―「このどうくつからは兄の<br>
+# いる場所へはいけないのです。もう<br>
+# すこし山のおくにきがあります。<br>
+# そこが入り口になっているのです。<br>
+# そして，その入り口を開くにはとく<br>
+# べつな呪文が必要です。」<scroll><player>「その呪文を教えて<br>
+# くれませんか。」<scroll>マ―リ―「その呪文は兄がむかしすん<br>
+# でいた家にいけばわかるはずです。<br>
+# 家はここから西の方にあります。<br>
+# ちょうどあの出入り口のない塔の<br>
+# むかいがわになりますね。」
+
+
+
+{"str_num":219,"prefix":"0x7","ptr_pos":145920,"str_pos":146802,"table":"normal","repoint":false}
+# 王からあなたたちは国に入れるなと<br>
+# 命れいされています。<br>
+# 入国はみとめられません。
+
+
+
+{"str_num":220,"prefix":"0x7","ptr_pos":145928,"str_pos":147170,"table":"normal","repoint":false}
+# 王からあなたたちは国に入れるなと<br>
+# 命れいされています。<br>
+# 早く出て行って下さい。
+
+
+
+{"str_num":221,"prefix":"0x7","ptr_pos":146008,"str_pos":146682,"table":"normal","repoint":false}
+# ここだけの話だが，わが国の王がリ<br>
+# ―ムの国をせめるためのじゅんびを<br>
+# 行いはじめた。戦そうをさけるため<br>
+# にもリ―ムの王へこの事をつたえて<br>
+# もらえぬか。
+
+
+
+{"str_num":222,"prefix":"0x7","ptr_pos":146028,"str_pos":146770,"table":"normal","repoint":false}
+# これはリ―ムのアベル王子。どうぞ<br>
+# お通り下さい。
+
+
+
+{"str_num":223,"prefix":"0x7","ptr_pos":146056,"str_pos":146642,"table":"normal","repoint":false}
+# ここからはマステマの国だ。素性の<br>
+# 知れない者は通す事はできん。
+
+
+
+{"str_num":224,"prefix":"0x7","ptr_pos":146084,"str_pos":146852,"table":"normal","repoint":false}
+# アベル「<player>，すまぬがおれ<br>
+# はここでわかれる。そして城に帰り<br>
+# フレイヤの事もふくめて，この国で<br>
+# の出来事を父上にほうこくするつも<br>
+# りだ。」
+
+
+
+{"str_num":225,"prefix":"0x7","ptr_pos":146110,"str_pos":146934,"table":"normal","repoint":false}
+# <player>「わかりました。<br>
+# おれは，世界のこんらんの原因を<br>
+# つきとめる旅をつづけたいとおもい<br>
+# ます。<br>
+# それに，盗賊におそわれた時にどこ<br>
+# かにいってしまった，父のかたみの<br>
+# 剣をこの手にとりもどしたいし。」
+
+
+
+{"str_num":226,"prefix":"0x7","ptr_pos":146122,"str_pos":147050,"table":"normal","repoint":false}
+# <player>「わかりました。<br>
+# おれは，世界のこんらんの原因を<br>
+# つきとめる旅をつづけたいとおもい<br>
+# ます。」
+
+
+
+{"str_num":227,"prefix":"0x7","ptr_pos":146128,"str_pos":147108,"table":"normal","repoint":false}
+# アベル「それじゃ，おれはここでわか<br>
+# れるとするよ。２人とも気をつけて<br>
+# な。」<scroll><npc1>「王子様<br>
+# さようなら。」
+
+
+
+{"str_num":228,"prefix":"0x7","ptr_pos":146160,"str_pos":147236,"table":"normal","repoint":false}
+# 前はここから南にいけたんだ。<br>
+# むこうがわにわたるにはどうしたら<br>
+# よいのだろう。
+
+
+
+{"str_num":229,"prefix":"0x7","ptr_pos":147800,"str_pos":147882,"table":"normal","repoint":false}
+# <player>「母さん，おはよう！」<scroll>母「おはよう，<player>。」<scroll><player>「きのうのよる，さわが<br>
+# しくなかった？<scroll>母「そうね，最近この近くでも怪物が 出る様になってきたわね。レミアの 町あたりは，もっとひどいらしいわ よ。あの子はだいじょうぶかしら？<scroll><player>「あの子って？」<scroll>母「ほら，あなたのおさななじみの。 え～と，何て名前だったっけ。
+
+
+
+{"str_num":230,"prefix":"0x7","ptr_pos":147812,"str_pos":148058,"table":"normal","repoint":false}
+# <player>「<npc1>だよ。」<scroll>母「そうそう，<npc1>ちゃん。元気に してるかしらね・・・。」<scroll><player>「・・・・・・。」<scroll><player>「母さん。<br>
+# <br>
+# 今日，父さんのゆいごん通り王様の<br>
+# 元に行ってくるよ。」<scroll>母「やはり，行くのね。私にはあなた を止める事は出来ないわ。お父さん に負けないよう，しっかりがんばる のよ。」
+
+
+
+{"str_num":231,"prefix":"0x7","ptr_pos":147840,"str_pos":148228,"table":"normal","repoint":false}
+# お父さんに負けないよう，しっかり がんばるのよ。
+
+
+
+{"str_num":232,"prefix":"0x7","ptr_pos":147864,"str_pos":148256,"table":"normal","repoint":false}
+# <player>「母さん，ただいま。」<scroll>母「<player>，つかれたでしょ。<br>
+# ゆっくり休んで行きなさい。」
+
+
+
+{"str_num":233,"prefix":"0x7","ptr_pos":148688,"str_pos":149056,"table":"normal","repoint":false}
+# カギがかかっている。
+# 」ーKJJうかCろ?
+# if the second line is right, change 'table' to 'menu'
+
+
+
+{"str_num":234,"prefix":"0x7","ptr_pos":148744,"str_pos":148838,"table":"normal","repoint":false}
+# 最近はぶっそうな世の中になった<br>
+# もんだなあ。
+
+
+
+{"str_num":235,"prefix":"0x7","ptr_pos":148752,"str_pos":148868,"table":"normal","repoint":false}
+# ここはリ―ムの町です。
+
+
+
+{"str_num":236,"prefix":"0x7","ptr_pos":148760,"str_pos":148882,"table":"normal","repoint":false}
+# よう，にいちゃん。何，くらいかお<br>
+# してんだよ。なやみでもあるのか？
+
+
+
+{"str_num":237,"prefix":"0x7","ptr_pos":148768,"str_pos":148918,"table":"normal","repoint":false}
+# あなた神秘の楽草ってしってる？<br>
+# ここから南の山道のさきの森にある<br>
+# らしいわよ。
+
+
+
+{"str_num":238,"prefix":"0x7","ptr_pos":148776,"str_pos":148970,"table":"normal","repoint":false}
+# この町から西の方にレミアの町が<br>
+# あるのよ。あなたしってる？
+
+
+
+{"str_num":239,"prefix":"0x7","ptr_pos":148784,"str_pos":149004,"table":"normal","repoint":false}
+# おにいちゃん！あそぼうよ。ママも<br>
+# パパもいそがしくって，ぜんぜん<br>
+# あいてしてくれないんだもん。
+
+
+
+{"str_num":240,"prefix":"0x7","ptr_pos":148792,"str_pos":149068,"table":"normal","repoint":false}
+# この町のかんこう名所は，リ―ム城<br>
+# だけど君は，入った事あるかい？
+
+
+
+{"str_num":241,"prefix":"0x7","ptr_pos":148800,"str_pos":149110,"table":"normal","repoint":false}
+# リ―ム城にすんでいる王様は，とて<br>
+# も気さくな方なんだよ。
+
+
+
+{"str_num":242,"prefix":"0x7","ptr_pos":148808,"str_pos":149146,"table":"normal","repoint":false}
+# ぼくもお城につれてってよ―。
+
+
+
+{"str_num":243,"prefix":"0x7","ptr_pos":148816,"str_pos":149164,"table":"normal","repoint":false}
+# あらザファンさんちのボクじゃない<br>
+# のずいぶん見ないうちに大きくなっ<br>
+# たわね―。
+
+
+
+{"str_num":244,"prefix":"0x7","ptr_pos":148824,"str_pos":149210,"table":"normal","repoint":false}
+# ちょっとぉ―じゃましないで道あけ<br>
+# てくれない！
+
+
+
+{"str_num":245,"prefix":"0x7","ptr_pos":148832,"str_pos":149238,"table":"normal","repoint":false}
+# 私はお外であそぶのがだ―いすき！
+
+
+
+{"str_num":246,"prefix":"0x7","ptr_pos":149434,"str_pos":149580,"table":"normal","repoint":false}
+# カギがかかっている。
+
+
+
+{"str_num":247,"prefix":"0x7","ptr_pos":149500,"str_pos":149522,"table":"normal","repoint":false}
+# ここはレミアの町よ。
+
+
+
+{"str_num":248,"prefix":"0x7","ptr_pos":149508,"str_pos":149534,"table":"normal","repoint":false}
+# せいまどうラファエルさまは，<br>
+# すばらしい方じゃ。
+
+
+
+{"str_num":249,"prefix":"0x7","ptr_pos":149516,"str_pos":149562,"table":"normal","repoint":false}
+# <npc1>ちゃん<br>
+# だいすきだよ～。
+
+
+
+{"str_num":250,"prefix":"0x7","ptr_pos":149858,"str_pos":150802,"table":"normal","repoint":false}
+# <npc1>「まって<player>。<br>
+# 兄さんをおいて行けないわ。」
+
+
+
+{"str_num":251,"prefix":"0x7","ptr_pos":149880,"str_pos":150770,"table":"normal","repoint":false}
+# リヒエル「どこへ行く気だ？<br>
+# 早く探しに行こう。」
+
+
+
+{"str_num":252,"prefix":"0x7","ptr_pos":149894,"str_pos":150830,"table":"normal","repoint":false}
+# ！<br>
+# 早く<npc1>の所へ行かねば。
+
+
+
+{"str_num":253,"prefix":"0x7","ptr_pos":150008,"str_pos":150850,"table":"normal","repoint":false}
+# へいし「<player>どの！」
+
+
+
+{"str_num":254,"prefix":"0x7","ptr_pos":150084,"str_pos":150200,"table":"normal","repoint":false}
+# ここはアルフの町です。
+
+
+
+{"str_num":255,"prefix":"0x7","ptr_pos":150092,"str_pos":150214,"table":"normal","repoint":false}
+# あなたは神を信じますか，それとも<br>
+# ホトケを信じますか。何でも信じれ<br>
+# ばすくわれるものです。
+
+
+
+{"str_num":256,"prefix":"0x7","ptr_pos":150100,"str_pos":150268,"table":"normal","repoint":false}
+# レミアの町が盗賊におそわれたそう<br>
+# ね。この町はだいじょうぶかしら。
+
+
+
+{"str_num":257,"prefix":"0x7","ptr_pos":150108,"str_pos":150306,"table":"normal","repoint":false}
+# 人の心はたいせつにね。
+
+
+
+{"str_num":258,"prefix":"0x7","ptr_pos":150116,"str_pos":150322,"table":"normal","repoint":false}
+# わたしは「チャイルドかめん」<br>
+# あなたに夢あるかぎり，戦いましょ<br>
+# う。 えっ，わたしって変？
+
+
+
+{"str_num":259,"prefix":"0x7","ptr_pos":150124,"str_pos":150374,"table":"normal","repoint":false}
+# <player>「こんにちわ。」<scroll>リヒエル「やあ，どうも。おや，君は<br>
+# ・・・・・。<br>
+# もしかして<npc1><br>
+# じゃないかい。」<scroll><npc1>「やっぱり，兄さん！！<br>
+# ちょっと見かけて気になったから，<br>
+# <player>にこえをかけてもらっ<br>
+# たのやっとあえたわ，兄さん。<br>
+# いったい今までどうしていたの。」<scroll>リヒエル「おれはこの町に来て生まれ<br>
+# かわったんだ。しあわせな気持ちを<br>
+# みんなにひろめるために，毎日かつ<br>
+# どうしているんだ。」<scroll><npc1>「兄さん。私といっしょ<br>
+# に，くらしましょう。」<scroll>リヒエル「いや，おれはまだまだやら<br>
+# なくてはいけない事がたくさんある<br>
+# もうすこし１人でいたいんだ。<br>
+# おまえも教会に行って，教えをまな<br>
+# ぶがいい。おっと，時間だ。<br>
+# それじゃ，元気でな。」
+
+
+
+{"str_num":260,"prefix":"0x7","ptr_pos":150144,"str_pos":150724,"table":"normal","repoint":false}
+# <npc1>「兄さん。待って！！」<scroll><player>「<npc1>，兄さん<br>
+# をおってみよう。」<scroll><npc1>「ええ。」
+
+
+
+{"str_num":261,"prefix":"0x7","ptr_pos":150194,"str_pos":150974,"table":"normal","repoint":false}
+# 教団にかざってあるつぼってあやし<br>
+# いとおもわない？
+
+
+
+{"str_num":262,"prefix":"0x7","ptr_pos":151296,"str_pos":151512,"table":"normal","repoint":false}
+# ここはかなしみの村サイレスです。
+
+
+
+{"str_num":263,"prefix":"0x7","ptr_pos":151312,"str_pos":151532,"table":"normal","repoint":false}
+# この村では毎年毎年，わかい娘を<br>
+# 魔物にさし出さなくてはならないの<br>
+# です。
+
+
+
+{"str_num":264,"prefix":"0x7","ptr_pos":151320,"str_pos":151868,"table":"normal","repoint":false}
+# おばばの様子が変だとおもうのは気<br>
+# のせいだろうか。
+
+
+
+{"str_num":265,"prefix":"0x7","ptr_pos":151344,"str_pos":151580,"table":"normal","repoint":false}
+# アルフの町では「しあわせのがくし<br>
+# ゅう」という教団がかつどうを行な<br>
+# っているらしいけど，ほんとうに<br>
+# ふこうな人がすくわれるのかしら。
+
+
+
+{"str_num":266,"prefix":"0x7","ptr_pos":151352,"str_pos":151714,"table":"normal","repoint":false}
+# 今年はリノが魔物にさし出される<br>
+# 女性にきまったそうよ。よげん者<br>
+# のおばばがいっていたわ。<br>
+# かわいそうに・・・。
+
+
+
+{"str_num":267,"prefix":"0x7","ptr_pos":151360,"str_pos":151900,"table":"normal","repoint":false}
+# かわいそうな，リノ。<br>
+# 村のためとはいえ。
+
+
+
+{"str_num":268,"prefix":"0x7","ptr_pos":151384,"str_pos":151656,"table":"normal","repoint":false}
+# きみ，でんせつのの魔剣というもの<br>
+# を知っているかい。その剣ならば，<br>
+# 魔物をたおせると聞いたんだが。
+
+
+
+{"str_num":269,"prefix":"0x7","ptr_pos":151392,"str_pos":151780,"table":"normal","repoint":false}
+# でんせつの魔剣なんだが。この村<br>
+# から西にあるどうくつにかくされて<br>
+# いるといううわさを聞いたのだが。<br>
+# そういえば，魔物のどうくつもおな<br>
+# じ方だったな。
+
+
+
+{"str_num":270,"prefix":"0x7","ptr_pos":151400,"str_pos":151924,"table":"normal","repoint":false}
+# リノがぎせいになってくれたおかげ<br>
+# で，今年も村の者たちはあんしんし<br>
+# て，せいかつする事ができる。
+
+
+
+{"str_num":271,"prefix":"0x7","ptr_pos":151442,"str_pos":151982,"table":"normal","repoint":false}
+# クレイン「<player>，いろいろ力<br>
+# をかしてくれてありがとう。これで<br>
+# この村もいけにえなど出さなくても<br>
+# よい様になった。<br>
+# しかし，リノとのおもい出がたく<br>
+# さんあるこの村にすむという事は，<br>
+# 今のおれにあまりにもつらすぎる。<br>
+# しばらくの間，ひとりで旅に出よう<br>
+# とおもうのだが。」<scroll><player>「いいえ，おれの方こそ<br>
+# あまり力になれなくて。それでは体<br>
+# に気をつけてください。」<scroll><npc1>「クレイン，お元気で」<scroll>クレイン「またどこかであうことも<br>
+# あるだろう。旅のあんぜんを<br>
+# いのっている。元気でな！！」
+
+
+
+{"str_num":272,"prefix":"0x7","ptr_pos":151498,"str_pos":152246,"table":"normal","repoint":false}
+# おばばは，ああ見えてもむかしはき<br>
+# ゃぴきゃぴのイケイケだったんじゃ<br>
+# よ。
+
+
+
+{"str_num":273,"prefix":"0x7","ptr_pos":151506,"str_pos":152288,"table":"normal","repoint":false}
+# わたし，はやくおばさんになりたい<br>
+# の若い娘でいると生けにえにされち<br>
+# ゃうわ。
+
+
+
+{"str_num":274,"prefix":"0x7","ptr_pos":152542,"str_pos":152700,"table":"normal","repoint":false}
+# ここはレムレスの村です。ゆっくり<br>
+# していってください。
+
+
+
+{"str_num":275,"prefix":"0x7","ptr_pos":152574,"str_pos":152732,"table":"normal","repoint":false}
+# 世の中にはふしぎな事がたくさん<br>
+# あるのよねぇ。
+
+
+
+{"str_num":276,"prefix":"0x7","ptr_pos":152582,"str_pos":152830,"table":"normal","repoint":false}
+# そこの家にはシャイアス様の妹さん<br>
+# がすんでいますよ。
+
+
+
+{"str_num":277,"prefix":"0x7","ptr_pos":152590,"str_pos":152920,"table":"normal","repoint":false}
+# まぁ，シャイアス様。お帰りになっ<br>
+# たのですか。
+
+
+
+{"str_num":278,"prefix":"0x7","ptr_pos":152598,"str_pos":153022,"table":"normal","repoint":false}
+# シャイアス様のお体が，しんぱいだ<br>
+# わ。
+
+
+
+{"str_num":279,"prefix":"0x7","ptr_pos":152622,"str_pos":152762,"table":"normal","repoint":false}
+# シャイアスのお兄ちゃん，まだ帰っ<br>
+# てこないのかなぁ。
+
+
+
+{"str_num":280,"prefix":"0x7","ptr_pos":152630,"str_pos":152948,"table":"normal","repoint":false}
+# わ～い。わ～い。お兄ちゃんが<br>
+# 帰って来た。わ～い。わ～い。
+
+
+
+{"str_num":281,"prefix":"0x7","ptr_pos":152638,"str_pos":153046,"table":"normal","repoint":false}
+# シャイアスのお兄ちゃん，だいじょ<br>
+# うぶかなぁ。
+
+
+
+{"str_num":282,"prefix":"0x7","ptr_pos":152670,"str_pos":152794,"table":"normal","repoint":false}
+# なかまになっても，きゅうにいなく<br>
+# なることって，けっこうあるよね。
+
+
+
+{"str_num":283,"prefix":"0x7","ptr_pos":152678,"str_pos":152862,"table":"normal","repoint":false}
+# えっ，魔物を夢の中から引き出す？<br>
+# おれがそんなことできるわけないだ<br>
+# ろ。けん者でもないのにさぁ。
+
+
+
+{"str_num":284,"prefix":"0x7","ptr_pos":152686,"str_pos":152988,"table":"normal","repoint":false}
+# シャイアス様，お帰りなさい。<br>
+# しゅぎょうはおわりましたか？
+
+
+
+{"str_num":285,"prefix":"0x7","ptr_pos":152694,"str_pos":153074,"table":"normal","repoint":false}
+# やっと，あんしんして宿にとまれる<br>
+# ようになった。
+
+
+
+{"str_num":286,"prefix":"0x7","ptr_pos":153388,"str_pos":153466,"table":"normal","repoint":false}
+# マステマの町にようこそ。
+
+
+
+{"str_num":287,"prefix":"0x7","ptr_pos":153396,"str_pos":153480,"table":"normal","repoint":false}
+# ウト―ク王がすっかり変わられてし<br>
+# まった。とても気持ちのやさしい方<br>
+# だったのに。
+
+
+
+{"str_num":288,"prefix":"0x7","ptr_pos":153412,"str_pos":153528,"table":"normal","repoint":false}
+# 最近，たまになんだけれど，<br>
+# お城の方からきみょうなこえが<br>
+# 聞こえるの。何かしらね。
+
+
+
+{"str_num":289,"prefix":"0x7","ptr_pos":153420,"str_pos":153578,"table":"normal","repoint":false}
+# あの変なこえは怪物のこえだったの<br>
+# ね。
+
+
+
+{"str_num":290,"prefix":"0x7","ptr_pos":153428,"str_pos":153602,"table":"normal","repoint":false}
+# 王がへいをあつめている。わたしも<br>
+# しがんするつもりだ。
+
+
+
+{"str_num":291,"prefix":"0x7","ptr_pos":153444,"str_pos":153634,"table":"normal","repoint":false}
+# 知ってる？最近，王様，結婚したの<br>
+# よ。ひとめぼれらしいわよ。
+
+
+
+{"str_num":292,"prefix":"0x7","ptr_pos":153452,"str_pos":153674,"table":"normal","repoint":false}
+# かわいそうな王様，またひとりにな<br>
+# ってしまったわね。
+
+
+
+{"str_num":293,"prefix":"0x7","ptr_pos":153460,"str_pos":153706,"table":"normal","repoint":false}
+# はるばるリ―ムから来たのですか。
+
+
+
+{"str_num":294,"prefix":"0x7","ptr_pos":154046,"str_pos":154100,"table":"normal","repoint":false}
+# えっ，ここの町の名まえ？ここは<br>
+# しょうばいの町，エムスミだよ。
+
+
+
+{"str_num":295,"prefix":"0x7","ptr_pos":154054,"str_pos":154136,"table":"normal","repoint":false}
+# この町には，いろいろな人たちが<br>
+# 出入りしているのよ。あなた，<br>
+# この町に来たのはじめて？
+
+
+
+{"str_num":296,"prefix":"0x7","ptr_pos":154062,"str_pos":154186,"table":"normal","repoint":false}
+# まっくらな，よるになると西の方で<br>
+# ひかるものがあるのよ。いったい，<br>
+# 何なのかしら。
+
+
+
+{"str_num":297,"prefix":"0x7","ptr_pos":154070,"str_pos":154234,"table":"normal","repoint":false}
+# ここから南にあるサウスリ―バの町<br>
+# は「しあわせのがくしゅう」のかつ<br>
+# どうの中心地になっている。
+
+
+
+{"str_num":298,"prefix":"0x7","ptr_pos":154078,"str_pos":154290,"table":"normal","repoint":false}
+# ここから海をこえた西の方に，入口<br>
+# がない塔があるんですって。
+
+
+
+{"str_num":299,"prefix":"0x7","ptr_pos":154086,"str_pos":154330,"table":"normal","repoint":false}
+# アイテムのなげ捨ては，良くないわ<br>
+# ちゃんとごみばこに捨てなさい。
+
+
+
+{"str_num":300,"prefix":"0x7","ptr_pos":154094,"str_pos":154366,"table":"normal","repoint":false}
+# もしよかったらこんや，のみながら<br>
+# 旅の話を聞かせて下さい。
+
+
+
+{"str_num":301,"prefix":"0x7","ptr_pos":154734,"str_pos":154876,"table":"normal","repoint":false}
+# サウスリ―バの町へようこそ。<br>
+# ゆっくりしていきなされ。
+
+
+
+{"str_num":302,"prefix":"0x7","ptr_pos":154750,"str_pos":154906,"table":"normal","repoint":false}
+# むかしはこの町で使う水はすべて，<br>
+# いどからとっていたのだが，１年前<br>
+# くらいにぜんぜん水がわかなくなっ<br>
+# てしまったのだよ。
+
+
+
+{"str_num":303,"prefix":"0x7","ptr_pos":154758,"str_pos":154976,"table":"normal","repoint":false}
+# おどろいたことに，いどに水が<br>
+# たまるようになったのじゃよ。
+
+
+
+{"str_num":304,"prefix":"0x7","ptr_pos":154774,"str_pos":155010,"table":"normal","repoint":false}
+# 川の水を１くちのめば，ぼくはしあ<br>
+# わせ。２くちのめば，あなたもしあ<br>
+# わせ。ふ～にゃら～。ふにゃら～。
+
+
+
+{"str_num":305,"prefix":"0x7","ptr_pos":154782,"str_pos":155070,"table":"normal","repoint":false}
+# 川の水がないと。川の水がないと。<br>
+# ぼくはこまってしまう。
+
+
+
+{"str_num":306,"prefix":"0x7","ptr_pos":154798,"str_pos":155106,"table":"normal","repoint":false}
+# 今は町で使用する水はすべて川から<br>
+# とっています。
+
+
+
+{"str_num":307,"prefix":"0x7","ptr_pos":154806,"str_pos":155138,"table":"normal","repoint":false}
+# またいどの水を使うようになると<br>
+# おもうわ。
+
+
+
+{"str_num":308,"prefix":"0x7","ptr_pos":154822,"str_pos":155164,"table":"normal","repoint":false}
+# いど水はきゅうに出なくなったの。<br>
+# 地下水がなくなっちゃったのかしら
+
+
+
+{"str_num":309,"prefix":"0x7","ptr_pos":154830,"str_pos":155204,"table":"normal","repoint":false}
+# 川がかわいてしまったわ。でも，<br>
+# いどに水がわくようになったから<br>
+# いいわよね。
+
+
+
+{"str_num":310,"prefix":"0x7","ptr_pos":154838,"str_pos":155248,"table":"normal","repoint":false}
+# いや～，なんてぼくはしあわせなん<br>
+# だろう～。
+
+
+
+{"str_num":311,"prefix":"0x7","ptr_pos":154846,"str_pos":155276,"table":"normal","repoint":false}
+# 私は，いったい何を信じたらよいの<br>
+# でしょう。
+
+
+
+{"str_num":312,"prefix":"0x7","ptr_pos":154854,"str_pos":155304,"table":"normal","repoint":false}
+# 町のぼうさんは，口かずがすくない<br>
+# けれど，とても良いお方でした。
+
+
+
+{"str_num":313,"prefix":"0x7","ptr_pos":154862,"str_pos":155342,"table":"normal","repoint":false}
+# 休みの日は，家族でエムスミの町に<br>
+# ショッピングによく行くの。
+
+
+
+{"str_num":314,"prefix":"0x7","ptr_pos":154870,"str_pos":155380,"table":"normal","repoint":false}
+# ほら，よ―く見てごらん。<br>
+# この川のさかなは，とてもしあわせ<br>
+# そうに，およいでいるだろう。
+
+
+
+{"str_num":315,"prefix":"0x7","ptr_pos":155648,"str_pos":155694,"table":"normal","repoint":false}
+# ここは今となってはへんきょうの地<br>
+# となってしまったオネスの村です。
+
+
+
+{"str_num":316,"prefix":"0x7","ptr_pos":155656,"str_pos":155734,"table":"normal","repoint":false}
+# いつかの大じしんのせいでガケがで<br>
+# きてしまい，この地は人の出入りが<br>
+# ほとんどなくなってしまった。いぜ<br>
+# んは王様のしんえいたいの人たちが<br>
+# けいびのためによくきていたのに。
+
+
+
+{"str_num":317,"prefix":"0x7","ptr_pos":155664,"str_pos":155832,"table":"normal","repoint":false}
+# ザファンのおじちゃん，また来てく<br>
+# れないかなぁ～。
+
+
+
+{"str_num":318,"prefix":"0x7","ptr_pos":155672,"str_pos":155862,"table":"normal","repoint":false}
+# しんえいたいの中でもザファンの<br>
+# おじちゃんが，いちばんかっこよく<br>
+# て，強かったよ。
+
+
+
+{"str_num":319,"prefix":"0x7","ptr_pos":155680,"str_pos":155910,"table":"normal","repoint":false}
+# がけを飛びこえてやってくるのって<br>
+# とてもこわかったでしょう。
+
+
+
+{"str_num":320,"prefix":"0x7","ptr_pos":155688,"str_pos":155944,"table":"normal","repoint":false}
+# アマソさんは，ねはやさしくて力持<br>
+# ち，どんないわでも持ち上げてしま<br>
+# うのよ。
+
+
+
+{"str_num":321,"prefix":"0x7","ptr_pos":156240,"str_pos":144650,"table":"normal","repoint":false}
+# モンスタ―に見つかった。
+
+
+
+{"str_num":322,"prefix":"0x7","ptr_pos":156376,"str_pos":156406,"table":"normal","repoint":false}
+# いらっしゃい！<br>
+# いっぱいどうだい。
+
+
+
+{"str_num":323,"prefix":"0x7","ptr_pos":156384,"str_pos":156426,"table":"normal","repoint":false}
+# わしが若ければ怪物どもをたおしに<br>
+# 行くのじゃがな。
+
+
+
+{"str_num":324,"prefix":"0x7","ptr_pos":156392,"str_pos":156458,"table":"normal","repoint":false}
+# しんえいたいのザファン様は，すば<br>
+# らしい方だぞ。
+
+
+
+{"str_num":325,"prefix":"0x7","ptr_pos":156400,"str_pos":156488,"table":"normal","repoint":false}
+# どうせ，あたしなんていいのよ！！<br>
+# のんでやる！！
+
+
+
+{"str_num":326,"prefix":"0x7","ptr_pos":156592,"str_pos":156606,"table":"normal","repoint":false}
+# いい，あなた。むやみに人の家の<br>
+# つぼや，ほんだなをのぞいたりする<br>
+# ものじゃないわよ。それはいけない<br>
+# ことなのよ。
+
+
+
+{"str_num":327,"prefix":"0x7","ptr_pos":156600,"str_pos":156670,"table":"normal","repoint":false}
+# どうくつや怪物がいる塔などには，<br>
+# 宝ばこがたくさんあるって話だ。<br>
+# 中にはいろいろなアイテムが，かく<br>
+# されているらしいよ。
+
+
+
+{"str_num":328,"prefix":"0x7","ptr_pos":156798,"str_pos":156804,"table":"normal","repoint":false}
+# どうくつや，塔などはMAPをかい<br>
+# ていった方がいいわよ。<br>
+# そうしないと，自分がどこにいるの<br>
+# か，わからなくなるわ。
+
+
+
+{"str_num":329,"prefix":"0x7","ptr_pos":156946,"str_pos":156960,"table":"normal","repoint":false}
+# おい，にいちゃん。まさか，おれの<br>
+# 家から何か盗んでないだろうな。
+
+
+
+{"str_num":330,"prefix":"0x7","ptr_pos":156954,"str_pos":156998,"table":"normal","repoint":false}
+# オ―レ―オレオレオレ―
+
+
+
+{"str_num":331,"prefix":"0x7","ptr_pos":157070,"str_pos":157076,"table":"normal","repoint":false}
+# 旅のとちゅうで，おおくの人たちと<br>
+# であうことでしょう。
+
+
+
+{"str_num":332,"prefix":"0x7","ptr_pos":157288,"str_pos":157364,"table":"normal","repoint":false}
+# おはようございます。<br>
+# またごりようください。
+
+
+
+{"str_num":333,"prefix":"0x7","ptr_pos":157358,"str_pos":157390,"table":"normal","repoint":false}
+# 物をすてる時はよく考えてから<br>
+# すてないと，あとでムチャクチャ，<br>
+# くろうするぞ。
+
+
+
+{"str_num":334,"prefix":"0x7","ptr_pos":157540,"str_pos":157546,"table":"normal","repoint":false}
+# 武器や防具は必ず装備するんだぞ。<br>
+# それと武器をかっても人によっては<br>
+# 使えないものがある，気をつけろ。
+
+
+
+{"str_num":335,"prefix":"0x7","ptr_pos":157752,"str_pos":157798,"table":"normal","repoint":false}
+# そういえばいつだったか，大きな<br>
+# じしんがあったわね。<br>
+# 地われのせいで南の方に行けなく<br>
+# なっちゃったわ。
+
+
+
+{"str_num":336,"prefix":"0x7","ptr_pos":157760,"str_pos":157860,"table":"normal","repoint":false}
+# 王様は，２人もおくさんがいるんだ<br>
+# よ。
+
+
+
+{"str_num":337,"prefix":"0x7","ptr_pos":157768,"str_pos":157886,"table":"normal","repoint":false}
+# アベル王子様はとってもすてきな方<br>
+# なのよ。
+
+
+
+{"str_num":338,"prefix":"0x7","ptr_pos":157776,"str_pos":157914,"table":"normal","repoint":false}
+# むにゃ，むにゃ～。
+
+
+
+{"str_num":339,"prefix":"0x7","ptr_pos":157784,"str_pos":157926,"table":"normal","repoint":false}
+# ス～ヤ，スヤ・・・・・。
+
+
+
+{"str_num":340,"prefix":"0x7","ptr_pos":157792,"str_pos":157942,"table":"normal","repoint":false}
+# おれは城ではたらいている。城には<br>
+# すばらしい本がたくさんおいてある<br>
+# んだ。「３」や「１７」をしらべて<br>
+# みな。
+
+
+
+{"str_num":341,"prefix":"0x7","ptr_pos":158096,"str_pos":158102,"table":"normal","repoint":false}
+# こんなにいい武器が，こんなやすく<br>
+# かりられるのか。ぜったいかりる<br>
+# しかないな。
+
+
+
+{"str_num":342,"prefix":"0x7","ptr_pos":158240,"str_pos":158246,"table":"normal","repoint":false}
+# ここではいろいろな治療をして<br>
+# くれるよ。お金はかかるけどね。
+
+
+
+{"str_num":343,"prefix":"0x7","ptr_pos":158384,"str_pos":158512,"table":"normal","repoint":false}
+# 神秘の楽草をみつけた。
+
+
+
+{"str_num":345,"prefix":"0x7","ptr_pos":158412,"str_pos":158530,"table":"normal","repoint":false}
+# オ―イ。たすけてくれよ～。<br>
+# この中にとじこめられて出られない<br>
+# んだよ～。
+
+
+
+{"str_num":346,"prefix":"0x27","ptr_pos":158418,"str_pos":158574,"table":"normal","repoint":false}
+# たすけますか？
+
+
+
+{"str_num":347,"prefix":"0x7","ptr_pos":158432,"str_pos":158584,"table":"normal","repoint":false}
+# 頼むからたすけてくれよ。
+
+
+
+{"str_num":348,"prefix":"0x7","ptr_pos":158448,"str_pos":158600,"table":"normal","repoint":false}
+# ありがとう。ほんとうにたすかった<br>
+# よ・・・・・<br>
+# なんて，いうわけないだろう！！<br>
+# よくもこんな目にあわせてくれたな<br>
+# 人間どもにふくしゅうだ！！」
+
+
+
+{"str_num":349,"prefix":"0x7","ptr_pos":158470,"str_pos":158680,"table":"normal","repoint":false}
+# <player>「どうだ，かんねん<br>
+# するんだな。」<scroll>スライム「まっ，待ってくれ！！オレ<br>
+# が悪かったよ。おねがいだから命だ<br>
+# けはたすけてくれ。あんたのいう事<br>
+# は何でもきくからさ。」<scroll><player>「しょうがないな。その<br>
+# かわり，もう悪さをするなよ。」<scroll>スライム「ありがとう。オレが必要な<br>
+# 時はいつでもよんでくれ。」
+
+
+
+{"str_num":350,"prefix":"0x7","ptr_pos":158926,"str_pos":158998,"table":"normal","repoint":false}
+# おはようございます。<br>
+# またごりようください。
+
+
+
+{"str_num":351,"prefix":"0x7","ptr_pos":159180,"str_pos":159194,"table":"normal","repoint":false}
+# こんなぶっそうな町からは出て行こ<br>
+# うとおもいます。
+
+
+
+{"str_num":352,"prefix":"0x7","ptr_pos":159188,"str_pos":159224,"table":"normal","repoint":false}
+# この町が盗賊におそわれた時，こわ<br>
+# くてかくれていたの。
+
+
+
+{"str_num":353,"prefix":"0x7","ptr_pos":159324,"str_pos":159338,"table":"normal","repoint":false}
+# この町から南の方で盗賊を見たと<br>
+# いう話を聞いたのだが。
+
+
+
+{"str_num":354,"prefix":"0x7","ptr_pos":159332,"str_pos":159376,"table":"normal","repoint":false}
+# 盗賊にあらされて，この町にはほと<br>
+# んど人がいなくなってしまった。<br>
+# これからはリ―ムの町でくらそうと<br>
+# おもっています。
+
+
+
+{"str_num":355,"prefix":"0x7","ptr_pos":159508,"str_pos":159522,"table":"normal","repoint":false}
+# あ～。ねむい，ねむい。
+
+
+
+{"str_num":356,"prefix":"0x7","ptr_pos":159516,"str_pos":159536,"table":"normal","repoint":false}
+# わたしがリ―ムの町に出かけて帰っ<br>
+# て来た時，盗賊たちがさって行く<br>
+# ところでした。やつらは南の方に<br>
+# 行きました。
+
+
+
+{"str_num":357,"prefix":"0x7","ptr_pos":160246,"str_pos":160396,"table":"normal","repoint":false}
+# <player>「おや？<br>
+# ここは，元の場所じゃないか。」
+
+
+
+{"str_num":359,"prefix":"0x7","ptr_pos":160300,"str_pos":160424,"table":"normal","repoint":false}
+# <player>「やっと，ファンタジィ<br>
+# ―界に帰ってきたぞ。」<scroll><npc1>「<player>，もうい<br>
+# ちどエルフの女王のところへ行って<br>
+# みましょう。」<scroll><npc9>「え～っ！！なんか<br>
+# ぼくこわいな。」
+
+
+
+{"str_num":360,"prefix":"0x7","ptr_pos":160308,"str_pos":160516,"table":"normal","repoint":false}
+# <player> 「何だ，あのうずは。<br>
+# あなにながれこんでいるのではなく<br>
+# ぎゃくにふきだしていたぞ。」<scroll><npc9>「あながあいてるから，<br>
+# 中に入れそうなんだけどなぁ。」
+
+
+
+{"str_num":361,"prefix":"0x7","ptr_pos":160344,"str_pos":160844,"table":"normal","repoint":false}
+# <npc9>は，<br>
+# メルトの呪文を覚えた。
+
+
+
+{"str_num":362,"prefix":"0x7","ptr_pos":160356,"str_pos":160598,"table":"normal","repoint":false}
+# サイナック「<player>。これで<br>
+# おれはもくてきをはたした。おまえ<br>
+# はどうするつもりだ？」<scroll><player>「「女神像」をさがして<br>
+# ポロンの町にいるミオナへとどけな<br>
+# くてはならないんだ。」<scroll>サイナック「それじゃおわかれだな。<br>
+# そうだ。おまえ，これからも船が必<br>
+# 要だろ。せわになったお礼にこの船<br>
+# をやるよ。おれはその海賊船をいた<br>
+# だくとするからよ。ちっとはなおさ<br>
+# なくちゃならないが，パワ―はおれ<br>
+# の船より上だからな。じゃあおれは<br>
+# いくぜ，みんな元気でな！！」
+
+
+
+{"str_num":368,"prefix":"0x7","ptr_pos":161272,"str_pos":161416,"table":"normal","repoint":false}
+# <player>「どうしたことだろう。<br>
+# 父さんのかたみの剣がひかりだした<br>
+# ぞ。」
+
+
+
+{"str_num":369,"prefix":"0x7","ptr_pos":161306,"str_pos":161456,"table":"normal","repoint":false}
+# <player>「あっ，父さん。<br>
+# 父さんじゃないですか！！」<scroll>ザファン「<player>。たくましく<br>
+# なったな。わたしはうれしいぞ。<br>
+# これから，わたしが世をさる前にい<br>
+# いそびれた事を話そう。<br>
+# ・・・・・・・・・・・・・・・。<br>
+# いいかよく聞くのだ。<br>
+# <player>，おまえはわたしの<br>
+# ほんとうの子ではない。」<scroll><player>「えっ！何ですって。」<scroll>ザファン「１６年前のことだった。<br>
+# わたしは家に帰るとちゅうに，何か<br>
+# をかかえて飛んでいる生き物が，<br>
+# カミナリにうたれるのを目撃した。<br>
+# わたしがその場へ行き，見たものは<br>
+# やけこげた生き物と，あかんぼうの<br>
+# お前だった。その時，お前のせなか<br>
+# には天使の羽がはえていたのだ。<br>
+# わたしは運命を感じ，自分の子とし<br>
+# てそだることにした。お前の羽と力<br>
+# をふういんしておいたが，今こそ，<br>
+# そのふういんをとこう。<br>
+# ・・・・・・・・・・・・・・。
+
+
+
+{"str_num":370,"prefix":"0x7","ptr_pos":161316,"str_pos":161872,"table":"normal","repoint":false}
+# <npc1>「<player>！！」<scroll><npc9>「<player>，きみは<br>
+# 天使だったんだね。」<scroll>ザファン「まずはこの世界から出るた<br>
+# めに，飛空妖船を手に入れる事が<br>
+# 必要だな。この世界の塔の中に何か<br>
+# かくされているにちがいない。<br>
+# わたしも力になろう。」
+
+
+
+{"str_num":371,"prefix":"0x7","ptr_pos":162098,"str_pos":163108,"table":"normal","repoint":false}
+# やくひんのビンをみつけた。
+
+
+
+{"str_num":373,"prefix":"0x7","ptr_pos":162164,"str_pos":162302,"table":"normal","repoint":false}
+# おお，<player>。よくきたの。<br>
+# まあ，ゆっくりしていきなさい。
+
+
+
+{"str_num":374,"prefix":"0x7","ptr_pos":162172,"str_pos":162334,"table":"normal","repoint":false}
+# 長老「盗賊たちにおそわれて町はあら<br>
+# され，わかい娘たちはみんなつれさ<br>
+# られてしまった。<npc1>たち<br>
+# をたすけてくれ。」
+
+
+
+{"str_num":375,"prefix":"0x7","ptr_pos":162180,"str_pos":162400,"table":"normal","repoint":false}
+# 長老「<npc1>たちは<br>
+# ぶじだったか？」<scroll><player>「ええ。しかし，たす<br>
+# けるには盗賊のボスをたおさなくて<br>
+# は。そのためにはボスの持つうでわ<br>
+# の力をふうじなければなりません。<br>
+# 長老，その方法を知りませんか？」<scroll>長老「うでわの力をふうじるためには<br>
+# うでわをとかしてしまえばいいの<br>
+# じゃよ。その楽のつくり方は知って<br>
+# おる。」<scroll><player>「では，早く<br>
+# その楽を。」<scroll>長老「だめなのじゃよ。ざいりょうが<br>
+# なくてな。それをつくるには神秘の<br>
+# 楽草が必要なのじゃ。」
+
+
+
+{"str_num":376,"prefix":"0x7","ptr_pos":162220,"str_pos":162652,"table":"normal","repoint":false}
+# 神秘の楽草があればなぁ。
+
+
+
+{"str_num":377,"prefix":"0x7","ptr_pos":162228,"str_pos":162670,"table":"normal","repoint":false}
+# <player>「その楽草とは，これの<br>
+# ことですか？」
+
+
+
+{"str_num":378,"prefix":"0x7","ptr_pos":162234,"str_pos":162696,"table":"normal","repoint":false}
+# 長老「おお！！それはまさしく，神秘<br>
+# の楽草！！これで楽をつくる事が<br>
+# 出来る。今からさっそくつくろう。<br>
+# 明日にでもとりに来てくれ。」
+
+
+
+{"str_num":379,"prefix":"0x7","ptr_pos":162250,"str_pos":162778,"table":"normal","repoint":false}
+# 今，つくっているから<br>
+# 明日にでもとりに来てくれ。
+
+
+
+{"str_num":380,"prefix":"0x7","ptr_pos":162266,"str_pos":163096,"table":"normal","repoint":false}
+# ・・・・・・・・・・
+
+
+
+{"str_num":381,"prefix":"0x7","ptr_pos":162274,"str_pos":162810,"table":"normal","repoint":false}
+# <player>「長老！！だいじょうぶ<br>
+# ですか。」<scroll>長老「ちょっと，むりをしすぎたよう<br>
+# じゃ。盗賊におそわれた時のキズが<br>
+# 悪化してな。」<scroll><player>「長老！！しっかりして<br>
+# ください。」<scroll>長老「自分の体は自分が１ばんよく<br>
+# わかっておる。どうやらこれまで<br>
+# だな。だが，あんしんするがいい，<br>
+# 楽は出来ておるぞ。そこのたなに<br>
+# おいてある，持っていくがよい。」<scroll><player>「それをどうすればいい<br>
+# のですか？」<scroll>長老「それをビンごとあいてになげつ<br>
+# けるのだ。必ずや娘たちをたすけ<br>
+# 出して，く・れ・よ・・・・・・」<scroll><player>「長老～！！」
+
+
+
+{"str_num":382,"prefix":"0x27","ptr_pos":163210,"str_pos":6917,"table":"normal","repoint":false}
+# そ
+# +
+# if the second line is right, change 'table' to 'menu'
+
+
+
+{"str_num":383,"prefix":"0x7","ptr_pos":163500,"str_pos":163626,"table":"normal","repoint":false}
+# さすがにお城には，本がたくさんあ<br>
+# るなぁ。
+
+
+
+{"str_num":384,"prefix":"0x7","ptr_pos":163508,"str_pos":163652,"table":"normal","repoint":false}
+# しょくじのよういをするのも大変な<br>
+# のよね。
+
+
+
+{"str_num":385,"prefix":"0x7","ptr_pos":163516,"str_pos":163678,"table":"normal","repoint":false}
+# あ～，いそがしい。いそがしい。
+
+
+
+{"str_num":386,"prefix":"0x7","ptr_pos":163524,"str_pos":163696,"table":"normal","repoint":false}
+# わ～い。わ～い。お城の中って，<br>
+# だ～いすき。王様も，だ～いすき。
+
+
+
+{"str_num":387,"prefix":"0x7","ptr_pos":163532,"str_pos":163740,"table":"normal","repoint":false}
+# お城の中はとってもひろいんだぞ。<br>
+# おっかけっこしたって，だいじょう<br>
+# ぶだよ。
+
+
+
+{"str_num":388,"prefix":"0x7","ptr_pos":163540,"str_pos":163784,"table":"normal","repoint":false}
+# リ―ム城へようこそ。
+
+
+
+{"str_num":389,"prefix":"0x7","ptr_pos":163548,"str_pos":163798,"table":"normal","repoint":false}
+# ２かいには，イスラ―ル王がいらっ<br>
+# しゃる。
+
+
+
+{"str_num":390,"prefix":"0x7","ptr_pos":163556,"str_pos":163824,"table":"normal","repoint":false}
+# よるは城へ入る事はできません。
+
+
+
+{"str_num":391,"prefix":"0x7","ptr_pos":163564,"str_pos":163844,"table":"normal","repoint":false}
+# また，あしたきてください。
+
+
+
+{"str_num":392,"prefix":"0x7","ptr_pos":163572,"str_pos":163860,"table":"normal","repoint":false}
+# 悪いが通せんのだ。
+
+
+
+{"str_num":393,"prefix":"0x7","ptr_pos":163580,"str_pos":163874,"table":"normal","repoint":false}
+# 王様のみみはろばのみみ？！<br>
+# <br>
+# だったらパタパタしてかわゆいだろ<br>
+# うなぁ。
+
+
+
+{"str_num":394,"prefix":"0x7","ptr_pos":163588,"str_pos":163918,"table":"normal","repoint":false}
+# ねぇねぇみぎがわのもんばんさんて<br>
+# かっこいいとおもわない？
+
+
+
+{"str_num":395,"prefix":"0x7","ptr_pos":163596,"str_pos":163950,"table":"normal","repoint":false}
+# ゲ―ムの攻りゃく本かい？<br>
+# ここにはおいていないよ。
+
+
+
+{"str_num":396,"prefix":"0x7","ptr_pos":163604,"str_pos":163980,"table":"normal","repoint":false}
+# オレかい今日は仕事がおわったから<br>
+# 町で一ぱい引っかけて帰るのさ。
+
+
+
+{"str_num":397,"prefix":"0x7","ptr_pos":163612,"str_pos":164022,"table":"normal","repoint":false}
+# わしのそっくりさんが町にいるだと<br>
+# それはたにんのそら似じゃろう。<br>
+# おぬしまだまだしゅぎょうがたりん<br>
+# のう。
+
+
+
+{"str_num":398,"prefix":"0x7","ptr_pos":163620,"str_pos":164082,"table":"normal","repoint":false}
+# お城の人や町の人はみんなとてもは<br>
+# たらき者だからうごかずにいられな<br>
+# いのよ。
+
+
+
+{"str_num":399,"prefix":"0x7","ptr_pos":164470,"str_pos":164904,"table":"normal","repoint":false}
+# ああ～。いとしのアベル王子様。<br>
+# わたしはいつもここで見守って<br>
+# いますね。
+
+
+
+{"str_num":400,"prefix":"0x7","ptr_pos":164534,"str_pos":164950,"table":"normal","repoint":false}
+# 王「おお，よくまいったな<br>
+# <player>。<br>
+# うわさはいつも，ザファンから聞い<br>
+# ておるぞ」<scroll><player>「王様，実はさくばん，<br>
+# 父がふかいキズを負って帰ってきま<br>
+# した。そして，今までの事を話した<br>
+# あとに息をひきとりました。<br>
+# 父のかたきをとるためにも，ゆい<br>
+# ごんどうりあなたの元ではたらか<br>
+# せて下さい。」<scroll>王「何！ザファンが死んだ！。そうか<br>
+# そうであったか・・・・。<br>
+# かれにはひそかに，この世界のこん<br>
+# らんの原因をさぐらせていたが，<br>
+# こんな事になるとは・・・・・<br>
+# すまぬ事をした。」<scroll><player>「王様！！私に父がおこ<br>
+# なっていた仕事を引きつがせて下さ<br>
+# い。」<scroll>王「まあ待て。その前におまえに頼み<br>
+# たい事がある。王妃エリンの病気の<br>
+# ぐあいが，最近特にひどくなり<br>
+# こまっているのだ。ある森に神秘の<br>
+# 楽草という物があり，それはどんな<br>
+# 病気にもきくという。<br>
+# すまぬがとってきてもらえぬか。」<scroll><player>「わかりました。必ずや<br>
+# 楽草をとってまいります。」
+
+
+
+{"str_num":401,"prefix":"0x7","ptr_pos":164546,"str_pos":165432,"table":"normal","repoint":false}
+# 王「必ず楽草をとってきてくれ。たの<br>
+# んだぞ。」
+
+
+
+{"str_num":402,"prefix":"0x7","ptr_pos":164554,"str_pos":165462,"table":"normal","repoint":false}
+# 王「体のほうはもういいのか？」<scroll><player>「はい。」<scroll>王「実は，エリンがなくなった。<br>
+# <player>，おまえにも世話に<br>
+# なったな。」<scroll><player>「ええっ！！そんな！！<br>
+# 王様もうしわけありませんでした。<br>
+# おれが早く神秘の楽草をとって来て<br>
+# いれば・・・」<scroll>王「まあ，そんなにおちこむでない。<br>
+# 王妃はつね日ごろから国のへいわを<br>
+# ねがっていた。このへいわを守るた<br>
+# めにも，世界のこんらんの原因を<br>
+# つきとめねばならぬ。<br>
+# 父のいしをついで，旅だってくれ<br>
+# るか？」<scroll><player>「もちろんです王様！」<scroll>王「そうか，ではたのんだぞ。<br>
+# 旅に出るには武器や金が必要であろ<br>
+# う，これを持って行くがよい。」<scroll><player>「ありがとうございます<br>
+# それでは行ってきます。」
+
+
+
+{"str_num":403,"prefix":"0x7","ptr_pos":164594,"str_pos":165816,"table":"normal","repoint":false}
+# 王「世界のこんらんの原因は<br>
+# わかったか？」<scroll><player>「今，ちょうさ中です。<br>
+# もうすこしお待ち下さい。」
+
+
+
+{"str_num":404,"prefix":"0x7","ptr_pos":164602,"str_pos":165878,"table":"normal","repoint":false}
+# 王「おお，<player>。<br>
+# よくもどって来てくれた。<br>
+# 実はおまえに頼みがあって使いを出<br>
+# したのだ。」<scroll><player>「頼みとは，いったい<br>
+# 何でしょう？」<scroll>王「最近，王子の身のまわりでふしぜ<br>
+# んなじこが，おきているのだ。<br>
+# だれかが王子の命をねらっている<br>
+# としか，おもえん。<br>
+# それで王子のけいごを頼みたいのだ<br>
+# が。」
+
+
+
+{"str_num":405,"prefix":"0x7","ptr_pos":164618,"str_pos":166052,"table":"normal","repoint":false}
+# 王子「<player>，力になってくれ<br>
+# ないか。」<scroll><player>「わかりました。わたし<br>
+# で力になれるのなら。」<scroll>王「そうか，やってくれるか。<br>
+# たのんだぞ。<br>
+# 旅でつかれているだろう，今日は<br>
+# ゆっくりと休むがいい。」
+
+
+
+{"str_num":406,"prefix":"0x7","ptr_pos":164648,"str_pos":166640,"table":"normal","repoint":false}
+# 王「おお，もどってまいったか。<br>
+# それで何か，わかったか？」<scroll><player>「ちょっと，気になる<br>
+# うわさをみみにしまして。」<scroll>王「うわさ？<br>
+# それはどんなうわさかな。」<scroll><player>「はい。最近，マステマ<br>
+# の国がリ―ムの国に攻めこむために<br>
+# じゅんびをしているという話です」<scroll>王「何？マステマがわが国に攻めこん<br>
+# でくる？まさかその様な事は。」
+
+
+
+{"str_num":407,"prefix":"0x7","ptr_pos":164664,"str_pos":166818,"table":"normal","repoint":false}
+# アベル「そういえば父上，マステマの<br>
+# ウト―ク王が最近，さい婚したと<br>
+# 聞きますが」<scroll>王「アベル，結婚いわいのあいさつも<br>
+# かねて，マステマの様子をさぐって<br>
+# きてくれぬか。」<scroll>アベル「わかりました。<br>
+# これから<player>たちとともに<br>
+# 出かける事にします。」
+
+
+
+{"str_num":408,"prefix":"0x7","ptr_pos":164684,"str_pos":166958,"table":"normal","repoint":false}
+# アベルがなかまになった。
+
+
+
+{"str_num":409,"prefix":"0x7","ptr_pos":164740,"str_pos":166162,"table":"normal","repoint":false}
+# 最近，王妃様のぐあいがどんどん<br>
+# 悪くなるいっぽうでとてもしんぱい<br>
+# しております。
+
+
+
+{"str_num":410,"prefix":"0x7","ptr_pos":164748,"str_pos":166212,"table":"normal","repoint":false}
+# モンスタ―との戦いはかなりつらい<br>
+# とおもうが，がんばるのだぞ。
+
+
+
+{"str_num":411,"prefix":"0x7","ptr_pos":164764,"str_pos":166248,"table":"normal","repoint":false}
+# そなたがザファンの息子か。父に<br>
+# にてせいかんなかおをしておるの。
+
+
+
+{"str_num":412,"prefix":"0x7","ptr_pos":164772,"str_pos":166286,"table":"normal","repoint":false}
+# こまめに体を休める事が<br>
+# たいせつだ。
+
+
+
+{"str_num":413,"prefix":"0x7","ptr_pos":164788,"str_pos":166310,"table":"normal","repoint":false}
+# きみが<player>か。話はいつも<br>
+# 聞いているよ。
+
+
+
+{"str_num":414,"prefix":"0x7","ptr_pos":164800,"str_pos":166336,"table":"normal","repoint":false}
+# 母の病気がしんぱいだ。早くよくな<br>
+# ってくれればよいのだが。
+
+
+
+{"str_num":415,"prefix":"0x7","ptr_pos":164808,"str_pos":166372,"table":"normal","repoint":false}
+# 父上の話しを聞いてくれ。
+
+
+
+{"str_num":416,"prefix":"0x7","ptr_pos":164816,"str_pos":166972,"table":"normal","repoint":false}
+# 旅の様子はどうだい？
+
+
+
+{"str_num":418,"prefix":"0x7","ptr_pos":164834,"str_pos":166390,"table":"normal","repoint":false}
+# 王「<player>，<npc1>。<br>
+# 昨日のよるは王子の命を守ってくれ<br>
+# 何と礼をいってよいやら。」<scroll><player>「いいえ，お力になれて<br>
+# うれしいです。」<scroll>王「しかし，だい２王妃であるフレイ<br>
+# ヤが王子の命をねらうとは・・。」<scroll> 王妃エリンが死んでしまった今，<br>
+# 王子のアベルまでもが命をおとす様<br>
+# な事はぜったいにあってはならぬ。<br>
+# <player>，世界の乱れの原因を<br>
+# ちょうさするといっしょに，フレイ<br>
+# ヤをさがしてくれぬか。」<scroll><player>「わかりました。やって<br>
+# みます。」
+
+
+
+{"str_num":419,"prefix":"0x7","ptr_pos":164850,"str_pos":166988,"table":"normal","repoint":false}
+# つぎの休みは，なかまと近くの森へ<br>
+# 行くのだが君，ひまかい？
+
+
+
+{"str_num":420,"prefix":"0x7","ptr_pos":164858,"str_pos":167026,"table":"normal","repoint":false}
+# 私，王様のフワフワしたひげ，ひそ<br>
+# かに引っぱってみたいとおもってる<br>
+# のふふっ。
+
+
+
+{"str_num":421,"prefix":"0x7","ptr_pos":164866,"str_pos":167074,"table":"normal","repoint":false}
+# 前へ，どうぞ。
+
+
+
+{"str_num":422,"prefix":"0x7","ptr_pos":164874,"str_pos":167084,"table":"normal","repoint":false}
+# 王様の話をよく聞きたまえ。
+
+
+
+{"str_num":423,"prefix":"0x7","ptr_pos":164882,"str_pos":167104,"table":"normal","repoint":false}
+# 戦う事が生きる事なのか，生きてゆ<br>
+# く事が，戦いなのか・・・
+
+
+
+{"str_num":424,"prefix":"0x7","ptr_pos":164890,"str_pos":167142,"table":"normal","repoint":false}
+# 王様の間です。
+
+
+
+{"str_num":425,"prefix":"0x7","ptr_pos":164898,"str_pos":167154,"table":"normal","repoint":false}
+# 王様がお待ちかねです。
+
+
+
+{"str_num":426,"prefix":"0x7","ptr_pos":167428,"str_pos":168126,"table":"normal","repoint":false}
+# お部屋のそうじって，大変なのよ。
+
+
+
+{"str_num":427,"prefix":"0x7","ptr_pos":167438,"str_pos":168148,"table":"normal","repoint":false}
+# がんばってくださいね。
+
+
+
+{"str_num":428,"prefix":"0x7","ptr_pos":167450,"str_pos":167884,"table":"normal","repoint":false}
+# 女性「お目覚めになりましたか？<br>
+# あなたは山道でたおれていたのです<br>
+# よ。体の方はもう，だいじょうぶ<br>
+# ですか？」<scroll><player>「ええ，おかげでよくな<br>
+# りました。ほんとうにありがとう。<br>
+# あっ，そうだ。ぼくの持ち物はどう<br>
+# なりました？」<scroll>女性「ざんねんな事に何ものこっては<br>
+# いなかった様ですね。そうそう，<br>
+# 王様もしんぱいなさっていました，<br>
+# 元気なかおを見せにいってあげて<br>
+# 下さい。」<scroll><player>「王様が？そうですね。<br>
+# そうさせてもらいます。」
+
+
+
+{"str_num":429,"prefix":"0x7","ptr_pos":167510,"str_pos":168162,"table":"normal","repoint":false}
+# 王子「わ―，お前は誰だ！！」<br>
+# ・・・・・・・・・・・・・・
+
+
+
+{"str_num":430,"prefix":"0x7","ptr_pos":167532,"str_pos":168196,"table":"normal","repoint":false}
+# <player>「今，王子様のこえが<br>
+# 聞こえなかった？」<scroll><npc1>「ええ，私にも聞こえ<br>
+# たわ。」<scroll><player>「とにかく，王子様の<br>
+# 部屋に行ってみよう。」
+
+
+
+{"str_num":431,"prefix":"0x7","ptr_pos":167556,"str_pos":168278,"table":"normal","repoint":false}
+# ころし屋「アベル王子ですね。」<scroll>王子「おまえは！！ぼくをどうしよう<br>
+# というのだ。何かうらみでもあるの<br>
+# か。」<scroll>ころし屋「あなたにはうらみはないが<br>
+# これも命れいなのであきらめていた<br>
+# だきたい。」
+
+
+
+{"str_num":432,"prefix":"0x7","ptr_pos":167570,"str_pos":168386,"table":"normal","repoint":false}
+# <player>「待て！！王子様に何を<br>
+# する気だ。」<scroll>ころし屋「わたしのジャマをするとい<br>
+# うなら，お前たちもあの世へ行って<br>
+# もらう。」<scroll><player>「その様な事をさせる<br>
+# ものか！！」
+
+
+
+{"str_num":433,"prefix":"0x7","ptr_pos":167596,"str_pos":168484,"table":"normal","repoint":false}
+# <player>「お前の負けだかんねん<br>
+# するんだな。<br>
+# いったいだれに頼まれたんだ。」<scroll>ころし屋「このおれに勝つとは，なか<br>
+# なかやるな。<br>
+# だれがおれに命れいしたかって？<br>
+# この国の，だい２王妃様だよ。<br>
+# 自分の息子を王にしたかったのかも<br>
+# な。おっと，しゃべりすぎたぜ。<br>
+# それじゃあ，あばよ！！」
+
+
+
+{"str_num":434,"prefix":"0x7","ptr_pos":167612,"str_pos":169122,"table":"normal","repoint":false}
+# <player>「逃がすものか。<br>
+# まて！！」
+
+
+
+{"str_num":435,"prefix":"0x7","ptr_pos":167634,"str_pos":169142,"table":"normal","repoint":false}
+# 王子「もう，すがたがみえないな。」<scroll><player>「逃げられたか。」
+
+
+
+{"str_num":436,"prefix":"0x7","ptr_pos":167650,"str_pos":168646,"table":"normal","repoint":false}
+# <npc1>「王子様，おケガはあり<br>
+# ませんか？」<scroll>王子「ああ，だいじょうぶだ。<br>
+# たすかったよ。」<scroll><player>「あの男，だい２王妃<br>
+# っていってましたよ？」<scroll>王子「あの人がなぜ，ぼくの命を・・<br>
+# ほんとうなのだろうか。」<scroll><npc1>「とにかく本人にたしか<br>
+# めてみましょう。」
+
+
+
+{"str_num":437,"prefix":"0x7","ptr_pos":167694,"str_pos":168790,"table":"normal","repoint":false}
+# 王子「誰もいないぞ。」<scroll><npc1>「どこへ行ってしまった<br>
+# のかしら？」<scroll>王子「そういえば，さいきんはあまり<br>
+# すがたを見なかったな。」<scroll><player>「あんさつのけいかくが<br>
+# 実行されるまで，どこかにかくれて<br>
+# いるつもりだったのかも。」<scroll><npc1>「もう，どこかに逃げち<br>
+# ゃったのかもしれないわね。」<scroll>王子「もう今日はおそい。明日，父上<br>
+# にほうこくするとしよう。」
+
+
+
+{"str_num":438,"prefix":"0x7","ptr_pos":167854,"str_pos":168982,"table":"normal","repoint":false}
+# あまりお城の中でふしんなうごきを<br>
+# するでない！
+
+
+
+{"str_num":439,"prefix":"0x7","ptr_pos":167862,"str_pos":169010,"table":"normal","repoint":false}
+# よくぞわたしに話しかけてくっださ<br>
+# った，感げきのあまりことばが・・
+
+
+
+{"str_num":440,"prefix":"0x7","ptr_pos":167870,"str_pos":169048,"table":"normal","repoint":false}
+# 王様はお城をキンキラキンにかざる<br>
+# のは，きらいなんですって。
+
+
+
+{"str_num":441,"prefix":"0x7","ptr_pos":167878,"str_pos":169084,"table":"normal","repoint":false}
+# ここは，王様のプライベ―トル―ム<br>
+# です。入っては，いけません！
+
+
+
+{"str_num":442,"prefix":"0x7","ptr_pos":169310,"str_pos":169392,"table":"normal","repoint":false}
+# 盗賊ボス「おや，どこかで見たかお<br>
+# だとおもったら，あの時の兄ちゃん<br>
+# じゃないか。
+
+
+
+{"str_num":443,"prefix":"0x7","ptr_pos":169324,"str_pos":169440,"table":"normal","repoint":false}
+# ありがてえことに，あの剣は高く売<br>
+# れたぜ。
+
+
+
+{"str_num":444,"prefix":"0x7","ptr_pos":169330,"str_pos":169468,"table":"normal","repoint":false}
+# さて，またいたい目にでもあっても<br>
+# らおうかな。」
+
+
+
+{"str_num":445,"prefix":"0x7","ptr_pos":169766,"str_pos":170348,"table":"normal","repoint":false}
+# <npc1>「ありがとう。きっと，<br>
+# たすけてくれると信じていたわ。<br>
+# これでおじいちゃんの所にもどる事<br>
+# ができるわ。」<scroll><player>「<npc1>。<br>
+# きみのおじいちゃんだけど・・・。<br>
+# 盗賊のボスのうでわをふうじる楽を<br>
+# つくるためにむりをして・・・。<br>
+# 盗賊たちにおそわれた時のキズが<br>
+# まだなおっていなかったのに。<br>
+# それが原因で・・・・・・・。」<scroll><npc1>「えっ？おじいちゃん，<br>
+# どうしちゃったの？<br>
+# まさか！！死んじゃったわけじゃ<br>
+# ・・・・・・。」<scroll><player>「ああ。」<scroll><npc1>「・・・そうだったの。<br>
+# これでわたしは，ひとりぼっちに<br>
+# なってしまったのね。」<scroll><player>「元気出せよ。<br>
+# おれがいるじゃないか。」<scroll><npc1>「そうね・・・・・。<br>
+# <player>・・・。おねがいが<br>
+# あるの，聞いてくれる？」<scroll><player>「おねがい？<br>
+# 何だい？いってごらん。」<scroll><npc1>「私もあなたといっしょ<br>
+# に旅をしてもいい？行方不明に<br>
+# なっている兄をさがしたいの。」<scroll><player>「そうか，わかったよ。<br>
+# いっしょに旅をしよう。あんしん<br>
+# しなよ，きみの兄さんはきっと<br>
+# おれが見つけてあげるよ。」
+
+
+
+{"str_num":446,"prefix":"0x7","ptr_pos":169802,"str_pos":170842,"table":"normal","repoint":false}
+# <npc1>がなかまになった。
+
+
+
+{"str_num":447,"prefix":"0x7","ptr_pos":169840,"str_pos":170034,"table":"normal","repoint":false}
+# 盗賊のボスは，ふつうの人間の力<br>
+# ではたおせないらしいわ。<br>
+# きっと，あのうでわのせいよ。
+
+
+
+{"str_num":448,"prefix":"0x7","ptr_pos":169860,"str_pos":170086,"table":"normal","repoint":false}
+# はやく町に帰らなくては。
+
+
+
+{"str_num":449,"prefix":"0x7","ptr_pos":169900,"str_pos":170102,"table":"normal","repoint":false}
+# 今は盗賊たちはどこかで悪だくみの<br>
+# そうだんをしているはずよ。
+
+
+
+{"str_num":450,"prefix":"0x7","ptr_pos":169920,"str_pos":170140,"table":"normal","repoint":false}
+# 早く外に出たいわ。
+
+
+
+{"str_num":451,"prefix":"0x7","ptr_pos":169960,"str_pos":170154,"table":"normal","repoint":false}
+# たすけて，盗賊たちにとらえられて<br>
+# しまったの。
+
+
+
+{"str_num":452,"prefix":"0x7","ptr_pos":169968,"str_pos":170182,"table":"normal","repoint":false}
+# 町の人たちはどうしているのかしら<br>
+# しんぱいだわ。
+
+
+
+{"str_num":453,"prefix":"0x7","ptr_pos":170006,"str_pos":170210,"table":"normal","repoint":false}
+# <npc1>「<player>！！<br>
+# たすけに来てくれたのね。<br>
+# でも，ろう屋のカギがないと外には<br>
+# 出ることができないの。カギは盗賊<br>
+# のボスが持っているはずよ。」
+
+
+
+{"str_num":454,"prefix":"0x7","ptr_pos":170026,"str_pos":170290,"table":"normal","repoint":false}
+# <npc1>「ボスの持っている<br>
+# うでわのふしぎな力をふうじる方法<br>
+# をおじいちゃんなら知っていると<br>
+# おもうわ。」
+
+
+
+{"str_num":455,"prefix":"0x7","ptr_pos":170932,"str_pos":170946,"table":"normal","repoint":false}
+# 必要な物をすててしまったら，<br>
+# オ―クション会場に行くしか手は<br>
+# ないな。
+
+
+
+{"str_num":456,"prefix":"0x7","ptr_pos":170940,"str_pos":170992,"table":"normal","repoint":false}
+# 魔法はゆうこうに使わないと，<br>
+# つらい戦いになるわよ。
+
+
+
+{"str_num":457,"prefix":"0x7","ptr_pos":171152,"str_pos":171158,"table":"normal","repoint":false}
+# かいふくのみといえども，年のかい<br>
+# ふくは，むりなようじゃ・・・。
+
+
+
+{"str_num":458,"prefix":"0x7","ptr_pos":171444,"str_pos":171498,"table":"normal","repoint":false}
+# いらっしゃい！！
+
+
+
+{"str_num":459,"prefix":"0x7","ptr_pos":171452,"str_pos":171508,"table":"normal","repoint":false}
+# サケをのむときは，人にめいわくを<br>
+# かけないようにして，のむんだぞ。
+
+
+
+{"str_num":460,"prefix":"0x7","ptr_pos":171460,"str_pos":171546,"table":"normal","repoint":false}
+# サケはのんでも，のまれるな。
+
+
+
+{"str_num":461,"prefix":"0x7","ptr_pos":171468,"str_pos":171562,"table":"normal","repoint":false}
+# しゅう教につぼって最近，はやって<br>
+# んのかな。
+
+
+
+{"str_num":462,"prefix":"0x7","ptr_pos":171476,"str_pos":171590,"table":"normal","repoint":false}
+# みせい年にサケは出せないね！<br>
+# さあ帰った帰った。
+
+
+
+{"str_num":463,"prefix":"0x7","ptr_pos":171484,"str_pos":171620,"table":"normal","repoint":false}
+# とりあえずビ―ル。
+
+
+
+{"str_num":464,"prefix":"0x7","ptr_pos":171492,"str_pos":171632,"table":"normal","repoint":false}
+# ながしの兄さんかい？<br>
+# どんなうたしってんだい。
+
+
+
+{"str_num":465,"prefix":"0x7","ptr_pos":171824,"str_pos":171830,"table":"normal","repoint":false}
+# 何日借りているか，覚えていた方が<br>
+# いいぞ―。
+
+
+
+{"str_num":466,"prefix":"0x7","ptr_pos":171944,"str_pos":171992,"table":"normal","repoint":false}
+# お店の人どこへ行ったのかしら。
+
+
+
+{"str_num":467,"prefix":"0x7","ptr_pos":171952,"str_pos":171962,"table":"normal","repoint":false}
+# ここは預かり所よ。持ち物を<br>
+# 預かってくれるわ。
+
+
+
+{"str_num":468,"prefix":"0x7","ptr_pos":172176,"str_pos":172846,"table":"normal","repoint":false}
+# リヒエル「<npc1>！いったい，<br>
+# 何があったというんだ。」<scroll><player>「だれのせいでこの様に<br>
+# なってしまったのか，知っているの<br>
+# ですか？」<scroll>リヒエル「だれがこの様な事を！！」<scroll><player>「リヒエル！！あなたは<br>
+# 知らないのですか。あなたが信じて<br>
+# いる教団の人たちに，ムリヤリ毒を<br>
+# のまされたのですよ。」<scroll>リヒエル「何だって，そんなバカな・<br>
+# ・・。おれには信じられん。」<scroll><player>「何をいっているの<br>
+# ですか。ここにねこんでいる<br>
+# <npc1>が何よりのしょうこ<br>
+# じゃないですか」<scroll>リヒエル「・・・・。そのようだな。<br>
+# おれは大きなまちがいをおかして<br>
+# いたようだ。<br>
+# こんな事になるなんて。教団の者<br>
+# たちめ，ぜったいにゆるせん。」<scroll><player>「教会の地下のどこかに<br>
+# 「げどくざい」があるという話を<br>
+# 聞きました。<br>
+# 手つだってくれますね。」<scroll>リヒエル「もちろんだ。妹のためにも<br>
+# 必ず手に入れてみせる。」
+
+
+
+{"str_num":469,"prefix":"0x7","ptr_pos":172192,"str_pos":173266,"table":"normal","repoint":false}
+# リヒエルがなかまになった。
+
+
+
+{"str_num":470,"prefix":"0x7","ptr_pos":172242,"str_pos":172414,"table":"normal","repoint":false}
+# 教会ができてから，町のかんじが<br>
+# 変わってしまったわ。
+
+
+
+{"str_num":471,"prefix":"0x7","ptr_pos":172250,"str_pos":172500,"table":"normal","repoint":false}
+# <npc1>さんの様子は<br>
+# どうですか。良くなるまでうちで，<br>
+# ゆっくりしていってください。
+
+
+
+{"str_num":472,"prefix":"0x7","ptr_pos":172266,"str_pos":172446,"table":"normal","repoint":false}
+# 町の外をあるくと，かいじゅうが<br>
+# でるからこわいんだよ。
+
+
+
+{"str_num":473,"prefix":"0x7","ptr_pos":172274,"str_pos":172548,"table":"normal","repoint":false}
+# <npc1>のおねえちゃん，<br>
+# だいじょうぶかなぁ。
+
+
+
+{"str_num":474,"prefix":"0x7","ptr_pos":172290,"str_pos":172478,"table":"normal","repoint":false}
+# パパはずっと出かけたまんま<br>
+# なんだ。
+
+
+
+{"str_num":475,"prefix":"0x7","ptr_pos":172298,"str_pos":172572,"table":"normal","repoint":false}
+# 子ども「よし，きめた。<br>
+# <npc1>ねえちゃんをぼくの<br>
+# およめさんにしてあげよう。」<scroll><player>「えっ，だめだ！！<br>
+# <npc1>はだめだぞ！！」<scroll>子ども「おにいちゃん。<br>
+# 何，こうふんしてるの？」
+
+
+
+{"str_num":476,"prefix":"0x7","ptr_pos":172306,"str_pos":173282,"table":"normal","repoint":false}
+# <player>「おはよう。気分はどん<br>
+# な感じだい？」<scroll><npc1>「ええ，だいじょうぶ。<br>
+# すっかり元気になったわ。<br>
+# ・・・・・・・・・・。<br>
+# 兄さん，今ごろどうしているの<br>
+# かしら。」<scroll><player>「兄さん？<br>
+# そうだ！！わすれていた。<br>
+# 「げどくざい」を手に入れるために<br>
+# リヒエルと，教会の地下にせん入<br>
+# したんだ。しかしやつらに見つかっ<br>
+# てしまい，リヒエルが１人のこって<br>
+# おれを逃がしてくれたんだった。」<scroll><npc1>「えっ！なんですって。<br>
+# すぐに兄さんをさがしに行きましょ<br>
+# う。」<scroll><player>「どうか，ぶじでいて<br>
+# くれたらよいのだが。」
+
+
+
+{"str_num":477,"prefix":"0x7","ptr_pos":172358,"str_pos":172666,"table":"normal","repoint":false}
+# う―ん。う―ん。
+
+
+
+{"str_num":478,"prefix":"0x7","ptr_pos":172366,"str_pos":172676,"table":"normal","repoint":false}
+# <player>「<npc1>。ほら，<br>
+# これをのむんだ。早くよくなって<br>
+# くれよ。」<scroll><npc1>「・・・・・」<scroll><player>「なんだか，かおにあか<br>
+# みがもどってきたようだな。」<scroll><npc1>「う―ん。わたし，どう<br>
+# しちゃったのかしら。」<scroll><player>「きみは毒をのまされて<br>
+# 気をうしなっていたんだよ。くわし<br>
+# い話はあとにしよう，とにかく今は<br>
+# ゆっくり休むんだ。」
+
+
+
+{"str_num":479,"prefix":"0x7","ptr_pos":173658,"str_pos":173744,"table":"normal","repoint":false}
+# 宿屋でこまめにセ―ブした方が<br>
+# いいぞ。全滅してしまったら，<br>
+# 前にセ―ブしたところから，やり<br>
+# なおしになってしまうぞ。
+
+
+
+{"str_num":480,"prefix":"0x7","ptr_pos":173676,"str_pos":173814,"table":"normal","repoint":false}
+# おはようございます。<br>
+# またごりようください。
+
+
+
+{"str_num":481,"prefix":"0x7","ptr_pos":173898,"str_pos":173904,"table":"normal","repoint":false}
+# わしのせりふは，まだきまっていな<br>
+# いんじゃよ。
+
+
+
+{"str_num":482,"prefix":"0x7","ptr_pos":174068,"str_pos":174098,"table":"normal","repoint":false}
+# わが教団の教えを信じればあなたも<br>
+# しあわせになれます。
+
+
+
+{"str_num":483,"prefix":"0x7","ptr_pos":174076,"str_pos":174132,"table":"normal","repoint":false}
+# 人間にとっていちばん大せつな事は<br>
+# しあわせだということです。
+
+
+
+{"str_num":484,"prefix":"0x7","ptr_pos":174084,"str_pos":174170,"table":"normal","repoint":false}
+# 「しあわせのがくしゅう」のおしえ<br>
+# は，すごいぞ！！
+
+
+
+{"str_num":485,"prefix":"0x7","ptr_pos":174092,"str_pos":174198,"table":"normal","repoint":false}
+# わしは今，しあわせ～なきもちで<br>
+# いっぱいじゃ。
+
+
+
+{"str_num":486,"prefix":"0x27","ptr_pos":174312,"str_pos":144604,"table":"normal","repoint":false}
+# ボタンがあります。<br>
+# おしてみますか？
+
+
+
+{"str_num":487,"prefix":"0x7","ptr_pos":174336,"str_pos":174342,"table":"normal","repoint":false}
+# 君もくだらぬ旅などやめて私たちの<br>
+# 教えをまなばないかね。
+
+
+
+{"str_num":488,"prefix":"0x7","ptr_pos":174806,"str_pos":176878,"table":"normal","repoint":false}
+# ！
+
+
+
+{"str_num":489,"prefix":"0x7","ptr_pos":174878,"str_pos":176252,"table":"normal","repoint":false}
+# 老人「気がついた様だね。しかし，<br>
+# 大した体じゃのう。ふつうの人間な<br>
+# らもうムシの息の状態はずじゃが。<br>
+# おまえさんの，のまされた毒はふつ<br>
+# うの１０ばいだそうじゃよ。」<scroll><player>「おじいさんはどうして<br>
+# ここにいるんですか。」<scroll>老人「体が毒におかされてしまってな<br>
+# ふつうのせいかつが出来なくなって<br>
+# しまったので，教団の者につれてこ<br>
+# られたのじゃよ。「げどくざい」が<br>
+# ここにあるというウワサだがわしに<br>
+# はもうきかぬじゃろう。」
+
+
+
+{"str_num":490,"prefix":"0x7","ptr_pos":174946,"str_pos":176058,"table":"normal","repoint":false}
+# しさい長「きみたち，そこで何をして<br>
+# いるのだね。」<scroll><npc1>「わたしは兄さんのあと<br>
+# をおって・・・」<scroll>しさい長「兄さん？そんな人はここに<br>
+# はいないよ。それよりもきみたちは<br>
+# 見てはならないものを見てしまった<br>
+# 様だね。悪いがこのまま帰すわけに<br>
+# はいかないな。」
+
+
+
+{"str_num":491,"prefix":"0x7","ptr_pos":174970,"str_pos":176202,"table":"normal","repoint":false}
+# 教団員「ほら，これをのむんだ！！」<scroll><player>「うわ～！何をする。」<scroll><npc1>「きゃ～！やめて。」
+
+
+
+{"str_num":492,"prefix":"0x7","ptr_pos":175066,"str_pos":176926,"table":"normal","repoint":false}
+# リヒエル「時間がないから手分けして<br>
+# 探そう。」<scroll><player>「わかりました。」
+
+
+
+{"str_num":493,"prefix":"0x7","ptr_pos":175122,"str_pos":176968,"table":"normal","repoint":false}
+# リヒエル「みつかったか？」<scroll><player>「いいえ<br>
+# まだありません。」
+
+
+
+{"str_num":494,"prefix":"0x7","ptr_pos":175212,"str_pos":177206,"table":"normal","repoint":false}
+# <npc1>「兄さん！」
+
+
+
+{"str_num":495,"prefix":"0x7","ptr_pos":175248,"str_pos":177216,"table":"normal","repoint":false}
+# <npc1>「兄さん！なぜ，こんな<br>
+# すがたに・・・。おねがい，目を<br>
+# 開けて，兄さん。」<scroll><player>「リヒエル。<br>
+# おれを逃がすために，こんな事に<br>
+# なってしまい，すみませんでした。<br>
+# おかげで，<npc1>はげんき<br>
+# になりましたよ。」<scroll><npc1>「<player>！！<br>
+# 私，兄さんのかたきをうちたいの。<br>
+# 力をかして。」<scroll><player>「ああ。力をあわせて<br>
+# 教団のやつらをたおそう。」
+
+
+
+{"str_num":496,"prefix":"0x7","ptr_pos":175400,"str_pos":177400,"table":"normal","repoint":false}
+# しさい長「おろかな者たちよ。<br>
+# やはりもどってきたな。<br>
+# 必ず来ると，おもっていたよ。」<scroll><player>「よくも，リヒエルを<br>
+# あんな，すがたに！！」<scroll>しさい長「おまえら２人もおなじ運命<br>
+# なのだよ。こんどは逃がさんぞ。<br>
+# 者どもやってしまえ。」
+
+
+
+{"str_num":497,"prefix":"0x7","ptr_pos":175460,"str_pos":177530,"table":"normal","repoint":false}
+# <player>「かなしい事だけどきみ<br>
+# の兄さんはもういない。これでおれ<br>
+# といっしょに旅をするもくてきもな<br>
+# くなった。<npc1>，これから<br>
+# どうするつもりだい。」<scroll><npc1>「はじめは兄さんを<br>
+# さがすために旅に出たけれども<br>
+# 今はちょっとちがう気持ちなの。」<scroll><player>「ちがうって？」<scroll><npc1>「やっぱり最近，世界が<br>
+# おかしくなっているとおもうの。<br>
+# わたしもその原因をつきとめたく<br>
+# なってきたわ。それが兄さんの<br>
+# ためにもなるとおもうし。」<scroll><player>「・・・・・・・。」<scroll><npc1>「それにもっとあなた<br>
+# と旅をつづけたいの。いっしょに<br>
+# 行っていいでしょ。」<scroll><player>「これからもっとつらく<br>
+# なるとおもうけど，それでもいいの<br>
+# かい。」<scroll><npc1>「ええ，あなたとなら<br>
+# それもたえられるわ。おねがいつれ<br>
+# てって。」
+
+
+
+{"str_num":498,"prefix":"0x7","ptr_pos":175544,"str_pos":176912,"table":"normal","repoint":false}
+# げどくざいをみつけた。
+
+
+
+{"str_num":500,"prefix":"0x7","ptr_pos":175598,"str_pos":177000,"table":"normal","repoint":false}
+# リヒエル「みつかったか？」<scroll><player>「はい」<scroll>リヒエル「よし。はやく<npc1><br>
+# の所へもどろう」
+
+
+
+{"str_num":501,"prefix":"0x7","ptr_pos":175666,"str_pos":177046,"table":"normal","repoint":false}
+# しさい長「おまえたち，そこで何を<br>
+# している。しん入者だ。者どもつか<br>
+# まえろ。」
+
+
+
+{"str_num":502,"prefix":"0x7","ptr_pos":175676,"str_pos":177092,"table":"normal","repoint":false}
+# リヒエル「<player>。きみは楽を<br>
+# もって早く逃げるんだ。おれはここ<br>
+# で何とかくい止める。<br>
+# <npc1>の事を頼んだぞ。」<scroll><player>「リヒエル！！<br>
+# ・・・・・・。<br>
+# わかりました。ごぶじで！！」
+
+
+
+{"str_num":504,"prefix":"0x7","ptr_pos":175842,"str_pos":176486,"table":"normal","repoint":false}
+# 老人「ここから出たいか？」<scroll><player>「もちろんです。」<scroll>老人「この部屋はとなりのろうに，<br>
+# つながっている。そしてとなりの<br>
+# ろうのカベをしらべてみるがよい。<br>
+# 外に出れるはずだ。」<scroll><player>「おじいさん，あなたも<br>
+# いっしょにここを出ましょう。」<scroll>老人「いいや。わしにはもうそんな<br>
+# 元気はない。お前さんたち２人で<br>
+# 行くがよい。」
+
+
+
+{"str_num":505,"prefix":"0x7","ptr_pos":175854,"str_pos":176664,"table":"normal","repoint":false}
+# 老人「何をぐずぐずしている。早く<br>
+# 行くのだ。」
+
+
+
+{"str_num":506,"prefix":"0x7","ptr_pos":175862,"str_pos":176694,"table":"normal","repoint":false}
+# わしはこのままでいいんじゃ。
+
+
+
+{"str_num":507,"prefix":"0x7","ptr_pos":175886,"str_pos":176710,"table":"normal","repoint":false}
+# 男「ああ，ぬけ道の事か。カベのみぎ<br>
+# スミをしらべるといい。そこに出口<br>
+# がある。」<scroll><player>「あなたもいっしょに<br>
+# 行きましょう。」<scroll>男「いいや，おれはここを出たら生き<br>
+# てはいけない，２人で行くんだ。」
+
+
+
+{"str_num":508,"prefix":"0x7","ptr_pos":175898,"str_pos":176820,"table":"normal","repoint":false}
+# 男「見つからないうちに早く行け。」
+
+
+
+{"str_num":509,"prefix":"0x7","ptr_pos":175906,"str_pos":176842,"table":"normal","repoint":false}
+# ここから出て，おれは生きていける<br>
+# のだろうか。
+
+
+
+{"str_num":510,"prefix":"0x7","ptr_pos":175914,"str_pos":176868,"table":"normal","repoint":false}
+# う―ん。う―ん。
+
+
+
+{"str_num":512,"prefix":"0x7","ptr_pos":175938,"str_pos":177190,"table":"normal","repoint":false}
+# 何をしている早く行け。
+
+
+
+{"str_num":513,"prefix":"0x7","ptr_pos":175946,"str_pos":177890,"table":"normal","repoint":false}
+# ここから逃げられるとおもうなよ！
+
+
+
+{"str_num":516,"prefix":"0x7","ptr_pos":178098,"str_pos":178104,"table":"normal","repoint":false}
+# ドラゴンの生命力により，飛空妖船<br>
+# は，うごかされる。
+
+
+
+{"str_num":517,"prefix":"0x7","ptr_pos":178242,"str_pos":178248,"table":"normal","repoint":false}
+# 魔物のせいで若い娘がすくないから<br>
+# 村では，はなよめぶそくさ。
+
+
+
+{"str_num":518,"prefix":"0x27","ptr_pos":178316,"str_pos":5646,"table":"normal","repoint":false}
+# ぎず
+# MY
+# if the second line is right, change 'table' to 'menu'
+
+
+
+{"str_num":519,"prefix":"0x7","ptr_pos":178370,"str_pos":178392,"table":"normal","repoint":false}
+# 今年もまた１人いけにえに。かなし<br>
+# い事じゃ。毎年１人ずつ村におはか<br>
+# がふえてゆく。わしにはもう，たえ<br>
+# られぬ。
+
+
+
+{"str_num":520,"prefix":"0x7","ptr_pos":178378,"str_pos":178460,"table":"normal","repoint":false}
+# わしはしずかにくらしたい。<br>
+# それだけじゃ。
+
+
+
+{"str_num":521,"prefix":"0x7","ptr_pos":178386,"str_pos":178484,"table":"normal","repoint":false}
+# ぼく，でんせつの魔剣持ってるぜ<br>
+# ほら！<br>
+# えっ，これちがうのかい？<br>
+# そんな事いって，とっちゃうきだろ<br>
+# だまされないぞ。
+
+
+
+{"str_num":522,"prefix":"0x7","ptr_pos":178660,"str_pos":178796,"table":"normal","repoint":false}
+# クレイン「また，今年も村のわかい<br>
+# 女性を魔物にさし出す日がせまって<br>
+# きている。だれにきまるのだろう。<br>
+# この様な事はなくさなければならな<br>
+# いとおもっているのだが・・・。」
+
+
+
+{"str_num":523,"prefix":"0x7","ptr_pos":178668,"str_pos":179032,"table":"normal","repoint":false}
+# クレイン「あぁ。こんな事になるなん<br>
+# て。まさか，リノを魔物にさし出す<br>
+# 事になるなんて・・・。ぜったい，<br>
+# そんな事をさせるものか。<br>
+# そうだ，あの剣だ！！でんせつの魔<br>
+# 剣を手にいれて魔物をたおすんだ。<br>
+# もうそれしかない！！」
+
+
+
+{"str_num":524,"prefix":"0x7","ptr_pos":178682,"str_pos":179314,"table":"normal","repoint":false}
+# <player>「その魔剣って？」<scroll>クレイン「おれもよくは知らんが，<br>
+# その剣でしか魔物をたおすことが<br>
+# できないらしいのだ。」<scroll><player>「では，その剣をさがし<br>
+# に行きましょう。おれたちも力に<br>
+# なりますよ。」<scroll>クレイン「ありがとう，<player><br>
+# もう時間がない，すぐに出かける<br>
+# ことにしよう。」
+
+
+
+{"str_num":525,"prefix":"0x7","ptr_pos":178710,"str_pos":179158,"table":"normal","repoint":false}
+# <player>「その魔剣とはきっと，<br>
+# この剣でしょう。ここから西のどう<br>
+# くつで見つけました。」<scroll>クレイン「おお，その剣は。<br>
+# <player>！！頼みがある。<br>
+# その剣をかしてくれ。どうしても，<br>
+# おれには必要なのだ。」<scroll><player>「わかっています。これ<br>
+# から，いっしょに魔物をたおしに<br>
+# 行きましょう！！」
+
+
+
+{"str_num":526,"prefix":"0x7","ptr_pos":178736,"str_pos":179516,"table":"normal","repoint":false}
+# クレインがなかまになった。
+
+
+
+{"str_num":527,"prefix":"0x7","ptr_pos":178774,"str_pos":178894,"table":"normal","repoint":false}
+# リノ「わたしはクレインと２人でくら<br>
+# す事ができれば，それだけでほかに<br>
+# 何もいりません。」
+
+
+
+{"str_num":528,"prefix":"0x7","ptr_pos":178782,"str_pos":178944,"table":"normal","repoint":false}
+# リノ「ええ，わたしがリノです。<br>
+# わたし，１人の命で村がたすかるの<br>
+# ならその運命をすなおにうけいれま<br>
+# しょう。あいするクレインのために<br>
+# も，村のためにも。」
+
+
+
+{"str_num":529,"prefix":"0x7","ptr_pos":178790,"str_pos":179462,"table":"normal","repoint":false}
+# リノ「クレイン，わたしはあなたと出<br>
+# あえただけでしあわせだったわ。<br>
+# だから，あまりムリはしないでね」
+
+
+
+{"str_num":530,"prefix":"0x7","ptr_pos":179616,"str_pos":179654,"table":"normal","repoint":false}
+# わたしはひそかに魔物をたおして<br>
+# くれる人を待っているのです。<br>
+# このことは，ないしょですよ。
+
+
+
+{"str_num":531,"prefix":"0x7","ptr_pos":179624,"str_pos":179740,"table":"normal","repoint":false}
+# えっ，魔物をたおしたのですか。<br>
+# もう若い女性をさし出さなくて<br>
+# よいのですね。
+
+
+
+{"str_num":532,"prefix":"0x7","ptr_pos":179640,"str_pos":179706,"table":"normal","repoint":false}
+# でんせつの魔剣はだれでも使える<br>
+# というわけではないらしい。
+
+
+
+{"str_num":533,"prefix":"0x7","ptr_pos":179648,"str_pos":179786,"table":"normal","repoint":false}
+# そうか，でんせつの魔剣を手に<br>
+# 入れたのか。
+
+
+
+{"str_num":534,"prefix":"0x7","ptr_pos":179922,"str_pos":179928,"table":"normal","repoint":false}
+# でんせつの魔剣のうわさを<br>
+# 聞いた事があるかい？
+
+
+
+{"str_num":535,"prefix":"0x7","ptr_pos":180062,"str_pos":180138,"table":"normal","repoint":false}
+# おはようございます。<br>
+# またごりようください。
+
+
+
+{"str_num":536,"prefix":"0x7","ptr_pos":180132,"str_pos":180164,"table":"normal","repoint":false}
+# 何人ものゆうかんなせい年があのど<br>
+# うくつで命をおとしていった事であ<br>
+# ろう・・・。
+
+
+
+{"str_num":537,"prefix":"0x7","ptr_pos":180396,"str_pos":180442,"table":"normal","repoint":false}
+# おばば「旅の方か。まあ，ゆっくりし<br>
+# ていくがよい。」
+
+
+
+{"str_num":538,"prefix":"0x7","ptr_pos":180404,"str_pos":180472,"table":"normal","repoint":false}
+# おばば「魔物へさし出す女性がけって<br>
+# いした。<br>
+# これも，この村のため，しかたのな<br>
+# いことよ。」<scroll><player>「村のためって<br>
+# どういうことですか？」<scroll>おばば「いけにえをさし出さぬと，<br>
+# 村にわざわいがふりかかるのじゃ。<br>
+# しかし，おきてを守っているかぎり<br>
+# この村に生まれし者は病気やケガを<br>
+# する事はなく，自分のじゅみょう<br>
+# まで必ず生きる事ができる。」
+
+
+
+{"str_num":539,"prefix":"0x7","ptr_pos":180416,"str_pos":180666,"table":"normal","repoint":false}
+# おばば「けっして，おきてをやぶる事<br>
+# はできぬ。」
+
+
+
+{"str_num":540,"prefix":"0x7","ptr_pos":180424,"str_pos":180694,"table":"normal","repoint":false}
+# おばば「おかしい。いったいどうした<br>
+# というんじゃ。」<scroll><player>「何がおかしいのですか<br>
+# ふしぎな力を使う事ができなくなっ<br>
+# たのではないですか。」<scroll>おばば「なぜそのようなことがわかる<br>
+# のじゃ。」<scroll>クレイン「おばば，魔物をたおしたん<br>
+# だよ。その時，やつがあんたによろ<br>
+# しくといってたんでな。」<scroll>おばば「なっ，なに！！魔物をたおし<br>
+# たじゃと？！なぜその様な事を。」<scroll>クレイン「あんたと魔物がつるんでい<br>
+# たとはな。自分が力をえたいがため<br>
+# に，長い間，村の人たちをだましつ<br>
+# づけやがって。」<scroll>おばば「わしとて，いけにえなぞ出し<br>
+# たくはなかったのじゃ。しかし，<br>
+# 魔物とのけいやくでしかたのない事<br>
+# じゃった。」<scroll>クレイン「あんたをせめても，もう，<br>
+# リノはもどってこない。この事は<br>
+# すぐに村中に知れわたるだろう。<br>
+# あんたをどうするかは，村のみんな<br>
+# にきめてもらう。」
+
+
+
+{"str_num":541,"prefix":"0x7","ptr_pos":180436,"str_pos":181104,"table":"normal","repoint":false}
+# おばば「すまぬ，しかたのないことだ<br>
+# ったのじゃ。」
+
+
+
+{"str_num":542,"prefix":"0x7","ptr_pos":181294,"str_pos":181690,"table":"normal","repoint":false}
+# 宿屋人「どうかいたしましたか？」<scroll><player>「何か変なんですよ。<br>
+# ねむってもあまり，つかれがとれて<br>
+# いない様で。自分だけでなく，とま<br>
+# った者みんながそうなんで。」<scroll>宿屋人「おっ，お客様もそうですか。<br>
+# 最近，まよなかになると夢魔があら<br>
+# われて，ねむっている人を金縛りに<br>
+# あわせるのだそうです。そのせいで<br>
+# おきゃく様は休んでも，あまりつか<br>
+# れがとれない御様子です。」<scroll><player>「その夢魔を何とかする<br>
+# 事はできないのですか？」<scroll>宿屋人「夢魔をたおすにはまず夢の<br>
+# 世界から，引きずり出さなければ<br>
+# ならないのです。」
+
+
+
+{"str_num":543,"prefix":"0x7","ptr_pos":181332,"str_pos":181664,"table":"normal","repoint":false}
+# おはようございます。<br>
+# またごりようください。
+
+
+
+{"str_num":544,"prefix":"0x7","ptr_pos":181398,"str_pos":182808,"table":"normal","repoint":false}
+# 宿屋人「シャイアス様，よろしくおね<br>
+# がいします。さあ，部屋の方へどう<br>
+# ぞ。」
+
+
+
+{"str_num":545,"prefix":"0x7","ptr_pos":181438,"str_pos":181986,"table":"normal","repoint":false}
+# シャイアス「わたしは夢魔をおびきだ<br>
+# すためにここで休むとしよう。」
+
+
+
+{"str_num":546,"prefix":"0x7","ptr_pos":181462,"str_pos":182024,"table":"normal","repoint":false}
+# シャイアス「うっ，う～ん。」<scroll> <br>
+# <br>
+# シャイアス「えぇ～いっ！！」
+
+
+
+{"str_num":547,"prefix":"0x7","ptr_pos":181486,"str_pos":182060,"table":"normal","repoint":false}
+# ナイトメア「おれはナイトメア。よく<br>
+# も夢の世界からこんな世界へひきず<br>
+# りだしくれたな。お礼はさせてもら<br>
+# うぜ。」
+
+
+
+{"str_num":548,"prefix":"0x7","ptr_pos":181512,"str_pos":182126,"table":"normal","repoint":false}
+# ナイトメア「うわ～。まいったよ。<br>
+# かんべんしてくれ。」<scroll>シャイアス「うっ，どうしたことだ」
+
+
+
+{"str_num":549,"prefix":"0x7","ptr_pos":181530,"str_pos":182174,"table":"normal","repoint":false}
+# <player>「シャイアスさん！！<br>
+# どうしたんですか。」<scroll>シャイアス「わたしとしたことが・・<br>
+# やつを夢の世界からつれだす時に，<br>
+# ゆだんをしてしまった。わたしの中<br>
+# に入りこみ，のうと精神をはかい<br>
+# しているとは。げほっ，げほ。」<scroll><npc1>「シャイアスさん！！<br>
+# しっかりして。」<scroll>シャイアス「いや，だいじょうぶだ。<br>
+# しかし，わたしの命はそう長くない<br>
+# だろうがな。」
+
+
+
+{"str_num":550,"prefix":"0x7","ptr_pos":181540,"str_pos":182366,"table":"normal","repoint":false}
+# <player>「ナイトメア！！<br>
+# よくも！！」<scroll>ナイトメア「オレがわるかったよ。<br>
+# ゆるしてくれよ。もう悪い事はぜっ<br>
+# たいにしないから。」<scroll>シャイアス「<player>，ゆるして<br>
+# やってくれ。魔物でもただしい心を<br>
+# もつことができるはずだ。信じてや<br>
+# ろう。」<scroll><player>「しかし，シャイアス<br>
+# さん。」<scroll>シャイアス「いいから，ゆるしてやっ<br>
+# てくれ。たのむ，<player>。」<scroll><player>「わかりました。<br>
+# あなたがそういうのなら。<br>
+# ナイトメア！！ゆるしてやるから，<br>
+# もうぜったいに悪い事はするなよ。<br>
+# わかったな！！」<scroll>ナイトメア「はい，もう悪い事はしま<br>
+# せん。たすけてくれたお礼に，もし<br>
+# オレの力が必要な時にはいつでも，<br>
+# よんでください。すぐにかけつけ<br>
+# ますから。」
+
+
+
+{"str_num":551,"prefix":"0x7","ptr_pos":181614,"str_pos":182702,"table":"normal","repoint":false}
+# 宿屋人「おはようございます。<br>
+# これで安心してお店が開けます。<br>
+# ありがとうございました。」<scroll><player>「シャイアスさんは，<br>
+# どうしました？」<scroll>宿屋人「妹さんが，つれてかえりまし<br>
+# たよ。」
+
+
+
+{"str_num":552,"prefix":"0x7","ptr_pos":183058,"str_pos":183140,"table":"normal","repoint":false}
+# こんにちわ。
+
+
+
+{"str_num":553,"prefix":"0x7","ptr_pos":183066,"str_pos":183182,"table":"normal","repoint":false}
+# マ―リ―「ええ，シャイアスはわたし<br>
+# の兄ですけれど。<br>
+# えっ，どこにいるかですか？<br>
+# この村から南西の方にある山で，<br>
+# しゅぎょうをしているはずです。」
+
+
+
+{"str_num":554,"prefix":"0x7","ptr_pos":183078,"str_pos":183266,"table":"normal","repoint":false}
+# マ―リ―「まあ，お兄ちゃん。お帰り<br>
+# なさい。<player>さんから話は<br>
+# 聞いた？ もちろん，力になって<br>
+# あげるんでしょ。」
+
+
+
+{"str_num":555,"prefix":"0x7","ptr_pos":183086,"str_pos":183370,"table":"normal","repoint":false}
+# マ―リ―「みじかい間かも知れないけ<br>
+# れど，せいいっぱい兄のためにはた<br>
+# らこうとおもいます。」
+
+
+
+{"str_num":556,"prefix":"0x7","ptr_pos":183110,"str_pos":183148,"table":"normal","repoint":false}
+# シャイアス兄ちゃんは，えっら～い<br>
+# けん者様なんだぞ。
+
+
+
+{"str_num":557,"prefix":"0x7","ptr_pos":183118,"str_pos":183330,"table":"normal","repoint":false}
+# シャイアス兄ちゃんだ～。シャイア<br>
+# ス兄ちゃんが帰ってきたぞ～。
+
+
+
+{"str_num":558,"prefix":"0x7","ptr_pos":183126,"str_pos":183448,"table":"normal","repoint":false}
+# ぼくも，シャイアス兄ちゃんの様な<br>
+# りっぱなけん者になるんだ。
+
+
+
+{"str_num":559,"prefix":"0x7","ptr_pos":183134,"str_pos":183422,"table":"normal","repoint":false}
+# シャイアス「<player>。旅のぶじ<br>
+# をいのってるぞ。」
+
+
+
+{"str_num":560,"prefix":"0x7","ptr_pos":183578,"str_pos":183600,"table":"normal","repoint":false}
+# おすすめのゲ―ムをしょうかいする<br>
+# ね。<br>
+# 「きしでんせつ」。リアルタイムの<br>
+# シュミレ―ションゲ―ムだよ。<br>
+# あそんでみてね。
+
+
+
+{"str_num":561,"prefix":"0x7","ptr_pos":183586,"str_pos":183666,"table":"normal","repoint":false}
+# ロ―ルプレイングゲ―ムのきほんは<br>
+# 人の話をよく聞く事よ。
+
+
+
+{"str_num":562,"prefix":"0x7","ptr_pos":183594,"str_pos":183702,"table":"normal","repoint":false}
+# はしができてマステマの町の人たち<br>
+# がよくあそびに来るようになったの<br>
+# よ。
+
+
+
+{"str_num":563,"prefix":"0x7","ptr_pos":183872,"str_pos":183878,"table":"normal","repoint":false}
+# 最近村の宿の客あしがすくなくて大<br>
+# 変らしい。
+
+
+
+{"str_num":564,"prefix":"0x7","ptr_pos":183992,"str_pos":184022,"table":"normal","repoint":false}
+# シャイアスはなかなかの実力を<br>
+# もった，けん者じゃ。
+
+
+
+{"str_num":565,"prefix":"0x7","ptr_pos":184000,"str_pos":184052,"table":"normal","repoint":false}
+# シャイアスならば，夢の世界から<br>
+# 魔物を引きずり出す事もできるじゃ<br>
+# ろうて。
+
+
+
+{"str_num":566,"prefix":"0x7","ptr_pos":184008,"str_pos":184100,"table":"normal","repoint":false}
+# おお，シャイアスではないか。<br>
+# もどってきたのか。
+
+
+
+{"str_num":567,"prefix":"0x7","ptr_pos":184016,"str_pos":184128,"table":"normal","repoint":false}
+# この村はシャイアスにせわになりっ<br>
+# ぱなしじゃ。<br>
+# もうしわけないことじゃ。
+
+
+
+{"str_num":568,"prefix":"0x7","ptr_pos":184262,"str_pos":184268,"table":"normal","repoint":false}
+# よる村の外に出ちゃだめだってお母<br>
+# さんにしかられちゃったの。
+
+
+
+{"str_num":569,"prefix":"0x7","ptr_pos":184380,"str_pos":184394,"table":"normal","repoint":false}
+# あんたの国では「しあわせのがくし<br>
+# ゅう」という教団の信者がふえてる<br>
+# といううわさだが，ほんとうかい。
+
+
+
+{"str_num":570,"prefix":"0x7","ptr_pos":184388,"str_pos":184454,"table":"normal","repoint":false}
+# リ―ムでは怪物たちがよくあらわれ<br>
+# ますか？
+
+
+
+{"str_num":571,"prefix":"0x7","ptr_pos":184644,"str_pos":184714,"table":"normal","repoint":false}
+# うわさでは戦そうがおきると聞く。<br>
+# へいわとはつづかぬものじゃの。
+
+
+
+{"str_num":572,"prefix":"0x7","ptr_pos":184652,"str_pos":184752,"table":"normal","repoint":false}
+# ほんとうに戦そうはおこるの<br>
+# だろうか？
+
+
+
+{"str_num":573,"prefix":"0x7","ptr_pos":184668,"str_pos":184776,"table":"normal","repoint":false}
+# あたらしい王妃様見た？
+
+
+
+{"str_num":574,"prefix":"0x7","ptr_pos":184676,"str_pos":184794,"table":"normal","repoint":false}
+# 王妃様っていったいどんな人だった<br>
+# のかしら。
+
+
+
+{"str_num":575,"prefix":"0x7","ptr_pos":184684,"str_pos":184824,"table":"normal","repoint":false}
+# あのね。あのね。ぼくね。お城の<br>
+# 近くでかいじゅう見ちゃった。
+
+
+
+{"str_num":576,"prefix":"0x7","ptr_pos":184692,"str_pos":184860,"table":"normal","repoint":false}
+# よび出していっしょに戦ってくれる<br>
+# なかまは，全部で６人いるぞ。
+
+
+
+{"str_num":577,"prefix":"0x7","ptr_pos":184700,"str_pos":184898,"table":"normal","repoint":false}
+# す～。す～。
+
+
+
+{"str_num":578,"prefix":"0x7","ptr_pos":184708,"str_pos":184908,"table":"normal","repoint":false}
+# う～ん。もうぜったいにたべられ<br>
+# ないよ～。むにゃ。むにゃ。
+
+
+
+{"str_num":579,"prefix":"0x7","ptr_pos":185038,"str_pos":185044,"table":"normal","repoint":false}
+# あたらしい王妃様って，前はリ―ム<br>
+# の国にすんでいたらしいわよ。
+
+
+
+{"str_num":580,"prefix":"0x7","ptr_pos":185178,"str_pos":185216,"table":"normal","repoint":false}
+# あたらしい王妃もさいこんらしい。<br>
+# 男の子をひとりつれてきたからな。
+
+
+
+{"str_num":581,"prefix":"0x7","ptr_pos":185194,"str_pos":185256,"table":"normal","repoint":false}
+# ウト―ク王は前の王妃様とは，<br>
+# とてもなかよくされてましたよ。<br>
+# あたらしい王妃様もたいせつに<br>
+# するでしょうね。
+
+
+
+{"str_num":582,"prefix":"0x7","ptr_pos":185202,"str_pos":185324,"table":"normal","repoint":false}
+# 王妃はリ―ムのだい２王妃だった<br>
+# そうですね。
+
+
+
+{"str_num":583,"prefix":"0x7","ptr_pos":185210,"str_pos":185354,"table":"normal","repoint":false}
+# ぼくあんまりあたらしい王妃様って<br>
+# すきじゃない！！だって，目が<br>
+# こわいんだもん。
+
+
+
+{"str_num":584,"prefix":"0x7","ptr_pos":185546,"str_pos":185592,"table":"normal","repoint":false}
+# わたしはこの店のママよ。<br>
+# ゆっくりしていってね。
+
+
+
+{"str_num":585,"prefix":"0x7","ptr_pos":185554,"str_pos":185620,"table":"normal","repoint":false}
+# おれは見たんだ。リ―ムのくにで，<br>
+# あやしい生き物があかんぼうを<br>
+# かかえて飛んで行くのを。<br>
+# たしか，１６年くらい前だったな。
+
+
+
+{"str_num":586,"prefix":"0x7","ptr_pos":185562,"str_pos":185692,"table":"normal","repoint":false}
+# お～，こわいこわい。<br>
+# あたらしい王妃様は何かこわいよ。
+
+
+
+{"str_num":587,"prefix":"0x7","ptr_pos":185570,"str_pos":185726,"table":"normal","repoint":false}
+# オレは，この店で毎晩のんだくれて<br>
+# るのさ。
+
+
+
+{"str_num":588,"prefix":"0x7","ptr_pos":185578,"str_pos":185754,"table":"normal","repoint":false}
+# ぶれいこうだ，ぱっといこうぱ―っ<br>
+# と。
+
+
+
+{"str_num":589,"prefix":"0x7","ptr_pos":185586,"str_pos":185776,"table":"normal","repoint":false}
+# モンスタ―ごろしっておまえの事だ<br>
+# ろ，今まで何びきやっちまったんだ<br>
+# い？
+
+
+
+{"str_num":590,"prefix":"0x7","ptr_pos":186072,"str_pos":186144,"table":"normal","repoint":false}
+# おはようございます。<br>
+# またごりようください。
+
+
+
+{"str_num":591,"prefix":"0x7","ptr_pos":186670,"str_pos":186724,"table":"normal","repoint":false}
+# どっかのおじさんがライトがあれば<br>
+# オ―クション会場に入れるって，<br>
+# いってたよ。
+
+
+
+{"str_num":592,"prefix":"0x7","ptr_pos":186678,"str_pos":186770,"table":"normal","repoint":false}
+# 「ももこ」おねえちゃん，ドラマに<br>
+# バラエティにがんばってね。
+
+
+
+{"str_num":593,"prefix":"0x7","ptr_pos":186686,"str_pos":186804,"table":"normal","repoint":false}
+# サウスリ―バの町の人が最近，変<br>
+# だとおもうのだが。
+
+
+
+{"str_num":594,"prefix":"0x7","ptr_pos":186694,"str_pos":186836,"table":"normal","repoint":false}
+# マジックゲ―トの魔法を覚えている<br>
+# と，いっしょに戦ってくれるなかま<br>
+# がよべるわよ。
+
+
+
+{"str_num":595,"prefix":"0x7","ptr_pos":186702,"str_pos":186886,"table":"normal","repoint":false}
+# わ～。メテオシャワ―だ～！！<br>
+# むにゃ。むにゃ。
+
+
+
+{"str_num":596,"prefix":"0x7","ptr_pos":186710,"str_pos":186914,"table":"normal","repoint":false}
+# ももこおねえちゃ～ん。<br>
+# むにゃ。むにゃ。
+
+
+
+{"str_num":597,"prefix":"0x7","ptr_pos":186718,"str_pos":186938,"table":"normal","repoint":false}
+# 宿に泊まっているあのお方とてもつ<br>
+# らいおもい出があるようなの。
+
+
+
+{"str_num":598,"prefix":"0x7","ptr_pos":187234,"str_pos":187426,"table":"normal","repoint":false}
+# いらっしゃい。いっぱい，<br>
+# いかがですか？
+
+
+
+{"str_num":599,"prefix":"0x7","ptr_pos":187242,"str_pos":187750,"table":"normal","repoint":false}
+# 店主「なんですって，あなたがあいつ<br>
+# のかわりにお金をはらおうというの<br>
+# ですか。のこり全部で２０００Gで<br>
+# すがよろしいんですか？」
+
+
+
+{"str_num":600,"prefix":"0x27","ptr_pos":187248,"str_pos":144640,"table":"normal","repoint":false}
+# はらいますか？
+
+
+
+{"str_num":601,"prefix":"0x7","ptr_pos":187262,"str_pos":187824,"table":"normal","repoint":false}
+# 店主「そうですよね。たにんのために<br>
+# 自分が金をはらうなんて。」
+
+
+
+{"str_num":602,"prefix":"0x7","ptr_pos":187282,"str_pos":187922,"table":"normal","repoint":false}
+# 店主「おおっ！！なんと，人のために<br>
+# そこまでできるとは。<br>
+# でも，お金がたりないじゃないです<br>
+# か。」
+
+
+
+{"str_num":603,"prefix":"0x7","ptr_pos":187294,"str_pos":187862,"table":"normal","repoint":false}
+# 店主「おおっ！！なんと，人のために<br>
+# そこまでできるとは。<br>
+# わかりました。あの者はじゆうに<br>
+# しましょう。」
+
+
+
+{"str_num":604,"prefix":"0x7","ptr_pos":187306,"str_pos":187450,"table":"normal","repoint":false}
+# １６年前，カミナリにうたれて<br>
+# おちていった，あの変な生き物は<br>
+# いったい何だったんだろう。
+
+
+
+{"str_num":605,"prefix":"0x7","ptr_pos":187314,"str_pos":187502,"table":"normal","repoint":false}
+# 必要な物をなくしてしまったら，<br>
+# オ―クション会場へ行くがよい。
+
+
+
+{"str_num":606,"prefix":"0x7","ptr_pos":187338,"str_pos":187542,"table":"normal","repoint":false}
+# 分身「わたしはキリカゼの分身の１人<br>
+# です。この店に金をかりてしてしま<br>
+# い，ここではたらかされています。<br>
+# おねがいです，たすけてください。<br>
+# これいじょう本体からはなれている<br>
+# と，元の体にもどれなくなってしま<br>
+# います。」<scroll><player>「たすけるったって・・<br>
+# おれがかわりに，金をはらえばいい<br>
+# のか？」<scroll>分身「おねがいします。」
+
+
+
+{"str_num":607,"prefix":"0x7","ptr_pos":187350,"str_pos":187720,"table":"normal","repoint":false}
+# 分身「おねがいです。わたしをたすけ<br>
+# てください。」
+
+
+
+{"str_num":608,"prefix":"0x7","ptr_pos":187358,"str_pos":187980,"table":"normal","repoint":false}
+# <player>「きみはもうじゆうの身<br>
+# だよ。おれがかわりに金をはらって<br>
+# おいたからね。」<scroll>分身「ありがとうございます。このご<br>
+# おんはけっしてわすれません。」
+
+
+
+{"str_num":609,"prefix":"0x7","ptr_pos":187396,"str_pos":188062,"table":"normal","repoint":false}
+# かいふくのみは，ラッパのマ―クの<br>
+# かいふくのみにかぎるぜ。
+
+
+
+{"str_num":610,"prefix":"0x7","ptr_pos":187404,"str_pos":188094,"table":"normal","repoint":false}
+# あのおやじのつくるダムは，まさに<br>
+# げいじゅつてきだ。
+
+
+
+{"str_num":611,"prefix":"0x7","ptr_pos":187412,"str_pos":188124,"table":"normal","repoint":false}
+# 金は，はるがダムおやじの仕事は，<br>
+# ちょう人てき早さでゆう名じゃよ。
+
+
+
+{"str_num":612,"prefix":"0x7","ptr_pos":187420,"str_pos":188166,"table":"normal","repoint":false}
+# 西の方でよあそびをしているのあな<br>
+# たたちでしょう。
+
+
+
+{"str_num":613,"prefix":"0x7","ptr_pos":188290,"str_pos":188312,"table":"normal","repoint":false}
+# 知ってますか？この町の近くにやみ<br>
+# のとりひき所があるらしいわよ。<br>
+# そこではオ―クションが開かれるん<br>
+# ですって。
+
+
+
+{"str_num":614,"prefix":"0x7","ptr_pos":188298,"str_pos":188376,"table":"normal","repoint":false}
+# この町の人はみんなしょうばいねっ<br>
+# しんよね。
+
+
+
+{"str_num":615,"prefix":"0x7","ptr_pos":188306,"str_pos":188402,"table":"normal","repoint":false}
+# 道具屋さんでライトを売ってたよ。
+
+
+
+{"str_num":616,"prefix":"0x7","ptr_pos":188538,"str_pos":188564,"table":"normal","repoint":false}
+# おかしいな。ここで売ってると<br>
+# 聞いたのだが。
+
+
+
+{"str_num":617,"prefix":"0x7","ptr_pos":188650,"str_pos":188656,"table":"normal","repoint":false}
+# ここから西にある家でオ―クション<br>
+# がおこなわれるらしいのだが，<br>
+# 湖のせいで入れないなぁ。
+
+
+
+{"str_num":618,"prefix":"0x7","ptr_pos":188782,"str_pos":188888,"table":"normal","repoint":false}
+# おれはどぼくこうじのプロだ。<br>
+# ちいさなダムぐらいだったら<br>
+# かんたんにつくっちまうぜ。
+
+
+
+{"str_num":619,"prefix":"0x7","ptr_pos":188798,"str_pos":188934,"table":"normal","repoint":false}
+# おやじ「おっ。<br>
+# おれに，何か用かい？」<scroll><player>「実は，川にダムを<br>
+# つくってもらいたいんだけど<br>
+# できますか？」<scroll>おやじ「ばかやろう！！<br>
+# おれにできないわけないだろうが。<br>
+# そんなもの，１日もありゃあ<br>
+# できちまうよ。」<scroll><player>「じゃあ，<br>
+# おねがいしてみようかな。」<scroll>おやじ「金はさきにもらうぜ。<br>
+# ５０００Gでいいかい？」
+
+
+
+{"str_num":621,"prefix":"0x7","ptr_pos":188834,"str_pos":189140,"table":"normal","repoint":false}
+# おやじ「で，その川はどこにあるんだ<br>
+# い？」<scroll><player>「この町からはるか北に<br>
+# ある，山からながれて海にそそいで<br>
+# る川です。」<scroll>おやじ「わかったぜ。大船にのった<br>
+# 気持ちで明日までまっててくれ。」
+
+
+
+{"str_num":622,"prefix":"0x7","ptr_pos":188850,"str_pos":189248,"table":"normal","repoint":false}
+# 明日までまっててくれ。
+
+
+
+{"str_num":623,"prefix":"0x7","ptr_pos":188858,"str_pos":189104,"table":"normal","repoint":false}
+# おやじ「だせねぇってんなら，この話<br>
+# はなかったことにしてくれ。」
+
+
+
+{"str_num":624,"prefix":"0x7","ptr_pos":188874,"str_pos":189264,"table":"normal","repoint":false}
+# ダムなら，もうできてるぜ。
+
+
+
+{"str_num":625,"prefix":"0x7","ptr_pos":188882,"str_pos":189280,"table":"normal","repoint":false}
+# なっ，ちゃんとできてただろ。
+
+
+
+{"str_num":626,"prefix":"0x7","ptr_pos":189698,"str_pos":189782,"table":"normal","repoint":false}
+# おはようございます。<br>
+# またごりようください。
+
+
+
+{"str_num":627,"prefix":"0x7","ptr_pos":189768,"str_pos":189808,"table":"normal","repoint":false}
+# みなさんなかなかの装備ですなぁオ<br>
+# ―クション会場で買ったのですか？
+
+
+
+{"str_num":628,"prefix":"0x7","ptr_pos":189776,"str_pos":189848,"table":"normal","repoint":false}
+# オ―クション会場でしょうどう買い<br>
+# しちゃったんだけどこれがつかえな<br>
+# くってさぁ。
+
+
+
+{"str_num":629,"prefix":"0x7","ptr_pos":189980,"str_pos":190066,"table":"normal","repoint":false}
+# クレイン「やあ。<player>に，<br>
+# <npc1>じゃないか。<br>
+# ひさしぶりだなあ。元気にしてるか<br>
+# い。しかし，あいかわらず２人は，<br>
+# なかよさそうで，うらやましいな」<scroll><player>「えっ，あのっ。そんな<br>
+# に，なかがよさそうに見えますか？<br>
+# ちょっと，てれちゃうな。」<scroll><npc1>「<player>ったら，<br>
+# 何をてれてるのよ。もう，はずかし<br>
+# いわね。」
+
+
+
+{"str_num":630,"prefix":"0x7","ptr_pos":190024,"str_pos":190230,"table":"normal","repoint":false}
+# クレイン「リノをうしなってどうして<br>
+# よいかわからなかったが，さいきん<br>
+# やっとおちついてきたよ。」
+
+
+
+{"str_num":631,"prefix":"0x7","ptr_pos":190032,"str_pos":190282,"table":"normal","repoint":false}
+# クレイン「ん。しんけんなかおをして<br>
+# どうしたんだ？」<scroll><player>「クレイン，実はたのみ<br>
+# があるんだ。あのでんせつの魔剣を<br>
+# ゆずってほしいんだ。」<scroll>クレイン「あの魔剣か。あの剣なら，<br>
+# 捨ててしまったよ。かなしいおもい<br>
+# でをわすれたくてな。」<scroll><player>「えっ！！<br>
+# すててしまった。<br>
+# どこに捨てたか覚えてませんか？」<scroll>クレイン「川に捨てたんだよ。たしか<br>
+# おれの村から東にある川だったと<br>
+# おもう。」
+
+
+
+{"str_num":632,"prefix":"0x7","ptr_pos":190044,"str_pos":190494,"table":"normal","repoint":false}
+# クレイン「魔剣はおれの村から東の方<br>
+# にある川へ捨ててしまったよ。」
+
+
+
+{"str_num":633,"prefix":"0x7","ptr_pos":190052,"str_pos":190536,"table":"normal","repoint":false}
+# クレイン「そうか，魔剣は見つかった<br>
+# か。よかったな。」
+
+
+
+{"str_num":634,"prefix":"0x7","ptr_pos":190060,"str_pos":190568,"table":"normal","repoint":false}
+# 私も旅をしているのですが，つれの<br>
+# レベルが，なかなか上がらないんで<br>
+# す。
+
+
+
+{"str_num":635,"prefix":"0x7","ptr_pos":190714,"str_pos":190720,"table":"normal","repoint":false}
+# もうかりまっか？ぼちぼちでんなぁ<br>
+# これこの町のあいさつなのさ。
+
+
+
+{"str_num":636,"prefix":"0x7","ptr_pos":191232,"str_pos":191362,"table":"normal","repoint":false}
+# 魔物「おまえたち，何をしにきた。」
+
+
+
+{"str_num":637,"prefix":"0x7","ptr_pos":191256,"str_pos":191382,"table":"normal","repoint":false}
+# 魔物「おまえたち，何をしにきた。<br>
+# まさか，わたしをたおしに来たので<br>
+# はないだろうな。今年のいけにえは<br>
+# ，もう，さしだされた。帰った方が<br>
+# 身のためだぞ。」<scroll>クレイン「・・・・間にあわなかった<br>
+# か。リノ，すまん・・・・。<br>
+# だまれ，毎年わかい女性をさしださ<br>
+# せているものが何をいうか！！」<scroll>魔物「いけにえをさしだすのは，おま<br>
+# えの村のおばばとのやくそく。その<br>
+# かわりに，おれは村にすむ者におん<br>
+# けいをあたえているのだ。」<scroll>クレイン「何，おばばだと！！そうか<br>
+# そういう事か・・・・。<br>
+# おれはそんなやくそくは知らない。<br>
+# あんたをたおさせてもらう。」<scroll>魔物「命がいらぬらしいな。ではかか<br>
+# ってこい。」
+
+
+
+{"str_num":638,"prefix":"0x7","ptr_pos":191278,"str_pos":191710,"table":"normal","repoint":false}
+# 魔物「まさか，その剣を持っていたと<br>
+# はな。おばばにつたえておけ，<br>
+# 「けいやくはなしにする，あたえて<br>
+# いた力もかえしてもらう」と。<br>
+# それではさらばだ！！」
+
+
+
+{"str_num":639,"prefix":"0x7","ptr_pos":191302,"str_pos":191794,"table":"normal","repoint":false}
+# <player>は，<br>
+# デッドリ―エア―の呪文を覚えた。
+
+
+
+{"str_num":642,"prefix":"0x7","ptr_pos":192246,"str_pos":192336,"table":"normal","repoint":false}
+# おれは分身だ。今とりこんでいるん<br>
+# だ，話しかけないでくれ。
+
+
+
+{"str_num":643,"prefix":"0x7","ptr_pos":192254,"str_pos":192372,"table":"normal","repoint":false}
+# もう１人の分身は，いったいどこに<br>
+# いったんだ？
+
+
+
+{"str_num":644,"prefix":"0x7","ptr_pos":192262,"str_pos":192402,"table":"normal","repoint":false}
+# もう元にはもどれないのかなぁ。
+
+
+
+{"str_num":645,"prefix":"0x7","ptr_pos":192270,"str_pos":192420,"table":"normal","repoint":false}
+# おれたちは１人１人が考えをもった<br>
+# 分身なんだ。
+
+
+
+{"str_num":646,"prefix":"0x7","ptr_pos":192278,"str_pos":192452,"table":"normal","repoint":false}
+# 本人に見えるだろ，実はおれも分身<br>
+# なんだ。
+
+
+
+{"str_num":647,"prefix":"0x7","ptr_pos":192302,"str_pos":192482,"table":"normal","repoint":false}
+# キリカゼ「こまった。いったいどうし<br>
+# たらよいのだろう。」<scroll><player>「どうしたのですか？」<scroll>キリカゼ「分身の術のれんしゅうを<br>
+# していたんだが，分身のうちの１人<br>
+# が行方不明になってしまったんだ。<br>
+# このままこの状態がつづくと，元の<br>
+# すがたにもどれなくなってしまう。<br>
+# 早く見つけなければ。」
+
+
+
+{"str_num":648,"prefix":"0x7","ptr_pos":192314,"str_pos":192642,"table":"normal","repoint":false}
+# キリカゼ「<player>さん，いなく<br>
+# なっていた分身がもどってきたんで<br>
+# すよ！！分身からあなたにたすけら<br>
+# れたということを聞きました。<br>
+# おかげで元の１人の状態にもどる事<br>
+# ができました。<br>
+# ほんとうに何とお礼をいってよいや<br>
+# ら。」<scroll><player>「元にもどれてよかった<br>
+# ですね。おれも力になれてうれしい<br>
+# ですよ。」<scroll>キリカゼ「わたしが必要なことがあっ<br>
+# たら，いつでもよんでください。<br>
+# すぐにかけつけますよ。」
+
+
+
+{"str_num":649,"prefix":"0x7","ptr_pos":192330,"str_pos":192858,"table":"normal","repoint":false}
+# いつでも力になりますよ。
+
+
+
+{"str_num":651,"prefix":"0x7","ptr_pos":193292,"str_pos":193404,"table":"normal","repoint":false}
+# <player>「なっ，なんだ。この<br>
+# きかいは！！」<scroll><npc1>「これはきっとポンプを<br>
+# そうさするきかいよ。これで地下水<br>
+# をくみ上げているんだわ。」<scroll><player>「そうか，町のいど水が<br>
+# なくなったのはこのせいか。<br>
+# と，いうことは町へ川の水をひくた<br>
+# めに，いど水をでないようにしたと<br>
+# いうことか。」<scroll><npc1>「そうね，やっぱり川の<br>
+# 水があやしいわね。このどうくつの<br>
+# 中をしらべてみましょう。何かわか<br>
+# るかもしれないわ。」
+
+
+
+{"str_num":652,"prefix":"0x7","ptr_pos":193308,"str_pos":193620,"table":"normal","repoint":false}
+# おまえたち何者だ！！<scroll> これを見られたからには生かしては<br>
+# おけん。
+
+
+
+{"str_num":653,"prefix":"0x7","ptr_pos":193346,"str_pos":144664,"table":"normal","repoint":false}
+# 中から呪文がはっせられた。
+
+
+
+{"str_num":654,"prefix":"0x7","ptr_pos":193366,"str_pos":193380,"table":"normal","repoint":false}
+# <player>は，<br>
+# サイコアップの呪文を覚えた。
+
+
+
+{"str_num":655,"prefix":"0x7","ptr_pos":193374,"str_pos":144682,"table":"normal","repoint":false}
+# 何も，おこらなかった。
+
+
+
+{"str_num":656,"prefix":"0x7","ptr_pos":193922,"str_pos":194200,"table":"normal","repoint":false}
+# <npc1>「何かしら？こんなはな<br>
+# 見たことないわ。」<scroll><player>「ほんとうだ。おれも<br>
+# 見た事がないな。」<scroll>
+
+
+
+{"str_num":657,"prefix":"0x7","ptr_pos":193946,"str_pos":194064,"table":"normal","repoint":false}
+# 教団員１「しかし，これが楽になるん<br>
+# だからおどろいたもんだよな。」<scroll>教団員２「このはなはこの世界の物で<br>
+# はないらしいぜ。」<scroll>教団員１「それじゃあ，いったいどこ<br>
+# からもってくるんだ？」<scroll>教団員２「いやぁ，それはおれも知ら<br>
+# ないんだ。」
+
+
+
+{"str_num":658,"prefix":"0x7","ptr_pos":193976,"str_pos":194290,"table":"normal","repoint":false}
+# 教祖「なんだね，きみたちは。町の者<br>
+# ではない様ですね。」<scroll><player>「はい，旅をしている者<br>
+# です。あなたはどなたですか。」<scroll>教祖「私は「しあわせのがくしゅう」<br>
+# の教祖，ビグリ―・バ・ロ―である<br>
+# わが教団の者ではないきみたちが，<br>
+# なぜここにいるのですか。」<scroll><player>「はい。サウスリ―バの<br>
+# 人たちの様子が変に感じたんです。<br>
+# そして，その原因が川の水にあると<br>
+# おもい，たどってきたらここにたど<br>
+# りついたんです。」<scroll>教祖「ほう，町の人たちの様子がおか<br>
+# しい。<br>
+# それでは，けいかくはうまくいって<br>
+# いる様ですね」<scroll><player>「えっ，けいかく？<br>
+# 何ですか，それは。」
+
+
+
+{"str_num":659,"prefix":"0x7","ptr_pos":193982,"str_pos":194602,"table":"normal","repoint":false}
+# 教祖「せっかくここにいる事ですし，<br>
+# 教えてあげましょう。<br>
+# わが教団の教えは「しあわせ」。<br>
+# しあわせとは「いたみ・かなしみ」<br>
+# などのくるしみを感じなければえら<br>
+# れるもの。<br>
+# われわれはそのくるしみを感じない<br>
+# 様になる楽をここから川にながして<br>
+# いるのです。」<scroll><player>「やっぱりそうか・・。<br>
+# しかし，それはまちがっている！！<br>
+# 人はいたみがわかるからこそあいて<br>
+# の身に，なることができる。<br>
+# かなしみがわかるからこそ，それを<br>
+# のりこえて，あらたなるもくひょう<br>
+# をめざそうとおもうんだ！！<br>
+# そしてその人とのふれあいの中で，<br>
+# そだてていくものが，ほんとうのし<br>
+# あわせだと，おれは信じている。」<scroll>教祖「そうですか。その様な考えを<br>
+# もつ人はきけんですね。このまま，<br>
+# ここから帰すわけにはいかなくなり<br>
+# ましたね。魔の者からえたこの力を<br>
+# 使わせていただくとしましょう。」<scroll><player>「何！！また魔の者だと<br>
+# こんなところにも・・・。<br>
+# おれはお前をたおして，地下水を<br>
+# すい上げ，川の水にしているきかい<br>
+# をこわし，あんな楽はながせない<br>
+# ようにしてやる！！」
+
+
+
+{"str_num":660,"prefix":"0x7","ptr_pos":194012,"str_pos":195122,"table":"normal","repoint":false}
+# <player>「さあ，あのきかいを<br>
+# こわしにいこう。きかいをこわして<br>
+# しまえば，もうあの変な楽はながす<br>
+# 事ができなくなるだろう。」<scroll><npc1>「そうね。あのきかいを<br>
+# こわすにはバクダンがあればだいじ<br>
+# ょうぶだとおもうわ。」
+
+
+
+{"str_num":661,"prefix":"0x7","ptr_pos":194018,"str_pos":195234,"table":"normal","repoint":false}
+# <player>は，<br>
+# ジャンプの呪文を覚えた。
+
+
+
+{"str_num":662,"prefix":"0x7","ptr_pos":194046,"str_pos":194254,"table":"normal","repoint":false}
+# 私は，このはなからとれるえき体を<br>
+# ここの水にながしています。
+
+
+
+{"str_num":663,"prefix":"0x7","ptr_pos":195546,"str_pos":195612,"table":"normal","repoint":false}
+# ワ―タイガ―「きみたちは？」<scroll><player>「とつぜんすみません。<br>
+# 川の水がなくなって，こちらのきし<br>
+# にこれる様になったので，このほこ<br>
+# らに入ってみたくなりまして。」<scroll>ワ―タイガ―「川の水がなくなった？<br>
+# と，いうことは。」<scroll><player>「はい。<br>
+# たきのどうくつに，あったきかいを<br>
+# こわしたので，もう水は，ながれま<br>
+# せん。」<scroll>ワ―タイガ―「やつらはどうした。」<scroll><player>「やつらって？ ああ，<br>
+# 教団のやつらですね。教祖をたおし<br>
+# たので，みんなどこかへ行ってしま<br>
+# いました。」<scroll>ワ―タイガ―「教祖をたおした！？<br>
+# ほんとうか！！おまえがたおしたの<br>
+# か。」<scroll><player>「はい。」<scroll>ワ―タイガ―「そうか，それはありが<br>
+# たい。これでおれのライカンスロ―<br>
+# プとしての能力が使える。実はな，<br>
+# 教祖のやつにおれの力をふうじこめ<br>
+# られてしまっていたのだよ。おまえ<br>
+# には，かりができてしまったな。<br>
+# おれの力が必要なときはいつでもよ<br>
+# んでくれ。この力，その時見せて<br>
+# やるよ。」
+
+
+
+{"str_num":664,"prefix":"0x7","ptr_pos":195562,"str_pos":196066,"table":"normal","repoint":false}
+# ワ―タイガ―「まあ，何もないが，<br>
+# ゆっくりしていけ。」
+
+
+
+{"str_num":667,"prefix":"0x7","ptr_pos":196482,"str_pos":196496,"table":"normal","repoint":false}
+# <npc1>は，<br>
+# ア―マ―シ―ルドの呪文を覚えた。
+
+
+
+{"str_num":669,"prefix":"0x7","ptr_pos":196654,"str_pos":196668,"table":"normal","repoint":false}
+# このどうくつの宝ばこの中には，<br>
+# メッセ―ジの書かれたものがあるら<br>
+# しい。
+
+
+
+{"str_num":670,"prefix":"0x7","ptr_pos":196662,"str_pos":196712,"table":"normal","repoint":false}
+# 「たいようのぼりし時，かがやきを<br>
+# もちたる石ばんを天にかざし，陽の<br>
+# ひかり，いにしえの塔へとそそがん<br>
+# 。さすれば入り口なき塔にとびらあ<br>
+# らわれ，中にはいることもかのうな<br>
+# り。」
+
+
+
+{"str_num":672,"prefix":"0x7","ptr_pos":197112,"str_pos":197192,"table":"normal","repoint":false}
+# おはようございます。<br>
+# またごりようください。
+
+
+
+{"str_num":673,"prefix":"0x7","ptr_pos":197186,"str_pos":197218,"table":"normal","repoint":false}
+# キャラクタ―の能力について，<br>
+# せつめいしよう。<br>
+# にんじゃであるキリカゼは「分身の<br>
+# 術」「ヤミどうか」「おぼろかげ」<br>
+# という能力をもっている。<scroll> 「分身の術」は，ふくすうの敵を<br>
+# 攻撃する事ができる<br>
+# 「ヤミどうか」は，やみにかくれて<br>
+# から攻撃するのでクリティカルヒッ<br>
+# トになりやすい。しかし，これは<br>
+# よるにしか使えんよ。<br>
+# 「おぼろかげ」は，かげをつくり敵<br>
+# にそれを攻撃させるワザである。<br>
+# しかし，これは，あさやひるしか使<br>
+# えんよ。
+
+
+
+{"str_num":674,"prefix":"0x7","ptr_pos":197750,"str_pos":197812,"table":"normal","repoint":false}
+# ほとんどの人は，川の水をそのまま<br>
+# のんでいるわよ。<br>
+# わたしはちがうけど。
+
+
+
+{"str_num":675,"prefix":"0x7","ptr_pos":197758,"str_pos":197856,"table":"normal","repoint":false}
+# 川の水はひあがって，もうつかえな<br>
+# いわ。
+
+
+
+{"str_num":676,"prefix":"0x7","ptr_pos":197774,"str_pos":197882,"table":"normal","repoint":false}
+# 川上の方で，教団の人を見かけたわ<br>
+# よ。
+
+
+
+{"str_num":677,"prefix":"0x7","ptr_pos":197782,"str_pos":197910,"table":"normal","repoint":false}
+# 町では教団の人はもう見かけなくな<br>
+# ったわ。
+
+
+
+{"str_num":678,"prefix":"0x7","ptr_pos":197798,"str_pos":197938,"table":"normal","repoint":false}
+# このごろ，町の人の様子が変だとお<br>
+# もうの。<br>
+# 何かさいみんじゅつにかけられてい<br>
+# るみたいで。
+
+
+
+{"str_num":679,"prefix":"0x7","ptr_pos":197806,"str_pos":197992,"table":"normal","repoint":false}
+# まだ，町の人の様子が変だわ。<br>
+# いつもとにもどるのかしら。
+
+
+
+{"str_num":680,"prefix":"0x7","ptr_pos":198148,"str_pos":198222,"table":"normal","repoint":false}
+# おれは「しあわせのがくしゅう」の<br>
+# やつらはきらいだね。町をわがもの<br>
+# がおであるきやがって。
+
+
+
+{"str_num":681,"prefix":"0x7","ptr_pos":198156,"str_pos":198272,"table":"normal","repoint":false}
+# 教団のやつら，川に何か変なものを<br>
+# ながしてるとしかおもえん。
+
+
+
+{"str_num":682,"prefix":"0x7","ptr_pos":198164,"str_pos":198310,"table":"normal","repoint":false}
+# やっぱり「しあわせのがくしゅう」<br>
+# は悪いやつらだったんだな。<br>
+# おれの目にくるいはなかった。
+
+
+
+{"str_num":683,"prefix":"0x7","ptr_pos":198192,"str_pos":198362,"table":"normal","repoint":false}
+# あまり「しあわせのがくしゅう」の<br>
+# 悪口は，町の者の前ではいえないん<br>
+# だ。信じている者がおおいからね。
+
+
+
+{"str_num":684,"prefix":"0x7","ptr_pos":198200,"str_pos":198422,"table":"normal","repoint":false}
+# 川上のたきがどうのこうのと，<br>
+# 教団員がいってたぜ。
+
+
+
+{"str_num":685,"prefix":"0x7","ptr_pos":198208,"str_pos":198454,"table":"normal","repoint":false}
+# まだ，「しあわせのがくしゅう」を<br>
+# 信じている者がいるんだ。<br>
+# はやく目覚めてほしいものだ。
+
+
+
+{"str_num":686,"prefix":"0x7","ptr_pos":198216,"str_pos":198506,"table":"normal","repoint":false}
+# 川のお水まずいからエルビンウォ―<br>
+# タ―買ってのんでるわ。
+
+
+
+{"str_num":687,"prefix":"0x7","ptr_pos":198598,"str_pos":198604,"table":"normal","repoint":false}
+# この町にはおぼうさんが，いなくな<br>
+# ってしまったの。
+
+
+
+{"str_num":688,"prefix":"0x7","ptr_pos":198868,"str_pos":198954,"table":"normal","repoint":false}
+# 信ずればしあわせはおとずれます。
+
+
+
+{"str_num":689,"prefix":"0x7","ptr_pos":198876,"str_pos":198974,"table":"normal","repoint":false}
+# わが教団の教えは「しあわせのしん<br>
+# り」「むげんなるがくしゅう」とい<br>
+# う２つのはしらからなりたっている
+
+
+
+{"str_num":690,"prefix":"0x7","ptr_pos":198892,"str_pos":199032,"table":"normal","repoint":false}
+# あなたも「しあわせのがくしゅう」<br>
+# の教えを信じなさい。そうすれば，<br>
+# かならずしあわせになれますよ。
+
+
+
+{"str_num":691,"prefix":"0x7","ptr_pos":198900,"str_pos":199088,"table":"normal","repoint":false}
+# 教団の教祖様があやしい男の力を<br>
+# ふうじたといううわさを聞いた事が<br>
+# あります。
+
+
+
+{"str_num":692,"prefix":"0x7","ptr_pos":198916,"str_pos":199138,"table":"normal","repoint":false}
+# 教団の方たちはこの村のおん人なん<br>
+# ですよ。いどに水がわかなくなった<br>
+# 時にあらわれて，川の水をここまで<br>
+# ひいてくれたんですよ。
+
+
+
+{"str_num":693,"prefix":"0x7","ptr_pos":198924,"str_pos":199214,"table":"normal","repoint":false}
+# わたしは「しあわせのがくしゅう」<br>
+# の教えを信じています。だって，<br>
+# 毎日がしあわせでしたから。
+
+
+
+{"str_num":694,"prefix":"0x7","ptr_pos":198940,"str_pos":199268,"table":"normal","repoint":false}
+# この町から東にある，川のむこうの<br>
+# どうくつの前にマントをきたあやし<br>
+# い人がたっていたな。
+
+
+
+{"str_num":695,"prefix":"0x7","ptr_pos":198948,"str_pos":199320,"table":"normal","repoint":false}
+# 教団の人たちが悪い人たちだったな<br>
+# んて，わたしには信じられません。
+
+
+
+{"str_num":696,"prefix":"0x7","ptr_pos":199452,"str_pos":199474,"table":"normal","repoint":false}
+# われわれのふきょうかつどうは<br>
+# どんどんひろまっていくのだ。
+
+
+
+{"str_num":697,"prefix":"0x7","ptr_pos":199460,"str_pos":199506,"table":"normal","repoint":false}
+# ビグリ―様の教えどおりに，生きて<br>
+# いけばまちがいはないぞ。
+
+
+
+{"str_num":698,"prefix":"0x7","ptr_pos":199468,"str_pos":199540,"table":"normal","repoint":false}
+# まさかまたつぼをしらべたりしてい<br>
+# ないだろうな。
+
+
+
+{"str_num":699,"prefix":"0x7","ptr_pos":199662,"str_pos":199684,"table":"normal","repoint":false}
+# 北のどうくつには，とうめいな石で<br>
+# できた石ばんというものがあるらし<br>
+# い。
+
+
+
+{"str_num":700,"prefix":"0x7","ptr_pos":199670,"str_pos":199728,"table":"normal","repoint":false}
+# ・・・・・・・・
+
+
+
+{"str_num":701,"prefix":"0x7","ptr_pos":199678,"str_pos":199738,"table":"normal","repoint":false}
+# この村もかそかがすすんでいますど<br>
+# うか王様に村おこしそうせい金をく<br>
+# ださるようおねがいしてもらえませ<br>
+# んか？
+
+
+
+{"str_num":702,"prefix":"0x7","ptr_pos":199902,"str_pos":199908,"table":"normal","repoint":false}
+# 道具をゆうこうに使うと，戦いが<br>
+# らくになるぞ。
+
+
+
+{"str_num":703,"prefix":"0x7","ptr_pos":200014,"str_pos":200028,"table":"normal","repoint":false}
+# この村を出て北にむかうと，<br>
+# どうくつがあるわよ。
+
+
+
+{"str_num":704,"prefix":"0x7","ptr_pos":200022,"str_pos":200058,"table":"normal","repoint":false}
+# また今年も力じまん大会のきせつ<br>
+# じゃのぉ。<br>
+# また，アマソが一ばんじゃろうな。
+
+
+
+{"str_num":705,"prefix":"0x7","ptr_pos":200216,"str_pos":200296,"table":"normal","repoint":false}
+# アマソ「わしは１人でいたいんだ。<br>
+# 話しかけないでくれ。」
+
+
+
+{"str_num":706,"prefix":"0x7","ptr_pos":200224,"str_pos":200328,"table":"normal","repoint":false}
+# アマソ「用事がないのなら，話しかけ<br>
+# ないでくれ。・・・・ん，その剣は<br>
+# どこかで見たような。そうかおもい<br>
+# だしたぞ，その剣はザファン様の剣<br>
+# だ。その剣をなぜおまえが。」<scroll><player>「ザファンはおれの父<br>
+# です。これは父のかたみの剣です」<scroll>アマソ「おお，ザファン様の息子か。<br>
+# わしは村一ばんの力持ちのアマソ。<br>
+# しかし，あの方がなくなられたとは<br>
+# とてもすばらしい方であったのに。<br>
+# わしも，大変せわになってな，その<br>
+# おんも，かえすことができなくなっ<br>
+# てしまったか。」
+
+
+
+{"str_num":707,"prefix":"0x7","ptr_pos":200244,"str_pos":200586,"table":"normal","repoint":false}
+# アマソ「<player>か。わしに<br>
+# できることがあったら何でもいって<br>
+# くれ。」
+
+
+
+{"str_num":708,"prefix":"0x7","ptr_pos":200252,"str_pos":200622,"table":"normal","repoint":false}
+# アマソ「<player>か，どうした」<br>
+# <player>「アマソさん，おねがい<br>
+# があるんです。<br>
+# この村から北にあるどうくつに入り<br>
+# たいのですが，入り口に大きなイワ<br>
+# があり入れないんです。<scroll> 村，いちばんのあなたならうごかせ<br>
+# るのではないかとおもって。」<scroll>アマソ「ザファン様の息子の頼みを，<br>
+# 聞かないわけにもいくまい。<br>
+# わかった，わしがどかしておいて<br>
+# やろう。」
+
+
+
+{"str_num":709,"prefix":"0x7","ptr_pos":200274,"str_pos":200812,"table":"normal","repoint":false}
+# アマソ「<player>，いつでもあそ<br>
+# びに来てくれ。」
+
+
+
+{"str_num":710,"prefix":"0x7","ptr_pos":200942,"str_pos":201020,"table":"normal","repoint":false}
+# おはようございます。<br>
+# またごりようください。
+
+
+
+{"str_num":711,"prefix":"0x7","ptr_pos":201014,"str_pos":201046,"table":"normal","repoint":false}
+# キャラクタ―の能力について，<br>
+# せつめいしよう。<br>
+# ワ―タイガ―は「変身」「しんどう<br>
+# は」の能力をもっている。<br>
+# 「変身」は，変身する事により<br>
+# ライカンスロ―プの力をはっきし，<br>
+# 攻撃力２ばい，防御力２ばいになる<br>
+# 事ができる。<br>
+# 「しんどうは」は強力なしんどうは<br>
+# をはっして，かたい物はこなごなに<br>
+# する事ができる。
+
+
+
+{"str_num":712,"prefix":"0x7","ptr_pos":201690,"str_pos":201824,"table":"normal","repoint":false}
+# 王妃様はあまりわたしたちとはお話<br>
+# にならないですね。
+
+
+
+{"str_num":713,"prefix":"0x7","ptr_pos":201698,"str_pos":201858,"table":"normal","repoint":false}
+# 最近の王様はいぜんのやさしさが，<br>
+# なくなってしまったように感じるの<br>
+# は気のせいでしょうか。
+
+
+
+{"str_num":714,"prefix":"0x7","ptr_pos":201706,"str_pos":201914,"table":"normal","repoint":false}
+# 王様はあたらしい王妃様の事で<br>
+# あたまがいっぱいなんだろうな。
+
+
+
+{"str_num":715,"prefix":"0x7","ptr_pos":201714,"str_pos":201954,"table":"normal","repoint":false}
+# わ～！！見つかっちゃった。<br>
+# ママにはいわないでね。
+
+
+
+{"str_num":716,"prefix":"0x7","ptr_pos":201722,"str_pos":201984,"table":"normal","repoint":false}
+# よるは城へ入る事はできません。
+
+
+
+{"str_num":717,"prefix":"0x7","ptr_pos":201730,"str_pos":202004,"table":"normal","repoint":false}
+# 王からあなたたちは入れるなと<br>
+# 命れいされています。
+
+
+
+{"str_num":718,"prefix":"0x7","ptr_pos":201738,"str_pos":202036,"table":"normal","repoint":false}
+# アベル王子様がいらしゃってるので<br>
+# きょうは，とくべつメニュ―のよう<br>
+# いをしています。
+
+
+
+{"str_num":719,"prefix":"0x7","ptr_pos":201746,"str_pos":202086,"table":"normal","repoint":false}
+# あらこんな―ところに，ぎゅうにく<br>
+# が，たまねぎたまねぎあったわね。
+
+
+
+{"str_num":720,"prefix":"0x7","ptr_pos":201754,"str_pos":202122,"table":"normal","repoint":false}
+# お城の仕事は，もうあきちまったぜ<br>
+# 。
+
+
+
+{"str_num":721,"prefix":"0x7","ptr_pos":201762,"str_pos":202146,"table":"normal","repoint":false}
+# アベル王子様サインしてぇ―。
+
+
+
+{"str_num":722,"prefix":"0x7","ptr_pos":201770,"str_pos":202166,"table":"normal","repoint":false}
+# アベル王子様，お会いできて，こう<br>
+# えいにぞんじます。
+
+
+
+{"str_num":723,"prefix":"0x7","ptr_pos":201778,"str_pos":202200,"table":"normal","repoint":false}
+# マステマ城へ，ようこそ。
+
+
+
+{"str_num":724,"prefix":"0x7","ptr_pos":201786,"str_pos":202216,"table":"normal","repoint":false}
+# 私のやくめは，お城を守る事です。
+
+
+
+{"str_num":725,"prefix":"0x7","ptr_pos":201794,"str_pos":202238,"table":"normal","repoint":false}
+# ウト―ク王は，王様の間に，いらっ<br>
+# しゃいます。
+
+
+
+{"str_num":726,"prefix":"0x7","ptr_pos":201802,"str_pos":202268,"table":"normal","repoint":false}
+# むかし，リ―ム城で，もんばんをし<br>
+# ていました。<br>
+# とても，なつかしくおもいます。
+
+
+
+{"str_num":727,"prefix":"0x7","ptr_pos":201810,"str_pos":202312,"table":"normal","repoint":false}
+# 王様も，およろこびになるでしょう<br>
+# 。
+
+
+
+{"str_num":728,"prefix":"0x7","ptr_pos":201818,"str_pos":202336,"table":"normal","repoint":false}
+# 命あるかぎり，王様をお守りします<br>
+# 。
+
+
+
+{"str_num":729,"prefix":"0x7","ptr_pos":202562,"str_pos":202620,"table":"normal","repoint":false}
+# ウト―ク「これは，アベル王子。おひ<br>
+# さしぶりです。今日はどの様なご用<br>
+# ですかな？」<scroll>アベル「最近，ご結婚なされたと聞き<br>
+# ましたのでごあいさつにと，おもい<br>
+# まして。」<scroll>ウト―ク「それは，わざわざありがと<br>
+# うございます。」<scroll>アベル「ところで，王妃様はどちらに<br>
+# いらっしゃるのですか？」<scroll>ウト―ク「王妃はあまり人前に出るの<br>
+# がすきではないようで，部屋の方に<br>
+# います。まあ，せっかくですから，<br>
+# ゆっくりしていって下さい。」<scroll>アベル「ありがとうございます。」
+
+
+
+{"str_num":730,"prefix":"0x7","ptr_pos":202574,"str_pos":202876,"table":"normal","repoint":false}
+# まあ，ゆっくりしていきなさい。
+
+
+
+{"str_num":731,"prefix":"0x7","ptr_pos":202582,"str_pos":202894,"table":"normal","repoint":false}
+# わたしはウト―ク王の元で，よい<br>
+# 国づくりにはげんでいます。
+
+
+
+{"str_num":732,"prefix":"0x7","ptr_pos":202590,"str_pos":202930,"table":"normal","repoint":false}
+# 王妃様はとてもうつくしい方です。
+
+
+
+{"str_num":733,"prefix":"0x7","ptr_pos":202598,"str_pos":202952,"table":"normal","repoint":false}
+# 王妃様がどんな人か見たいなぁ。
+
+
+
+{"str_num":734,"prefix":"0x7","ptr_pos":202606,"str_pos":202974,"table":"normal","repoint":false}
+# 私は，今きんむ中です。じゃましな<br>
+# いであっちいっちゃってください。
+
+
+
+{"str_num":735,"prefix":"0x7","ptr_pos":202614,"str_pos":203014,"table":"normal","repoint":false}
+# しゃしんで見るよりもアベル王子様<br>
+# とってもハンサムでニヒルな方ね。
+
+
+
+{"str_num":736,"prefix":"0x7","ptr_pos":203258,"str_pos":203380,"table":"normal","repoint":false}
+# どうして城の地下に，怪物がいる<br>
+# んだ？あぶなくてしょうがない。
+
+
+
+{"str_num":737,"prefix":"0x7","ptr_pos":203266,"str_pos":203418,"table":"normal","repoint":false}
+# フレイヤ「あなたたち，だれなの！？<br>
+# あなたはアベル！！」<scroll>アベル「やはり，あなたでしたか。<br>
+# みんなの話を聞いているとそんな気<br>
+# がして，ならなかったのです。」<scroll><player>「フレイヤ王妃，アベル<br>
+# 王子の命をねらわせたのは，あなた<br>
+# ですね。」<scroll>フレイヤ「そうよ，リ―ムの国を自分<br>
+# のものにするにはアベルがじゃまだ<br>
+# ったのよ。エリンを病気にし，王の<br>
+# 体をよわらせるまではうまくいって<br>
+# いたのに，さいごにあなたにじゃま<br>
+# をされてしまったわ。」<scroll>アベル「何だって！！母上の病気も<br>
+# あなたのせいだったのか！！<br>
+# ぜったいに，ゆるせん！！」<scroll>フレイヤ「ひみつを知られてしまった<br>
+# からには，あなたたちをここから生<br>
+# かしてかえすわけにはいかない。<br>
+# わたしがえたこの魔の力，とくと<br>
+# あじわうがいいわ！！」
+
+
+
+{"str_num":738,"prefix":"0x7","ptr_pos":203306,"str_pos":203790,"table":"normal","repoint":false}
+# フレイヤ「わたしの負けだわ。悪魔の<br>
+# 力を手にいれてまで，国を自分のも<br>
+# のにしようとしたむくいね。そうね<br>
+# これでよかったのかもしれない。」<scroll><player>「フレイヤ王妃・・・」<scroll>アベル「フレイヤ，考えてみれば何と<br>
+# かなしい人だ。」<scroll><player>「しかし，魔の世界の者<br>
+# の力がこれまでえいきょうしてきて<br>
+# いるとは。ほんとうに悪いのは魔の<br>
+# 世界の者かもしれない。<br>
+# これから旅をつづけていく上でも<br>
+# ゆだんはできないな。」
+
+
+
+{"str_num":739,"prefix":"0x7","ptr_pos":203326,"str_pos":204018,"table":"normal","repoint":false}
+# ウト―ク「おまえたち！！そこで何を<br>
+# している。フレイヤ，だいじょうぶ<br>
+# か。しっかりしてくれ。」<scroll>フレイヤ「あなた，ごめんなさい。わ<br>
+# たしはあなたをだましていたわ。」<scroll>ウト―ク「何をいう。わたしはそなた<br>
+# といっしょにいるだけで，ただそれ<br>
+# だけでうれしかったのだよ。」<scroll>アベル「ウト―ク王，聞いて下さい。<br>
+# かの女はわたしの命をねらい，その<br>
+# 上，この国を自分のものにしようと<br>
+# していたのですよ。」<scroll>ウト―ク「うるさい！！だまれ！！<br>
+# おまえたちのかおなど見たくない。<br>
+# とっとと，出ていけ。そしてもう<br>
+# この国への出入りはゆるさぬ。」
+
+
+
+{"str_num":740,"prefix":"0x7","ptr_pos":203366,"str_pos":204330,"table":"normal","repoint":false}
+# 城の中の物を勝手にさわらないで下<br>
+# さい。
+
+
+
+{"str_num":741,"prefix":"0x7","ptr_pos":203374,"str_pos":204358,"table":"normal","repoint":false}
+# あたらしい王妃は，とってもミステ<br>
+# リアスな，みりょくをお持ちです。
+
+
+
+{"str_num":742,"prefix":"0x7","ptr_pos":204442,"str_pos":204448,"table":"normal","repoint":false}
+# フラッシュの呪文を使え。<br>
+# かくされた道が開かれる。
+
+
+
+{"str_num":743,"prefix":"0x7","ptr_pos":204546,"str_pos":204594,"table":"normal","repoint":false}
+# シャイアス「ん，どなたですか。」<scroll><player>「とつぜん，おじゃまし<br>
+# てすみません。実はあなたにおねが<br>
+# いしたい事がありまして。」<scroll>シャイアス「わたしに頼みたい事。<br>
+# どのようなことですか？」<scroll><player>「あなたの村の宿屋に<br>
+# 夢魔という魔物がとりついてしまっ<br>
+# て，そこで休むとねむっている間に<br>
+# 金縛りにあい体力をうばわれてしま<br>
+# うのです。この夢魔をたおすには夢<br>
+# の世界からこの世界に，夢魔を引き<br>
+# ずり出さなくてはなりません。そし<br>
+# て，あなたならそれができると聞き<br>
+# まして。」<scroll>シャイアス「うむ。わたしがいない間<br>
+# にその様な事がおきていたのか。<br>
+# わかりました，今すぐ村にむかいま<br>
+# しょう。」<scroll><player>「ありがとう。」
+
+
+
+{"str_num":744,"prefix":"0x7","ptr_pos":204562,"str_pos":204936,"table":"normal","repoint":false}
+# シャイアスがなかまになった。
+
+
+
+{"str_num":745,"prefix":"0x7","ptr_pos":204578,"str_pos":204952,"table":"normal","repoint":false}
+# シャイアス「こんにちは」
+# キォっぇケ(Rぃさあそ)
+# if the second line is right, change 'table' to 'menu'
+
+
+
+{"str_num":746,"prefix":"0x7","ptr_pos":205120,"str_pos":205174,"table":"normal","repoint":false}
+# ぜったいに必要な物をすててしまっ<br>
+# たきみ，それはここのオ―クション<br>
+# できょうばいにかけられるので，<br>
+# 必ず勝ちとろう。
+
+
+
+{"str_num":747,"prefix":"0x7","ptr_pos":205128,"str_pos":205242,"table":"normal","repoint":false}
+# 最近，変なやつらがうろつきまわっ<br>
+# ているよな。たしか，しあわせの何<br>
+# とかといってたな。
+
+
+
+{"str_num":748,"prefix":"0x7","ptr_pos":205136,"str_pos":205292,"table":"normal","repoint":false}
+# オ―クションなら，となりの部屋で<br>
+# やってるよ。
+
+
+
+{"str_num":749,"prefix":"0x7","ptr_pos":205144,"str_pos":205320,"table":"normal","repoint":false}
+# キャラクタ―の能力について，<br>
+# せつめいしよう。<br>
+# ナイトメアは「夢縛り」「夢界陣」<br>
+# という能力をもっている。<br>
+# 「夢縛り」は，ねむっている者にた<br>
+# いして行えば，いちげきで<br>
+# 敵をまっさつすることができる強力<br>
+# なワザである。<br>
+# また，「夢界陣」は敵を夢の世界に<br>
+# さそいこみ，敵に自分自身を<br>
+# 攻撃させてしまうワザである。
+
+
+
+{"str_num":750,"prefix":"0x27","ptr_pos":205726,"str_pos":206526,"table":"normal","repoint":false}
+# つづけて，さんかしますか？
+
+
+
+{"str_num":751,"prefix":"0x7","ptr_pos":205750,"str_pos":205954,"table":"normal","repoint":false}
+# オ―クションにさんかするなら<br>
+# 空いている所にすわってください。
+
+
+
+{"str_num":752,"prefix":"0x7","ptr_pos":205758,"str_pos":206540,"table":"normal","repoint":false}
+# 君は，何をなくしたんだい？
+
+
+
+{"str_num":753,"prefix":"0x7","ptr_pos":205778,"str_pos":206556,"table":"normal","repoint":false}
+# いい物は，なかなか手に入らないも<br>
+# のですよ。
+
+
+
+{"str_num":754,"prefix":"0x7","ptr_pos":205790,"str_pos":206612,"table":"normal","repoint":false}
+# 世の中お金では，買えない物がたく<br>
+# さんあるものです。
+
+
+
+{"str_num":755,"prefix":"0x7","ptr_pos":205798,"str_pos":206584,"table":"normal","repoint":false}
+# かちかんて，人それぞれ，ちがうも<br>
+# んなんだね。
+
+
+
+{"str_num":756,"prefix":"0x7","ptr_pos":205806,"str_pos":206646,"table":"normal","repoint":false}
+# オ―クション会場とは，いわゆるマ<br>
+# ニアのつどいの場，ここにいるあな<br>
+# たも，りっぱなマニア！！
+
+
+
+{"str_num":757,"prefix":"0x7","ptr_pos":205826,"str_pos":206700,"table":"normal","repoint":false}
+# 本物のリッタ－クロイツが，ほしい<br>
+# のですが，さいきんは，にせものが<br>
+# おおくて困っています。
+
+
+
+{"str_num":758,"prefix":"0x7","ptr_pos":205838,"str_pos":206786,"table":"normal","repoint":false}
+# SSのサ－ベルをさがしています。<br>
+# あなた，もってないですよね？
+
+
+
+{"str_num":759,"prefix":"0x7","ptr_pos":205858,"str_pos":206752,"table":"normal","repoint":false}
+# やっぱり，WSSのしょうこうふく<br>
+# は高いですよね，まったく。
+
+
+
+{"str_num":760,"prefix":"0x7","ptr_pos":205870,"str_pos":206820,"table":"normal","repoint":false}
+# あなたも，WSSともの会に入会し<br>
+# ませんか？<br>
+# サバイバルゲ－ムをたのしむあつま<br>
+# りだよ！
+
+
+
+{"str_num":761,"prefix":"0x7","ptr_pos":205894,"str_pos":205990,"table":"normal","repoint":false}
+# 何か用ですか。
+
+
+
+{"str_num":762,"prefix":"0x7","ptr_pos":205914,"str_pos":206000,"table":"normal","repoint":false}
+# 男「何か用ですか。」<scroll><player>「あのぉ，ちょっとお話<br>
+# があるんですけれど・・・・・。<br>
+# オ―クションであなたが手にいれた<br>
+# そのかたみの剣をおれにゆずって<br>
+# もらえませんか？」<scroll>男「何だって？せっかく，勝ちとった<br>
+# ものをそうかんたんにゆずるわけ<br>
+# ないだろう。まあ，おれが前から<br>
+# 手にいれたいとおもっている，<br>
+# でんせつの魔剣とこうかんするっ<br>
+# てんなら話はべつだがな。」
+
+
+
+{"str_num":763,"prefix":"0x7","ptr_pos":205926,"str_pos":206200,"table":"normal","repoint":false}
+# 男「おい。おまえ。その剣はまさか！<br>
+# そうだよ，ぜったいまちがいない。<br>
+# あの，でんせつの魔剣だろ。おれの<br>
+# 目はごまかせねえぜ。」<scroll><player>「そうです。あなたの<br>
+# いうとおり，この剣はでんせつの魔<br>
+# 剣です。この剣となら，かたみの剣<br>
+# をこうかんしてもいいといってまし<br>
+# たよね。」<scroll>男「いったぜ，いった。それじゃぁ，<br>
+# 今すぐこうかんするんだな。ほら，<br>
+# かたみの剣だ，うけとりな。」<scroll><player>「ありがとうございます<br>
+# はい，でんせつの魔剣です。」<scroll>男「おう，たしかに魔剣はうけとった<br>
+# ぜ。おれはとうとうこの剣を手にい<br>
+# れることができたんだな。」
+
+
+
+{"str_num":764,"prefix":"0x7","ptr_pos":205948,"str_pos":206494,"table":"normal","repoint":false}
+# 男「でんせつの魔剣なら，ぜったいに<br>
+# かえさないぜ。」
+
+
+
+{"str_num":765,"prefix":"0x7","ptr_pos":207332,"str_pos":207378,"table":"normal","repoint":false}
+# 全員のHPが，かいふくした。
+
+
+
+{"str_num":767,"prefix":"0x7","ptr_pos":207744,"str_pos":207828,"table":"normal","repoint":false}
+# ボス「ほぉ～。人間ごときがよくここ<br>
+# まで来る事ができたな。ほめてやる<br>
+# ぞ。おれはこの世界をせいふくする<br>
+# ためにやってきた。人間どもなぞ，<br>
+# おれにしはいされてはじめて生きて<br>
+# いくしかくがえられるのだ。<br>
+# たてつく事などもってのほかだ。」<scroll><player>「おまえか，世界をみだ<br>
+# そうとモンスタ―たちをあばれさせ<br>
+# ていたのは。」<scroll>ボス「そうだ，それがどうした。」<scroll><player>「そのせいで父さんは<br>
+# ・・・・。」<scroll>ボス「父さんだと？」<scroll><player>「モンスタ―にころされ<br>
+# てしまった，しんえいたいのザファ<br>
+# ン・ウォンロ―だ！！」<scroll>ボス「しんえいたいのザファン！？<br>
+# ああ，あの男ならおれがみずからの<br>
+# 手でけしたのだ。ちょろちょろ，<br>
+# おれの事をさぐりまわって，じゃま<br>
+# だったものでな。」<scroll><player>「何！！きさまが父さん<br>
+# を！！おれの命にかえても，きさま<br>
+# だけはぜったいにたおす。」<scroll>ボス「やれるものなら，やってみろ。<br>
+# かえりうちにしてくれる！！」
+
+
+
+{"str_num":768,"prefix":"0x7","ptr_pos":207766,"str_pos":208730,"table":"normal","repoint":false}
+# <npc1>は，<br>
+# ヘルウインドの呪文を覚えた。
+
+
+
+{"str_num":769,"prefix":"0x7","ptr_pos":207778,"str_pos":208268,"table":"normal","repoint":false}
+# <player>「やりました。父さん，<br>
+# かたきはうちましたよ。」<scroll>ボス「バカなやつよ。おれをたおした<br>
+# ところで，ほかの世界からあらたな<br>
+# やつがやってくるだけ。<br>
+# しょせん，この世界はおれたちにし<br>
+# はいされる運命なのだよ。<br>
+# ハッ，ハッ，ハ，ハ・・・・・。」
+
+
+
+{"str_num":770,"prefix":"0x7","ptr_pos":207806,"str_pos":208402,"table":"normal","repoint":false}
+# <npc1>「やったわね，<br>
+# <player>。これでお父さんの<br>
+# かたきをうつことができたわね。」<scroll><player>「ああ。たしかにかたき<br>
+# はうったよ，しかしあいつをあやつ<br>
+# っていた大物がいるとおもうんだ。<br>
+# そいつをたおさないかぎり，へいわ<br>
+# がおとずれるとはおもえない。この<br>
+# 目の前に開いているのが，ちがう<br>
+# 世界への入り口だとおもうんだ。」<scroll><npc1>「<player>，あなた<br>
+# もしかして！！」<scroll><player>「ああ。おれはしんの敵<br>
+# をたおしにちがう世界にのりこもう<br>
+# とおもう。きみはこの世界にのこる<br>
+# といい。」<scroll><npc1>「何をいうの。<br>
+# <player>，わたしはいつも<br>
+# あなたのそばにいたいの。<br>
+# わたしもつれていって。」<scroll><player>「わかったよ。<br>
+# <npc1>いっしょにいこう。」
+
+
+
+{"str_num":771,"prefix":"0x7","ptr_pos":208966,"str_pos":209024,"table":"normal","repoint":false}
+# ここはラビの村です。
+
+
+
+{"str_num":772,"prefix":"0x7","ptr_pos":208974,"str_pos":209038,"table":"normal","repoint":false}
+# わたしたち，いちぞくの女性は１８<br>
+# から２２さいまでの間だけ，みみが<br>
+# ウサギのように長くなるんです。
+
+
+
+{"str_num":773,"prefix":"0x7","ptr_pos":208982,"str_pos":209096,"table":"normal","repoint":false}
+# みみが長くなったら，およめさんに<br>
+# なれるの。早くわたしもみみが長く<br>
+# ならないかなぁ。
+
+
+
+{"str_num":774,"prefix":"0x7","ptr_pos":209002,"str_pos":209146,"table":"normal","repoint":false}
+# ぼくたちの村では男の人は年をとる<br>
+# と，みみがのびるんだよ。
+
+
+
+{"str_num":775,"prefix":"0x7","ptr_pos":209010,"str_pos":209182,"table":"normal","repoint":false}
+# 何んかさ，変な船が北の方をとおっ<br>
+# ているのをよく見るよ。
+
+
+
+{"str_num":776,"prefix":"0x7","ptr_pos":209018,"str_pos":209218,"table":"normal","repoint":false}
+# いっしょに手をつないで，うたいま<br>
+# しょ！<br>
+# タラッタラッタラッタうさぎのダン<br>
+# ス・・・
+
+
+
+{"str_num":777,"prefix":"0x7","ptr_pos":209480,"str_pos":209550,"table":"normal","repoint":false}
+# ファイリングへようこそ。
+
+
+
+{"str_num":778,"prefix":"0x7","ptr_pos":209488,"str_pos":209564,"table":"normal","repoint":false}
+# なぜかこの村では男の子しか生まれ<br>
+# ないのです。だからここには女の子<br>
+# はいないのです。
+
+
+
+{"str_num":779,"prefix":"0x7","ptr_pos":209504,"str_pos":209616,"table":"normal","repoint":false}
+# ラビの村へ行くゆいいつの道である<br>
+# どうくつに，怪物がすみついてしま<br>
+# ったらしい。だれか怪物をたおして<br>
+# くれないものだろうか。
+
+
+
+{"str_num":780,"prefix":"0x7","ptr_pos":209512,"str_pos":209714,"table":"normal","repoint":false}
+# おれは海がすきでよく見ているんだ<br>
+# が，変な船が南から北に行くのを<br>
+# よく見るよ。
+
+
+
+{"str_num":781,"prefix":"0x7","ptr_pos":209528,"str_pos":209688,"table":"normal","repoint":false}
+# こわくて，ラビの村へあそびにいけ<br>
+# ないよ。
+
+
+
+{"str_num":782,"prefix":"0x7","ptr_pos":209536,"str_pos":209766,"table":"normal","repoint":false}
+# 海にも怪物が出るんだって。
+
+
+
+{"str_num":783,"prefix":"0x7","ptr_pos":209544,"str_pos":209784,"table":"normal","repoint":false}
+# この村は，やろうばっかりで，むさ<br>
+# くるしいぜ。
+
+
+
+{"str_num":784,"prefix":"0x7","ptr_pos":210100,"str_pos":210176,"table":"normal","repoint":false}
+# この町はむかしから，ドラゴンを<br>
+# まつっていたのでドランとよばれて<br>
+# います。
+
+
+
+{"str_num":785,"prefix":"0x7","ptr_pos":210108,"str_pos":210218,"table":"normal","repoint":false}
+# 人間界という所とこの世界はつな<br>
+# がっている，という話じゃ。
+
+
+
+{"str_num":786,"prefix":"0x7","ptr_pos":210116,"str_pos":210258,"table":"normal","repoint":false}
+# ここの町はいままでずっと，ドラゴ<br>
+# ンによって守られてきました。
+
+
+
+{"str_num":787,"prefix":"0x7","ptr_pos":210124,"str_pos":210294,"table":"normal","repoint":false}
+# ここからず～と西に行くと，ポロン<br>
+# の町があるよ。
+
+
+
+{"str_num":788,"prefix":"0x7","ptr_pos":210154,"str_pos":210324,"table":"normal","repoint":false}
+# タマゴ「きれいなおねえさん，こんに<br>
+# ちわ。」<scroll><npc1>「まぁ，わたしのこと<br>
+# かしら？」<scroll>タマゴ「もちろんですよ。すてきな<br>
+# おねえさん。」<scroll><player>「こいつタマゴのくせに<br>
+# なんでしゃべるんだ？」<scroll>タマゴ「ぼくはもう，とうに生まれて<br>
+# いるばずなんだ。だけど，悪い心を<br>
+# もった魔法使いに呪文をかけられ，<br>
+# このままの状態にされてしまったん<br>
+# だよ。ねぇ，ねぇ，きれいなおねえ<br>
+# さん。ぼくをたすけてよ。」<scroll><npc1>「たすけるったって。<br>
+# どうすればいいの？」<scroll>タマゴ「ここから西にある山にどうく<br>
+# つがあるんだ。その中にわいている<br>
+# せいなる泉にぼくをひたしてもらい<br>
+# たいんだ。そうすればぼくにかけら<br>
+# れた呪いはとけるはずなんだ。」<scroll><npc1>「あなたをその泉まで<br>
+# つれていけばいいのね。」<scroll><player>「そんなのにかまって<br>
+# ないでいくよ，<npc1>。」<scroll>タマゴ「おねがいだよ，すてきな<br>
+# おねえさん。」<scroll><npc1>「わかったわ。あんしん<br>
+# してちょうだい。」
+
+
+
+{"str_num":789,"prefix":"0x7","ptr_pos":210170,"str_pos":210756,"table":"normal","repoint":false}
+# これから魔法の書を返しに行くの。
+
+
+
+{"str_num":790,"prefix":"0x7","ptr_pos":211040,"str_pos":211086,"table":"normal","repoint":false}
+# ここは子どもの心をもちつづける町<br>
+# ポロンです。
+
+
+
+{"str_num":791,"prefix":"0x7","ptr_pos":211048,"str_pos":211114,"table":"normal","repoint":false}
+# たいへんだ！！たいへんだ～！！<br>
+# 「女神像」がぬすまれた！！
+
+
+
+{"str_num":792,"prefix":"0x7","ptr_pos":211056,"str_pos":211150,"table":"normal","repoint":false}
+# わたしたちはよごれた心を持つ大人<br>
+# にはなりたくないんです。
+
+
+
+{"str_num":793,"prefix":"0x7","ptr_pos":211064,"str_pos":211186,"table":"normal","repoint":false}
+# この町はミオナを中心に団結してい<br>
+# ます。かの女はとてもすばらしい人<br>
+# ですよ。
+
+
+
+{"str_num":794,"prefix":"0x7","ptr_pos":211072,"str_pos":211234,"table":"normal","repoint":false}
+# よあそびしたって，お母さんにおこ<br>
+# られないよ，だってこの町に大人は<br>
+# いないからね。
+
+
+
+{"str_num":795,"prefix":"0x7","ptr_pos":211080,"str_pos":211282,"table":"normal","repoint":false}
+# マグラド―ラふさい，火山妖怪だけ<br>
+# にアッツイアッツイ，ヒュ―ヒュ―<br>
+# だよ。
+
+
+
+{"str_num":796,"prefix":"0x7","ptr_pos":211622,"str_pos":211684,"table":"normal","repoint":false}
+# ここは，みなと町ブル―ポ―ト<br>
+# です。
+
+
+
+{"str_num":797,"prefix":"0x7","ptr_pos":211630,"str_pos":211706,"table":"normal","repoint":false}
+# この町から東の海に大きなうずを<br>
+# まいたところがあるわ。
+
+
+
+{"str_num":798,"prefix":"0x7","ptr_pos":211638,"str_pos":211740,"table":"normal","repoint":false}
+# さいきん，いろいろな場所で海賊が<br>
+# あばれまわっているらしいわ。
+
+
+
+{"str_num":799,"prefix":"0x7","ptr_pos":211646,"str_pos":211778,"table":"normal","repoint":false}
+# 海賊の名前はたしか，サイナックと<br>
+# いってたな。
+
+
+
+{"str_num":800,"prefix":"0x7","ptr_pos":211654,"str_pos":211808,"table":"normal","repoint":false}
+# ぼくはいつも海を見ているんだよ。
+
+
+
+{"str_num":801,"prefix":"0x7","ptr_pos":211662,"str_pos":211828,"table":"normal","repoint":false}
+# じゃましないでくれ！！
+
+
+
+{"str_num":802,"prefix":"0x7","ptr_pos":211670,"str_pos":211842,"table":"normal","repoint":false}
+# よるの海もすてきね。<br>
+# イチャイチャ
+
+
+
+{"str_num":803,"prefix":"0x7","ptr_pos":211678,"str_pos":211864,"table":"normal","repoint":false}
+# 私，こいするオ・ト・メ・<br>
+# 毎晩，さか場にあらわれるあの方に<br>
+# こいをしてしまいました。<br>
+# ああ，なにもかもバラいろ。
+
+
+
+{"str_num":804,"prefix":"0x7","ptr_pos":212240,"str_pos":212294,"table":"normal","repoint":false}
+# シルバ―ム―ンの町にようこそ。
+
+
+
+{"str_num":805,"prefix":"0x7","ptr_pos":212248,"str_pos":212312,"table":"normal","repoint":false}
+# さばくの中にはオアシスがあるって<br>
+# いうが，それがうごくんだからなぁ
+
+
+
+{"str_num":806,"prefix":"0x7","ptr_pos":212256,"str_pos":212350,"table":"normal","repoint":false}
+# しおのみちひきで海の高さが変わる<br>
+# んですよ。
+
+
+
+{"str_num":807,"prefix":"0x7","ptr_pos":212264,"str_pos":212378,"table":"normal","repoint":false}
+# あ～つくもえ～る，まるでかげろう<br>
+# さ～。
+
+
+
+{"str_num":808,"prefix":"0x7","ptr_pos":212272,"str_pos":212404,"table":"normal","repoint":false}
+# この町から見るつきはとてもきれい<br>
+# なのよ。
+
+
+
+{"str_num":809,"prefix":"0x7","ptr_pos":212280,"str_pos":212430,"table":"normal","repoint":false}
+# 今から，むこうぎしまで，およいじ<br>
+# ゃうのねん！<br>
+# だから，じゃましないでほしいノネ<br>
+# ンノネンノネン！！
+
+
+
+{"str_num":810,"prefix":"0x7","ptr_pos":212288,"str_pos":212486,"table":"normal","repoint":false}
+# オ―マイガ―！！
+
+
+
+{"str_num":811,"prefix":"0x7","ptr_pos":212878,"str_pos":212964,"table":"normal","repoint":false}
+# ここはさばくの町，イエロ―サンド<br>
+# です。
+
+
+
+{"str_num":812,"prefix":"0x7","ptr_pos":212886,"str_pos":212988,"table":"normal","repoint":false}
+# さばくにはみどりがないから，<br>
+# さみしいわね。
+
+
+
+{"str_num":813,"prefix":"0x7","ptr_pos":212894,"str_pos":213014,"table":"normal","repoint":false}
+# さばくにある湖は何か変なんだよな
+
+
+
+{"str_num":814,"prefix":"0x7","ptr_pos":212902,"str_pos":213034,"table":"normal","repoint":false}
+# このファンタジィ―界もどんどん<br>
+# さばくが大きくなってきたな。<br>
+# 何かよくないよかんがする。
+
+
+
+{"str_num":815,"prefix":"0x7","ptr_pos":212910,"str_pos":213084,"table":"normal","repoint":false}
+# <player>の<br>
+# スカポ～ンた～ん！！
+
+
+
+{"str_num":816,"prefix":"0x7","ptr_pos":212918,"str_pos":213104,"table":"normal","repoint":false}
+# ニュ―スだよ。ニュ―スだよ！！
+
+
+
+{"str_num":817,"prefix":"0x7","ptr_pos":212926,"str_pos":213122,"table":"normal","repoint":false}
+# オレは，ようかいパトロ―ルたい<br>
+# のたいちょうなんだぞ。
+
+
+
+{"str_num":818,"prefix":"0x7","ptr_pos":212934,"str_pos":213152,"table":"normal","repoint":false}
+# そうだば，そうだば。みんな，<br>
+# がんばるだば。
+
+
+
+{"str_num":819,"prefix":"0x7","ptr_pos":212942,"str_pos":213178,"table":"normal","repoint":false}
+# トリだぁ～。トリだぁ～。<br>
+# トリさんだ～ぁ～。
+
+
+
+{"str_num":820,"prefix":"0x7","ptr_pos":212950,"str_pos":213208,"table":"normal","repoint":false}
+# あかるい，あかるい。<br>
+# ネがあかるい。
+
+
+
+{"str_num":821,"prefix":"0x7","ptr_pos":212958,"str_pos":213230,"table":"normal","repoint":false}
+# この町にいる者たちは，よるになる<br>
+# と自分の世界に入りこんでしまうの<br>
+# だよ。きみは，この世界にたえる事<br>
+# ができるか？
+
+
+
+{"str_num":822,"prefix":"0x7","ptr_pos":213586,"str_pos":213624,"table":"normal","repoint":false}
+# ここは水中の町，ホ―リ―レイク<br>
+# です。
+
+
+
+{"str_num":823,"prefix":"0x7","ptr_pos":213594,"str_pos":213648,"table":"normal","repoint":false}
+# エルフたちは，いろんな事を知って<br>
+# るよ。
+
+
+
+{"str_num":824,"prefix":"0x7","ptr_pos":213602,"str_pos":213672,"table":"normal","repoint":false}
+# あなた知ってる？この湖にはあなが<br>
+# あって，そこからは水がうずになっ<br>
+# てふきだしているのよ。
+
+
+
+{"str_num":825,"prefix":"0x7","ptr_pos":213610,"str_pos":213724,"table":"normal","repoint":false}
+# 町の外の湖は変よね。だって，いき<br>
+# ができるのよ。
+
+
+
+{"str_num":826,"prefix":"0x7","ptr_pos":213618,"str_pos":213754,"table":"normal","repoint":false}
+# ピ―スピ―ス！みんな見てるぅ。
+
+
+
+{"str_num":827,"prefix":"0x7","ptr_pos":213984,"str_pos":214006,"table":"normal","repoint":false}
+# ここはエルフぞくがすむ町，パルフ<br>
+# ァムです。
+
+
+
+{"str_num":828,"prefix":"0x7","ptr_pos":213992,"str_pos":214032,"table":"normal","repoint":false}
+# 上に行けばお城がありますよ。
+
+
+
+{"str_num":829,"prefix":"0x7","ptr_pos":214000,"str_pos":214050,"table":"normal","repoint":false}
+# エルフの女王は人間がきらいらしい<br>
+# んだ。<br>
+# おれも城には入れないんだよ。
+
+
+
+{"str_num":830,"prefix":"0x7","ptr_pos":214206,"str_pos":214350,"table":"normal","repoint":false}
+# 長老「こまったことじゃ。」<scroll><player>「どうかしましたか。」<scroll>長老「もうすぐ，まごのナンナの結婚<br>
+# しきがあるんじゃが，あいてに<br>
+# 「けっこんのしな」をとどけに行っ<br>
+# た者が帰ってこんのじゃ。<br>
+# ちゃんととどいておればよいのじゃ<br>
+# が。」
+
+
+
+{"str_num":831,"prefix":"0x7","ptr_pos":214226,"str_pos":215232,"table":"normal","repoint":false}
+# ナンナ，気をつけて行ってくるん<br>
+# じゃぞ。
+
+
+
+{"str_num":832,"prefix":"0x7","ptr_pos":214234,"str_pos":215258,"table":"normal","repoint":false}
+# むこうの村の様子はどうじゃった。
+
+
+
+{"str_num":833,"prefix":"0x7","ptr_pos":214242,"str_pos":215280,"table":"normal","repoint":false}
+# 長老「<player>，いぜんはせわに<br>
+# なったのぉ。」
+
+
+
+{"str_num":834,"prefix":"0x7","ptr_pos":214258,"str_pos":214476,"table":"normal","repoint":false}
+# ナンナ「はじめまして，ナンナです。<br>
+# もうすこしで結婚するんです。<br>
+# だけど，しきに必要な品があいてに<br>
+# とどいているのかわからないの。」<scroll><player>「それは大変ですね。」<scroll>ナンナ「おじいちゃん，わたしかれの<br>
+# ところに行ってくるわ。そして品物<br>
+# がとどいているかどうか，たしかめ<br>
+# てくる。」<scroll>長老「何をいっとるんだ，ナンナ。<br>
+# 最近，むこうの島に通じるどうくつ<br>
+# で怪物が出るというじゃないか。<br>
+# そんなきけんな事はゆるさん。」<scroll>ナンナ「えぇ～，だって～。<br>
+# そうだ，<player>さん。<br>
+# あなたたち，これから南の方に行く<br>
+# んじゃ，ありませんか？」<scroll><player>「ええ，ここからでは南<br>
+# にしか行けませんからね。」<scroll>ナンナ「やっぱり！！ちょっとおねが<br>
+# いがあるんですけれど，きいていた<br>
+# だけません？」<scroll><player>「おねがいって？」<scroll>ナンナ「わたしをかれの村までつれて<br>
+# 行ってほしいの。それだったら，<br>
+# １人じゃないしいいでしょう，<br>
+# おじいちゃん。」<scroll>長老「しょうのない子じゃのう。」
+
+
+
+{"str_num":835,"prefix":"0x27","ptr_pos":214268,"str_pos":214942,"table":"normal","repoint":false}
+# ナンナ「おねがいできますか？<br>
+# <player>さん。」
+
+
+
+{"str_num":836,"prefix":"0x27","ptr_pos":214280,"str_pos":214966,"table":"normal","repoint":false}
+# ナンナ「いっしょに行ってくれ<br>
+# ますか？
+
+
+
+{"str_num":837,"prefix":"0x7","ptr_pos":214294,"str_pos":214988,"table":"normal","repoint":false}
+# ナンナ「そう，だめなの。しょうが<br>
+# ないわね，あきらめるわ。」
+
+
+
+{"str_num":838,"prefix":"0x7","ptr_pos":214302,"str_pos":215020,"table":"normal","repoint":false}
+# ナンナ「ほんとに！！ありがとう。<br>
+# じゃあ，すぐにでかけましょう。<br>
+# わたしがいれば森もまよわないで<br>
+# 通る事ができるわよ。」<scroll><player>「ナンナさん，あぶない<br>
+# 時はおれが守ってあげますよ。<br>
+# あんしんして下さい。<br>
+# ・・・・ん？<npc1>。<br>
+# 何，おこってるの？」<scroll><npc1>「べつに！！おこって<br>
+# なんかいないわよ。！！<br>
+# 早く行きましょう。」<scroll><player>「<npc1>，どう<br>
+# しちゃったのかな～。」
+
+
+
+{"str_num":839,"prefix":"0x7","ptr_pos":214318,"str_pos":215218,"table":"normal","repoint":false}
+# ナンナがなかまになった。
+
+
+
+{"str_num":840,"prefix":"0x7","ptr_pos":214344,"str_pos":215306,"table":"normal","repoint":false}
+# 妹のネンネです。
+
+
+
+{"str_num":841,"prefix":"0x7","ptr_pos":215404,"str_pos":215474,"table":"normal","repoint":false}
+# おはようございます。<br>
+# またごりようください。
+
+
+
+{"str_num":842,"prefix":"0x7","ptr_pos":215602,"str_pos":215632,"table":"normal","repoint":false}
+# 南にある森は，村の者でなければ<br>
+# まよってしまうだろうな。
+
+
+
+{"str_num":843,"prefix":"0x7","ptr_pos":215610,"str_pos":215698,"table":"normal","repoint":false}
+# 最近，この村の近くの海であやしい<br>
+# 船をよく見かけるんだ。<br>
+# 何をしているんだろう？
+
+
+
+{"str_num":844,"prefix":"0x7","ptr_pos":215618,"str_pos":215668,"table":"normal","repoint":false}
+# この世界は，ふしぎなエネルギ―で<br>
+# みちています。
+
+
+
+{"str_num":845,"prefix":"0x7","ptr_pos":215626,"str_pos":215750,"table":"normal","repoint":false}
+# 私も昨日までウサギみみだったのに<br>
+# あさ，おきたらなくなっていたの。
+
+
+
+{"str_num":846,"prefix":"0x7","ptr_pos":215886,"str_pos":215892,"table":"normal","repoint":false}
+# 君のみみも，のびてきたよ。<br>
+# な―んてねウッソぴょ―ん！
+
+
+
+{"str_num":847,"prefix":"0x7","ptr_pos":216076,"str_pos":216106,"table":"normal","repoint":false}
+# 森をぬけて南に行くと，となりの島<br>
+# に通じるどうくつがあります。
+
+
+
+{"str_num":848,"prefix":"0x7","ptr_pos":216092,"str_pos":216146,"table":"normal","repoint":false}
+# どうくつに最近，怪物が出るって聞<br>
+# いたんだけど，ほんとうかしら。
+
+
+
+{"str_num":849,"prefix":"0x7","ptr_pos":216100,"str_pos":216186,"table":"normal","repoint":false}
+# だれかが海の中にほこらを見つけた<br>
+# っていってましたよ。
+
+
+
+{"str_num":850,"prefix":"0x7","ptr_pos":216256,"str_pos":2062,"table":"normal","repoint":false}
+# め
+# む
+# if the second line is right, change 'table' to 'menu'
+
+
+
+{"str_num":851,"prefix":"0x7","ptr_pos":216394,"str_pos":216624,"table":"normal","repoint":false}
+# スレイ「やぁ，ナンナ！！きみが来る<br>
+# なんて，ビックリしたよ。<br>
+# あのどうくつを通ってきたんだろ，<br>
+# だいじょうぶだったかい。」<scroll>ナンナ「ぜんぜん，だいじょうぶよ。<br>
+# 怪物なんていなかったわ。<br>
+# あっ，しょうかいします。かれが<br>
+# 結婚あいてのスレイです。」<scroll><player>「はじめまして，<br>
+# <player>です。」<scroll><npc1>「<npc1>です。」<scroll>スレイ「どうも，スレイです。」<scroll>ナンナ「わたし１人じゃ，あぶないか<br>
+# らいっしょに来てもらったの。<br>
+# ところで，スレイ。結婚しきの品は<br>
+# とどいた？とどけに行った人がもど<br>
+# ってこないのだけど。」<scroll>スレイ「まだとどいていないぞ。<br>
+# まさか，どうくつで怪物におそわれ<br>
+# たのではないだろうな・・・・・。<br>
+# いや，きっとそうにちがいない。<br>
+# あの品は結婚しきにはぜったい必要<br>
+# な物だ！！おれがこの手で取りかえ<br>
+# してやる！！」
+
+
+
+{"str_num":852,"prefix":"0x7","ptr_pos":216422,"str_pos":217014,"table":"normal","repoint":false}
+# ナンナ「スレイ！！ひとりではきけん<br>
+# だわ！！ <player>さん，<br>
+# おねがい。わたしといっしょに来て<br>
+# スレイをつれもどして。」
+
+
+
+{"str_num":853,"prefix":"0x7","ptr_pos":216500,"str_pos":217262,"table":"normal","repoint":false}
+# ナンナ「おかえりなさい。みんなぶじ<br>
+# だったようね。よかったわ。」<scroll>スレイ「ナンナ，「けっこんのしな」<br>
+# はとりかえしてきたよ。これで結婚<br>
+# しきをする事ができる。」<scroll>ナンナ「スレイ，ほんとうにどうも<br>
+# ありがとう。とてもわたしはしあわ<br>
+# せよ。」
+
+
+
+{"str_num":854,"prefix":"0x7","ptr_pos":216516,"str_pos":217390,"table":"normal","repoint":false}
+# スレイ「<player>，<npc1><br>
+# きみたちには何とお礼をいってよい<br>
+# やら。」
+
+
+
+{"str_num":855,"prefix":"0x7","ptr_pos":216578,"str_pos":217198,"table":"normal","repoint":false}
+# ナンナ「<player>さん。<br>
+# <npc1>さん。よろしく<br>
+# おねがいしますね。」
+
+
+
+{"str_num":856,"prefix":"0x7","ptr_pos":216586,"str_pos":217232,"table":"normal","repoint":false}
+# おかえりなさい。みんなぶじだった<br>
+# ようね。よかったわ。
+
+
+
+{"str_num":857,"prefix":"0x7","ptr_pos":216594,"str_pos":217440,"table":"normal","repoint":false}
+# 今，私とてもしあわせです。
+
+
+
+{"str_num":859,"prefix":"0x7","ptr_pos":216610,"str_pos":217426,"table":"normal","repoint":false}
+# <player>，せわになったな。
+
+
+
+{"str_num":860,"prefix":"0x7","ptr_pos":216618,"str_pos":217458,"table":"normal","repoint":false}
+# こんにちは。
+
+
+
+{"str_num":861,"prefix":"0x7","ptr_pos":217542,"str_pos":217556,"table":"normal","repoint":false}
+# この世界は人間界とつながって<br>
+# いるんだってな。
+
+
+
+{"str_num":862,"prefix":"0x7","ptr_pos":217550,"str_pos":217588,"table":"normal","repoint":false}
+# この世界にはふしぎな人たちが<br>
+# たくさんすんでいるわよ。
+
+
+
+{"str_num":863,"prefix":"0x7","ptr_pos":217716,"str_pos":217738,"table":"normal","repoint":false}
+# この世界はファンタジィ―界といっ<br>
+# てな，目には見えないエネルギ―<br>
+# でつつまれているのだよ。
+
+
+
+{"str_num":864,"prefix":"0x7","ptr_pos":217724,"str_pos":217792,"table":"normal","repoint":false}
+# 魔法をゆうこうに使わんと，<br>
+# くるしい戦いになるぞ。
+
+
+
+{"str_num":865,"prefix":"0x7","ptr_pos":217732,"str_pos":217824,"table":"normal","repoint":false}
+# 今日からオレをアニキとよんでくれ<br>
+# ！
+
+
+
+{"str_num":866,"prefix":"0x27","ptr_pos":217878,"str_pos":7946,"table":"normal","repoint":false}
+# な＋
+
+
+
+{"str_num":867,"prefix":"0x7","ptr_pos":217944,"str_pos":217950,"table":"normal","repoint":false}
+# オイラにエリクサ―をおごっておく<br>
+# れ。
+
+
+
+{"str_num":868,"prefix":"0x7","ptr_pos":218058,"str_pos":218126,"table":"normal","repoint":false}
+# おはようございます。<br>
+# またごりようください。
+
+
+
+{"str_num":869,"prefix":"0x7","ptr_pos":218326,"str_pos":218348,"table":"normal","repoint":false}
+# 「だいちのまもり」ってしってる？<br>
+# 山をわる事ができるすごいもの<br>
+# らしいわよ。
+
+
+
+{"str_num":870,"prefix":"0x7","ptr_pos":218334,"str_pos":218392,"table":"normal","repoint":false}
+# この島には火山妖怪がすんでいるら<br>
+# しいよ。かれのもつ，「あまゆきの<br>
+# つえ」はどんなものでもこおらせて<br>
+# しまうらしいわ。
+
+
+
+{"str_num":871,"prefix":"0x7","ptr_pos":218342,"str_pos":218462,"table":"normal","repoint":false}
+# 男はさぁ，女の子にはやさしくして<br>
+# あげなきゃ，いけないよね。
+
+
+
+{"str_num":872,"prefix":"0x7","ptr_pos":218592,"str_pos":218614,"table":"normal","repoint":false}
+# この島の北の方の海では海賊がでる<br>
+# そうよ。こわいわね。
+
+
+
+{"str_num":873,"prefix":"0x7","ptr_pos":218600,"str_pos":218650,"table":"normal","repoint":false}
+# この町ふきんの海で，変な船を見か<br>
+# けるわ。海賊の船かしら。
+
+
+
+{"str_num":874,"prefix":"0x7","ptr_pos":218608,"str_pos":218690,"table":"normal","repoint":false}
+# まごが，ふたりであそびにきている<br>
+# のでとてもにぎやかなのです。
+
+
+
+{"str_num":875,"prefix":"0x7","ptr_pos":218800,"str_pos":218814,"table":"normal","repoint":false}
+# ドラゴンのタマゴは会話ができるん<br>
+# だ。ふしぎだろ。
+
+
+
+{"str_num":876,"prefix":"0x7","ptr_pos":218808,"str_pos":218844,"table":"normal","repoint":false}
+# おや？もしかして，タマゴからかえ<br>
+# ったようだね。りっぱなドラゴンに<br>
+# なってくれよ。
+
+
+
+{"str_num":877,"prefix":"0x7","ptr_pos":218948,"str_pos":218954,"table":"normal","repoint":false}
+# あなた「うみなりのつぼ」って，<br>
+# 知ってる？それを海で使うとすごい<br>
+# 事がおこるらしいの。
+
+
+
+{"str_num":878,"prefix":"0x7","ptr_pos":219116,"str_pos":219154,"table":"normal","repoint":false}
+# むかしはドラゴンもたくさんいたの<br>
+# だが，今ではこの町のタマゴだけに<br>
+# なってしまった。
+
+
+
+{"str_num":879,"prefix":"0x7","ptr_pos":219132,"str_pos":219202,"table":"normal","repoint":false}
+# この島の北西にある火山が最近ふん<br>
+# かして，ようがんのせいで近づけな<br>
+# いようだ。
+
+
+
+{"str_num":880,"prefix":"0x7","ptr_pos":219140,"str_pos":219254,"table":"normal","repoint":false}
+# ドラゴンって，とてもつよいのよ。<br>
+# こどものころはそうでもないけど。
+
+
+
+{"str_num":881,"prefix":"0x7","ptr_pos":219148,"str_pos":219290,"table":"normal","repoint":false}
+# ドラゴンしゅは，のどにか―っと<br>
+# くるよ。か―っとな。
+
+
+
+{"str_num":882,"prefix":"0x7","ptr_pos":219442,"str_pos":219456,"table":"normal","repoint":false}
+# プレゼントなんで，リボンかけても<br>
+# らってるんだよ。
+
+
+
+{"str_num":883,"prefix":"0x7","ptr_pos":219450,"str_pos":219484,"table":"normal","repoint":false}
+# わしの，なくした「いれば」もオ―<br>
+# クション会場で見つかったんじゃ。
+
+
+
+{"str_num":884,"prefix":"0x7","ptr_pos":219646,"str_pos":219734,"table":"normal","repoint":false}
+# おはようございます。<br>
+# またごりようください。
+
+
+
+{"str_num":885,"prefix":"0x7","ptr_pos":219720,"str_pos":219760,"table":"normal","repoint":false}
+# 悪いが，かたをたたいてくださらぬ<br>
+# か。
+
+
+
+{"str_num":886,"prefix":"0x7","ptr_pos":219728,"str_pos":219784,"table":"normal","repoint":false}
+# いらっしゃいませ。<br>
+# 奥のお部屋へどうぞ。
+
+
+
+{"str_num":887,"prefix":"0x7","ptr_pos":220072,"str_pos":220094,"table":"normal","repoint":false}
+# じゅんばんよ，わりこみしないで<br>
+# うしろにならんでちょうだい。
+
+
+
+{"str_num":888,"prefix":"0x7","ptr_pos":220080,"str_pos":220128,"table":"normal","repoint":false}
+# ドラゴンのキバでス―プをつくろう<br>
+# かしら。
+
+
+
+{"str_num":889,"prefix":"0x7","ptr_pos":220088,"str_pos":220152,"table":"normal","repoint":false}
+# この店いつもこんでるんだ。
+
+
+
+{"str_num":890,"prefix":"0x7","ptr_pos":220300,"str_pos":171,"table":"normal","repoint":false}
+# ２
+# 2
+# if the second line is right, change 'table' to 'menu'
+
+
+
+{"str_num":891,"prefix":"0x27","ptr_pos":220346,"str_pos":9222,"table":"normal","repoint":false}
+# ク０め
+# ▽0む
+# if the second line is right, change 'table' to 'menu'
+
+
+
+{"str_num":892,"prefix":"0x7","ptr_pos":220418,"str_pos":220498,"table":"normal","repoint":false}
+# おはようございます。<br>
+# またごりようください。
+
+
+
+{"str_num":893,"prefix":"0x7","ptr_pos":220492,"str_pos":220524,"table":"normal","repoint":false}
+# ぼく，ピ―タ―パンが大すきさ。
+
+
+
+{"str_num":894,"prefix":"0x7","ptr_pos":220632,"str_pos":220646,"table":"normal","repoint":false}
+# 「女神像」をぬすんだのは海賊だよ<br>
+# おれ見たんだ，みなとに海賊の船が<br>
+# 入ってくるのを。
+
+
+
+{"str_num":895,"prefix":"0x7","ptr_pos":220640,"str_pos":220702,"table":"normal","repoint":false}
+# ピョ―ロリラ―<br>
+# レッドスネイクさ―ん，かもぉ―ん<br>
+# ・・・・・・・・
+
+
+
+{"str_num":896,"prefix":"0x7","ptr_pos":220798,"str_pos":220804,"table":"normal","repoint":false}
+# このまま，「女神像」がかえって<br>
+# こなければ，みんなきゅうに年を<br>
+# とってしまいます。
+
+
+
+{"str_num":897,"prefix":"0x7","ptr_pos":221066,"str_pos":221150,"table":"normal","repoint":false}
+# ここから北には火山があって通れな<br>
+# いわ。でも，「だいちのまもり」が<br>
+# あれば通る事ができるという話よ。
+
+
+
+{"str_num":898,"prefix":"0x7","ptr_pos":221106,"str_pos":221212,"table":"normal","repoint":false}
+# ミオナ「「女神像」のふしぎな力で，<br>
+# この町の人たちは子どものままで<br>
+# いられるのです。おねがいです。<br>
+# 海賊から「女神像」をとりかえして<br>
+# いただけませんか。わたしたちには<br>
+# どうする事もできないのです。」<scroll><player>「旅のとちゅうで海賊に<br>
+# 出あったら，必ずとりかえします。<br>
+# 気をおとさずにがんばってください<br>
+# 。」
+
+
+
+{"str_num":899,"prefix":"0x7","ptr_pos":221126,"str_pos":221388,"table":"normal","repoint":false}
+# ミオナ「<player>さん。」<scroll><player>「「女神像」をとりかえ<br>
+# したので，とどけにきました。」<scroll>ミオナ「ありがとうございます！！<br>
+# ほんとうにたすかりました。何か<br>
+# お礼をしなくてはなりませんね。」<scroll><player>「ミオナさん，べつに<br>
+# きにしなくていいですよ。」<scroll>ミオナ「この「エルフのうでわ」を<br>
+# さしあげましょう。何かやくにたつ<br>
+# かもしれません。」<scroll><player>「ありがとう。じゃぁ，<br>
+# おことばにあまえて。」<scroll><npc1>「よかったですね。」<scroll><npc9>「これでみんな，子ども<br>
+# のままでいられるよね？」<scroll>ミオナ「はい。わたしたちはこれから<br>
+# も夢をもちつづけていきたいと，<br>
+# おもいます。」
+
+
+
+{"str_num":900,"prefix":"0x7","ptr_pos":221144,"str_pos":221674,"table":"normal","repoint":false}
+# ほんとうに，ありがとうございまし<br>
+# た。
+
+
+
+{"str_num":901,"prefix":"0x7","ptr_pos":221844,"str_pos":221958,"table":"normal","repoint":false}
+# 「エルフのうでわ」がなければ，<br>
+# エルフの城には入れないよ。
+
+
+
+{"str_num":902,"prefix":"0x7","ptr_pos":221852,"str_pos":221992,"table":"normal","repoint":false}
+# いっしょに，イスとりゲ―ムしよう<br>
+# よ。
+
+
+
+{"str_num":903,"prefix":"0x7","ptr_pos":221874,"str_pos":222014,"table":"normal","repoint":false}
+# ル―ルは，おんがくが止まったらイ<br>
+# スにすわるんだよ。<br>
+# すわれなかった人は，負け。
+
+
+
+{"str_num":904,"prefix":"0x7","ptr_pos":221896,"str_pos":222062,"table":"normal","repoint":false}
+# いつになったら，おんがくが止まっ<br>
+# てくれるのかしら？
+
+
+
+{"str_num":905,"prefix":"0x7","ptr_pos":221918,"str_pos":222092,"table":"normal","repoint":false}
+# いいかげんに，つかれちゃったわ。
+
+
+
+{"str_num":906,"prefix":"0x7","ptr_pos":221940,"str_pos":222110,"table":"normal","repoint":false}
+# ヤ―ノ・ヤ―ノ。
+
+
+
+{"str_num":907,"prefix":"0x7","ptr_pos":222212,"str_pos":222218,"table":"normal","repoint":false}
+# あまゆきのつえさえあれば，ようが<br>
+# んをこうらせられるのかなぁ・・。
+
+
+
+{"str_num":908,"prefix":"0x7","ptr_pos":222330,"str_pos":222344,"table":"normal","repoint":false}
+# オイラのとうちゃんは，船のりさ，<br>
+# そういえば，最近かいぞく船を見か<br>
+# けたとかなんとかって・・・。
+
+
+
+{"str_num":909,"prefix":"0x7","ptr_pos":222338,"str_pos":222402,"table":"normal","repoint":false}
+# さわがしくて，ごめんなさい，うち<br>
+# の子，おちつきがなくっていつも，<br>
+# ああなのよ。
+
+
+
+{"str_num":910,"prefix":"0x7","ptr_pos":222524,"str_pos":222538,"table":"normal","repoint":false}
+# ポロンの町の「女神像」がぬすまれ<br>
+# たらしいわよ。きっと，れいの海賊<br>
+# のしわざね。
+
+
+
+{"str_num":911,"prefix":"0x7","ptr_pos":222532,"str_pos":222588,"table":"normal","repoint":false}
+# 海賊船だけじゃなく，ゆうれい船や<br>
+# ようかい船もでるらしいわよ。
+
+
+
+{"str_num":912,"prefix":"0x7","ptr_pos":222704,"str_pos":222738,"table":"normal","repoint":false}
+# 海賊が出るかぎり，あんしんして船<br>
+# を出すことができないのぉ。
+
+
+
+{"str_num":913,"prefix":"0x7","ptr_pos":222724,"str_pos":222774,"table":"normal","repoint":false}
+# わたしすごいものをみたの。だって<br>
+# うずの中から島がうかび上がって<br>
+# くるんですもの。
+
+
+
+{"str_num":914,"prefix":"0x7","ptr_pos":222732,"str_pos":222822,"table":"normal","repoint":false}
+# わたしのすいそくなんだけれど，<br>
+# ドランの町の南東にあるほこらが<br>
+# 海賊たちのかくれ家だとおもうの。
+
+
+
+{"str_num":915,"prefix":"0x7","ptr_pos":223092,"str_pos":223220,"table":"normal","repoint":false}
+# いらっしゃい。おサケはいやな事を<br>
+# わすれさせてくれるわ。<br>
+# いっぱいどうですか。
+
+
+
+{"str_num":916,"prefix":"0x7","ptr_pos":223110,"str_pos":223264,"table":"normal","repoint":false}
+# 大きなうずの所で船がとまっている<br>
+# のを見たことがあるぜ。
+
+
+
+{"str_num":917,"prefix":"0x7","ptr_pos":223118,"str_pos":223300,"table":"normal","repoint":false}
+# この大りくのはん島に，「げんどう<br>
+# し」とよばれる男がすんでいるらし<br>
+# い。
+
+
+
+{"str_num":918,"prefix":"0x7","ptr_pos":223126,"str_pos":223344,"table":"normal","repoint":false}
+# サイナック「ちくしょう，いったい<br>
+# だれなんだよ。」<scroll><player>「どうかしましたか？」<scroll>サイナック「あぁ？！おれは海賊の<br>
+# サイナックっていうんだが。<br>
+# おっと！！感ちがいするな。あらし<br>
+# まわってるのはおれじゃないぜ。」<scroll><player>「だれがあらしまわって<br>
+# いるか知ってますか？」<scroll>サイナック「それがな，わからねぇん<br>
+# だよ。おれも，いいかげんめいわく<br>
+# していてな。このままじゃあ，全部<br>
+# おれのせいにされちまう。」<scroll><player>「たしかに，なぞの海賊<br>
+# は，あなたの名をかたっているらし<br>
+# いですね。」<scroll>サイナック「なんだと！！じょうだん<br>
+# じゃねぇ。必ずこの手でとっつかま<br>
+# えてやる。」<scroll><player>「わたしたちでよければ<br>
+# 力になりましょうか？」<scroll>サイナック「ありがてぇ，たよりに<br>
+# させてもらうぜ。海にいるやつらを<br>
+# 見つけるには船が必要だな。<br>
+# 船はおれの船をつかってくれ。」
+
+
+
+{"str_num":919,"prefix":"0x7","ptr_pos":223146,"str_pos":223744,"table":"normal","repoint":false}
+# サイナックがなかまになった。
+
+
+
+{"str_num":920,"prefix":"0x7","ptr_pos":223180,"str_pos":223760,"table":"normal","repoint":false}
+# サイナック「おう！！<br>
+# <player>じゃねえか。<br>
+# 元気にしてるか，この前は世話に<br>
+# なったな。」
+
+
+
+{"str_num":921,"prefix":"0x7","ptr_pos":223202,"str_pos":223812,"table":"normal","repoint":false}
+# <player>「サイナックさんこそ<br>
+# 元気に海賊してますか？」<scroll>サイナック「あたりめえよ。あたらし<br>
+# い船も手に入ったことだしな。<br>
+# 船といえば，中をしらべていたら<br>
+# こんなものを見つけてな。」<scroll><player>「ん。つぼですか？」<scroll>サイナック「おれは，こんなもんに<br>
+# きょうみはねえからな。<br>
+# おまえにやるよ。」<scroll><player>「それじゃあ，もらって<br>
+# おきます。」
+
+
+
+{"str_num":922,"prefix":"0x7","ptr_pos":223214,"str_pos":223992,"table":"normal","repoint":false}
+# サイナック「また，こんどいっしょに<br>
+# 海であばれようぜ！！<br>
+# たのしみにしているからな。」
+
+
+
+{"str_num":923,"prefix":"0x7","ptr_pos":224142,"str_pos":224218,"table":"normal","repoint":false}
+# おはようございます。<br>
+# またごりようください。
+
+
+
+{"str_num":924,"prefix":"0x7","ptr_pos":224212,"str_pos":224244,"table":"normal","repoint":false}
+# サイナックという海賊はよわい者<br>
+# は，おそわないと聞いたのだが。
+
+
+
+{"str_num":925,"prefix":"0x7","ptr_pos":224510,"str_pos":224524,"table":"normal","repoint":false}
+# 湖がうごくって信じられますか。
+
+
+
+{"str_num":926,"prefix":"0x7","ptr_pos":224518,"str_pos":224544,"table":"normal","repoint":false}
+# ぼくね。湖の中に入っていく人を<br>
+# 見たよ。
+
+
+
+{"str_num":927,"prefix":"0x7","ptr_pos":224778,"str_pos":224880,"table":"normal","repoint":false}
+# おはようございます。<br>
+# またごりようください。
+
+
+
+{"str_num":928,"prefix":"0x7","ptr_pos":224850,"str_pos":224906,"table":"normal","repoint":false}
+# ちょうどよかった，一人メンツがた<br>
+# りなかったとこだ，まあすわれよ。
+
+
+
+{"str_num":929,"prefix":"0x7","ptr_pos":224858,"str_pos":224944,"table":"normal","repoint":false}
+# てん１じゃよ，てん１。
+
+
+
+{"str_num":930,"prefix":"0x7","ptr_pos":224866,"str_pos":224958,"table":"normal","repoint":false}
+# 一ぱつ，リ―チと，いきたいもので<br>
+# す。
+
+
+
+{"str_num":931,"prefix":"0x7","ptr_pos":224874,"str_pos":224982,"table":"normal","repoint":false}
+# しおのみち引きで，すなはまがあら<br>
+# われるなんて，すてきなところね。
+
+
+
+{"str_num":932,"prefix":"0x7","ptr_pos":225096,"str_pos":225134,"table":"normal","repoint":false}
+# 海がひきしおになると，けっこう<br>
+# さきまであるけるよ。
+
+
+
+{"str_num":933,"prefix":"0x7","ptr_pos":225112,"str_pos":225164,"table":"normal","repoint":false}
+# あさっての，あさにはしおがひいて<br>
+# かなり海めんが，ひくくなるよ。
+
+
+
+{"str_num":934,"prefix":"0x7","ptr_pos":225128,"str_pos":225200,"table":"normal","repoint":false}
+# この町から見るけしきは，とても<br>
+# きれいだよ。
+
+
+
+{"str_num":935,"prefix":"0x7","ptr_pos":225284,"str_pos":225290,"table":"normal","repoint":false}
+# 「かぜのたてごと」って知ってます<br>
+# か？
+
+
+
+{"str_num":936,"prefix":"0x7","ptr_pos":225450,"str_pos":225456,"table":"normal","repoint":false}
+# かぜの塔って，しってるかい？<br>
+# ここから南にある島にたってるよ。
+
+
+
+{"str_num":937,"prefix":"0x7","ptr_pos":225702,"str_pos":225750,"table":"normal","repoint":false}
+# いらっしゃいませ。
+
+
+
+{"str_num":938,"prefix":"0x7","ptr_pos":225720,"str_pos":225762,"table":"normal","repoint":false}
+# このゲ―ムには時間がある。その事<br>
+# をあたまにいれてプレイしてくれ。
+
+
+
+{"str_num":939,"prefix":"0x7","ptr_pos":225728,"str_pos":225802,"table":"normal","repoint":false}
+# 実はこの町から南方に行く事もでき<br>
+# るんだよ。あるタイミングでな。
+
+
+
+{"str_num":940,"prefix":"0x7","ptr_pos":225736,"str_pos":225842,"table":"normal","repoint":false}
+# おきゃくさ―ん，まだじゅんびちゅ<br>
+# うなんすよ。
+
+
+
+{"str_num":941,"prefix":"0x7","ptr_pos":225744,"str_pos":225868,"table":"normal","repoint":false}
+# いらっしゃいませ，お待ちしており<br>
+# ました。
+
+
+
+{"str_num":942,"prefix":"0x7","ptr_pos":225986,"str_pos":225992,"table":"normal","repoint":false}
+# うわ―！死んだ人が，生き返るなん<br>
+# て信じられな―い
+
+
+
+{"str_num":943,"prefix":"0x7","ptr_pos":226108,"str_pos":226190,"table":"normal","repoint":false}
+# 「何か，ようかい。」<scroll><npc9>「えっ？！だれもいない<br>
+# のにこえがする。」<scroll> 「わたしはここにいる。<br>
+# ほら，きみたちの目の前だよ。」
+
+
+
+{"str_num":944,"prefix":"0x7","ptr_pos":226132,"str_pos":226260,"table":"normal","repoint":false}
+# ソ―ドマン「こんにちわ，わたしは<br>
+# ソ―ドマンという。こんなすがたで<br>
+# びっくりしたかい？」<scroll><npc1>「ええ，ちょっと。」<scroll>ソ―ドマン「この剣がわたし自身。<br>
+# ふつうは，いどうするための「よろ<br>
+# いのからだ」があるのだが，ゆだん<br>
+# しているスキに何者かにもちさられ<br>
+# てしまった。<br>
+# このままではわたしはうごく事も<br>
+# できない。」<scroll><npc9>「それは大変だよね。」<scroll>ソ―ドマン「すまないが，見つけて来<br>
+# てくれないだろうか。」<scroll><npc1>「わかりました。<br>
+# 見つけたら必ずもってきますね。」
+
+
+
+{"str_num":945,"prefix":"0x7","ptr_pos":226160,"str_pos":226510,"table":"normal","repoint":false}
+# ソ―ドマン「まだ，「よろいのからだ<br>
+# 」は見つからないか・・・。」
+
+
+
+{"str_num":946,"prefix":"0x7","ptr_pos":226168,"str_pos":226546,"table":"normal","repoint":false}
+# ソ―ドマン「ああ，きみたちか。」<scroll><npc1>「ソ―ドマンさん，<br>
+# 盗まれた「よろいのからだ」って，<br>
+# これでしょうか？」<scroll>ソ―ドマン「まさに，わたしの体だ。<br>
+# それがあればうごくことができる。<br>
+# ありがとう，何と礼をいってよいや<br>
+# ら。」<scroll><npc9>「ちょっと聞きたいんだ<br>
+# けど，どうやってその体をうごかす<br>
+# のかなぁ？」<scroll>ソ―ドマン「念どう力であやつってい<br>
+# るんだよ。」<scroll><npc9>「すごいな～。」<scroll>ソ―ドマン「このおんはわすれない，<br>
+# 何かあったときはよんでくれ。<br>
+# 必ずたすけに行ってやろう。」
+
+
+
+{"str_num":947,"prefix":"0x7","ptr_pos":226184,"str_pos":226798,"table":"normal","repoint":false}
+# 何かあったときはよんでくれ。<br>
+# 必ずたすけに行ってやろう。
+
+
+
+{"str_num":948,"prefix":"0x7","ptr_pos":227014,"str_pos":227076,"table":"normal","repoint":false}
+# さいきんは海賊の話はあまり聞かな<br>
+# いな。
+
+
+
+{"str_num":949,"prefix":"0x7","ptr_pos":227022,"str_pos":227104,"table":"normal","repoint":false}
+# きみ，戦いはなれたかね。<scroll> ずばり！！ほじょ魔法をいかに<br>
+# 使うかが，じゅうようなんだよ。
+
+
+
+{"str_num":950,"prefix":"0x7","ptr_pos":227030,"str_pos":227154,"table":"normal","repoint":false}
+# おれには何もなかった。あたたかい<br>
+# かていも，すむ家も。<br>
+# ごようしょうのころのお話さ，<br>
+# わすれたはずのな。
+
+
+
+{"str_num":951,"prefix":"0x7","ptr_pos":227038,"str_pos":227214,"table":"normal","repoint":false}
+# 生きるもじごく，死ぬもじごく。<br>
+# ならば，いっそ，この命。<br>
+# きみにあずけてみようか。
+
+
+
+{"str_num":952,"prefix":"0x7","ptr_pos":227046,"str_pos":227262,"table":"normal","repoint":false}
+# う～ん。ブランデ―は，こよいも<br>
+# <npc1>の１３世，ここちよい<br>
+# かおりが，こはくのうちゅうに<br>
+# いざなってくれる。
+
+
+
+{"str_num":953,"prefix":"0x7","ptr_pos":227054,"str_pos":227322,"table":"normal","repoint":false}
+# ハ～イ。サンクス，フレンズ。<br>
+# このままいくと，とうぶん<br>
+# およめに行けそうもないなぁ。
+
+
+
+{"str_num":954,"prefix":"0x7","ptr_pos":227062,"str_pos":227370,"table":"normal","repoint":false}
+# あいつらは何をしているんだ？<br>
+# わしの精神あんていざいをのませて<br>
+# みるか。
+
+
+
+{"str_num":955,"prefix":"0x7","ptr_pos":227070,"str_pos":227412,"table":"normal","repoint":false}
+# グワッ，ハッ，ハ！！<br>
+# うちのかいしゃのフライドチキンは<br>
+# うまいぞ。
+
+
+
+{"str_num":956,"prefix":"0x7","ptr_pos":227550,"str_pos":227556,"table":"normal","repoint":false}
+# そぉ～んな事，いわないで。おね<br>
+# がいだから，<npc1>ちゃん
+
+
+
+{"str_num":957,"prefix":"0x7","ptr_pos":227682,"str_pos":227704,"table":"normal","repoint":false}
+# キャラクタ―の能力について，<br>
+# せつめいしましょう。<br>
+# げんどうしネビュロスは<br>
+# 「魔法結界」という，とくしゅ<br>
+# 能力をもっています。これは結界を<br>
+# はり敵のかけてきた魔法をそのまま<br>
+# あいてにはじきかえすものです。
+
+
+
+{"str_num":958,"prefix":"0x7","ptr_pos":227690,"str_pos":227822,"table":"normal","repoint":false}
+# あたしね，おばあさんにしろいパン<br>
+# をもっていってあげるの。
+
+
+
+{"str_num":959,"prefix":"0x7","ptr_pos":227698,"str_pos":227854,"table":"normal","repoint":false}
+# <npc1>！！<br>
+# 私，たてるようになったの。
+
+
+
+{"str_num":960,"prefix":"0x7","ptr_pos":228050,"str_pos":228072,"table":"normal","repoint":false}
+# 人生って，かなしい事，つらい事<br>
+# の方がおおいとおもうわ。だから<br>
+# 小さなしあわせこそ，たいせつに<br>
+# しなくちゃね。
+
+
+
+{"str_num":961,"prefix":"0x7","ptr_pos":228058,"str_pos":228138,"table":"normal","repoint":false}
+# まっしろにもえつきたぜ。
+
+
+
+{"str_num":962,"prefix":"0x7","ptr_pos":228066,"str_pos":228152,"table":"normal","repoint":false}
+# たて～，たつんだ。<player><br>
+# いっしょに，はしをわたるんじゃ。
+
+
+
+{"str_num":963,"prefix":"0x7","ptr_pos":228314,"str_pos":228352,"table":"normal","repoint":false}
+# たてよ，ファンタジィ―界の者よ。<br>
+# ザファンは死んだ。なぜだ！！
+
+
+
+{"str_num":964,"prefix":"0x7","ptr_pos":228322,"str_pos":228390,"table":"normal","repoint":false}
+# <npc1>，おまえには戦いは，<br>
+# 似合わない。いい女になるんだな。
+
+
+
+{"str_num":965,"prefix":"0x7","ptr_pos":228330,"str_pos":228426,"table":"normal","repoint":false}
+# <player>，あなたなら，きっと<br>
+# できるわ。
+
+
+
+{"str_num":966,"prefix":"0x7","ptr_pos":228338,"str_pos":228448,"table":"normal","repoint":false}
+# ファンタジィ―界のどくさいを<br>
+# もくろむ男が，何をいうのか。
+
+
+
+{"str_num":967,"prefix":"0x7","ptr_pos":228346,"str_pos":228482,"table":"normal","repoint":false}
+# あのツボをわたしてくれ。<br>
+# あれは，いいツボだ。
+
+
+
+{"str_num":968,"prefix":"0x7","ptr_pos":228630,"str_pos":228718,"table":"normal","repoint":false}
+# おはようございます。<br>
+# またごりようください。
+
+
+
+{"str_num":969,"prefix":"0x7","ptr_pos":228704,"str_pos":228744,"table":"normal","repoint":false}
+# おじさま，わたしをつれてって。<br>
+# きっと魔法をおぼえますから。
+
+
+
+{"str_num":970,"prefix":"0x7","ptr_pos":228712,"str_pos":228780,"table":"normal","repoint":false}
+# わたしは，しあわせをもたらすと<br>
+# いわれている，なないろのはなを<br>
+# さがしています。
+
+
+
+{"str_num":971,"prefix":"0x7","ptr_pos":228916,"str_pos":228922,"table":"normal","repoint":false}
+# いのるだけでは何も変わりはしない<br>
+# のさ。自分自身の力でがんばってこ<br>
+# そ，ねがいはかなうものさ。
+
+
+
+{"str_num":972,"prefix":"0x7","ptr_pos":229124,"str_pos":229180,"table":"normal","repoint":false}
+# いらっしゃい。おいしい水でつくっ<br>
+# た，おいしいおサケよ。
+
+
+
+{"str_num":973,"prefix":"0x7","ptr_pos":229142,"str_pos":229212,"table":"normal","repoint":false}
+# こまったときには，エルフの女王に<br>
+# そうだんするといいわ。何か，いい<br>
+# ちえをわけてくれるわよ，きっと。
+
+
+
+{"str_num":974,"prefix":"0x7","ptr_pos":229150,"str_pos":229268,"table":"normal","repoint":false}
+# 湖のあなはとおる事ができると聞い<br>
+# たが本とうなのだろうか。
+
+
+
+{"str_num":975,"prefix":"0x7","ptr_pos":229158,"str_pos":229304,"table":"normal","repoint":false}
+# 知ってるか？兄ちゃん。エレメンタ<br>
+# ル使いってのは，精れいの力を使う<br>
+# 事ができるらしいぜ。
+
+
+
+{"str_num":976,"prefix":"0x7","ptr_pos":229166,"str_pos":229356,"table":"normal","repoint":false}
+# ウェ―，ごめんごめん，ちょっと<br>
+# リバ―スしかけちまった。
+
+
+
+{"str_num":977,"prefix":"0x7","ptr_pos":229174,"str_pos":229388,"table":"normal","repoint":false}
+# いいあんばいじゃの―。
+
+
+
+{"str_num":978,"prefix":"0x7","ptr_pos":229550,"str_pos":229596,"table":"normal","repoint":false}
+# エルフの女王は物知りよ。
+
+
+
+{"str_num":979,"prefix":"0x7","ptr_pos":229558,"str_pos":229612,"table":"normal","repoint":false}
+# キャラクタ―の能力について，<br>
+# せつめいしよう。<br>
+# ソ―ドマンは「エナジ―ドレイン」<br>
+# 「念呪縛」の，とくしゅ能力を<br>
+# もっている。「エナジ―ドレン」は<br>
+# あいてに剣である自分自身をさし，<br>
+# 生命エネルギ―をすいとる。<br>
+# 「ねんじゅばく」は強力な念力で<br>
+# 敵を行どう不能にする事ができる。
+
+
+
+{"str_num":980,"prefix":"0x7","ptr_pos":229566,"str_pos":229774,"table":"normal","repoint":false}
+# ここは，ロンパッパル―ムで―す，<br>
+# みんな，なかよくあそびましょう。
+
+
+
+{"str_num":981,"prefix":"0x7","ptr_pos":229574,"str_pos":229810,"table":"normal","repoint":false}
+# ギャロップ，ギャロップ・・・
+
+
+
+{"str_num":982,"prefix":"0x7","ptr_pos":229582,"str_pos":229826,"table":"normal","repoint":false}
+# ぼく，おやつのじかんのミルクが，<br>
+# たのちみでちゅ・・・。
+
+
+
+{"str_num":983,"prefix":"0x7","ptr_pos":229590,"str_pos":229858,"table":"normal","repoint":false}
+# ここだけの話じゃが，わしも，おや<br>
+# つが，たのしみでのう・・・。
+
+
+
+{"str_num":984,"prefix":"0x7","ptr_pos":229952,"str_pos":229958,"table":"normal","repoint":false}
+# 湖の中のあなは，どこかにつながっ<br>
+# ているって聞いたわ。
+
+
+
+{"str_num":985,"prefix":"0x7","ptr_pos":230100,"str_pos":230106,"table":"normal","repoint":false}
+# カウンタ―の奥の，宝ばこ売って<br>
+# くれないのかなぁ。
+
+
+
+{"str_num":986,"prefix":"0x7","ptr_pos":230274,"str_pos":230358,"table":"normal","repoint":false}
+# おはようございます。<br>
+# またごりようください。
+
+
+
+{"str_num":987,"prefix":"0x7","ptr_pos":230344,"str_pos":230384,"table":"normal","repoint":false}
+# あなたたちはこれから，いろいろと<br>
+# 信じられないこうけいをまのあたり<br>
+# にする事でしょう。
+
+
+
+{"str_num":988,"prefix":"0x7","ptr_pos":230352,"str_pos":230434,"table":"normal","repoint":false}
+# 明日は，どの町にたびだとうかな。
+
+
+
+{"str_num":989,"prefix":"0x7","ptr_pos":230530,"str_pos":230544,"table":"normal","repoint":false}
+# 湖のあなから変な怪物たちが出て<br>
+# くるのをおれは見たんだ。
+
+
+
+{"str_num":990,"prefix":"0x7","ptr_pos":230538,"str_pos":230580,"table":"normal","repoint":false}
+# もうそろそろ，ねるとするか。
+
+
+
+{"str_num":991,"prefix":"0x7","ptr_pos":230674,"str_pos":230698,"table":"normal","repoint":false}
+# かんり人「おや，人とはめずらしい<br>
+# ですね。」<scroll><player>「こんにちわ。あのぉ，<br>
+# すいませんけれど，ここはいったい<br>
+# どこなんですか？」<scroll>かんり人「ここですか。ここは精神の<br>
+# 世界です。わたしはここの世界の<br>
+# かんり人をしています。」<scroll><npc1>「わたしたち元の世界に<br>
+# もどりたいのですが，どうしたら<br>
+# よいかわからないのです。」<scroll>かんり人「この世界にじったいをもつ<br>
+# 者が入りこんだら，元の世界にもど<br>
+# る事はまずむりでしょう。ただし，<br>
+# この世界にかくされている飛空妖船<br>
+# を手に入れればべつですが。」<scroll><player>「その飛空妖船はどこに<br>
+# あるのか知りませんか？」<scroll>かんり人「この世界のどうくつに，<br>
+# ほかんされているはずです。しかし<br>
+# 入り口には５つの宝石がうめこまれ<br>
+# たとびらがあり，その宝石すべてを<br>
+# かがやかせなければとびらはひらか<br>
+# れません。」
+
+
+
+{"str_num":992,"prefix":"0x7","ptr_pos":230692,"str_pos":231116,"table":"normal","repoint":false}
+# かんり人「あの塔ですか。このカギが<br>
+# あればどれかの塔の入り口のとびら<br>
+# をあける事ができますよ。」
+
+
+
+{"str_num":993,"prefix":"0x7","ptr_pos":231264,"str_pos":231278,"table":"normal","repoint":false}
+# さばくから北に行くと，水のエレメ<br>
+# ンタル使いの家があると聞いた事が<br>
+# あるわ。
+
+
+
+{"str_num":994,"prefix":"0x7","ptr_pos":231272,"str_pos":231326,"table":"normal","repoint":false}
+# さがしものが，あるならオ―クショ<br>
+# ンに，行ってみたら。
+
+
+
+{"str_num":995,"prefix":"0x7","ptr_pos":231416,"str_pos":231422,"table":"normal","repoint":false}
+# ねぇ，ねぇ。うずだって水だよね。
+
+
+
+{"str_num":996,"prefix":"0x7","ptr_pos":231552,"str_pos":231558,"table":"normal","repoint":false}
+# もっとたくさん，おこずかい，ため<br>
+# なくっちゃ！
+
+
+
+{"str_num":997,"prefix":"0x7","ptr_pos":231664,"str_pos":231670,"table":"normal","repoint":false}
+# 旅のとちゅうで，なくした物は，<br>
+# オ―クション会場でしょうか？
+
+
+
+{"str_num":998,"prefix":"0x7","ptr_pos":231826,"str_pos":231840,"table":"normal","repoint":false}
+# いらっしゃいませ<br>
+# レンタルのアクムです。
+
+
+
+{"str_num":999,"prefix":"0x7","ptr_pos":231834,"str_pos":231864,"table":"normal","repoint":false}
+# ごりようは，けいかくてきにねっ！
+
+
+
+{"str_num":1000,"prefix":"0x7","ptr_pos":231940,"str_pos":231946,"table":"normal","repoint":false}
+# 「水」のエレメンタル使いは，水を<br>
+# じゅうにあやつる事ができるん<br>
+# だって。
+
+
+
+{"str_num":1001,"prefix":"0x27","ptr_pos":232018,"str_pos":16394,"table":"normal","repoint":false}
+# づぉも
+# おHめ
+# if the second line is right, change 'table' to 'menu'
+
+
+
+{"str_num":1002,"prefix":"0x7","ptr_pos":232084,"str_pos":232170,"table":"normal","repoint":false}
+# 何，<player>の心をよびもどし<br>
+# このたまにそれをそそぎこめばよい<br>
+# のだな。すこしまつがよい。
+
+
+
+{"str_num":1003,"prefix":"0x7","ptr_pos":232100,"str_pos":232218,"table":"normal","repoint":false}
+# 「まよえし，<player>の心よ。<br>
+# ほとけのみちびきにより，このたま<br>
+# にそそぎこまれん！！」
+
+
+
+{"str_num":1004,"prefix":"0x7","ptr_pos":232120,"str_pos":232264,"table":"normal","repoint":false}
+# これが<player>の心が入った<br>
+# 「れいきゅう」じゃ。
+
+
+
+{"str_num":1005,"prefix":"0x7","ptr_pos":232164,"str_pos":232292,"table":"normal","repoint":false}
+# 何でもかんでも，生きかえれ―。
+
+
+
+{"str_num":1006,"prefix":"0x7","ptr_pos":232412,"str_pos":232492,"table":"normal","repoint":false}
+# おはようございます。<br>
+# またごりようください。
+
+
+
+{"str_num":1007,"prefix":"0x7","ptr_pos":232486,"str_pos":232518,"table":"normal","repoint":false}
+# おやの形見は，はだ身はなさずもっ<br>
+# ていなくちゃだめよ。
+
+
+
+{"str_num":1008,"prefix":"0x7","ptr_pos":232670,"str_pos":232676,"table":"normal","repoint":false}
+# ここで売ってる武器はほかでは見か<br>
+# けない物ばかりだ。
+
+
+
+{"str_num":1009,"prefix":"0x7","ptr_pos":232858,"str_pos":232864,"table":"normal","repoint":false}
+# この町で売ってる武器はふつうの<br>
+# 人には使いこなせないでしょうね。
+
+
+
+{"str_num":1010,"prefix":"0x7","ptr_pos":232994,"str_pos":233016,"table":"normal","repoint":false}
+# お城に入るには「エルフのうでわ」<br>
+# が必要です。
+
+
+
+{"str_num":1011,"prefix":"0x7","ptr_pos":233002,"str_pos":233046,"table":"normal","repoint":false}
+# 人間さん，ごきげんよう。
+
+
+
+{"str_num":1012,"prefix":"0x7","ptr_pos":233010,"str_pos":233062,"table":"normal","repoint":false}
+# 早く人間になりたいですって？<br>
+# 私は，あなたが人間に見えるけど？
+
+
+
+{"str_num":1013,"prefix":"0x7","ptr_pos":233566,"str_pos":233724,"table":"normal","repoint":false}
+# このさきから２Fへいけば，わたし<br>
+# たちの女王にあえますよ。
+
+
+
+{"str_num":1014,"prefix":"0x7","ptr_pos":233574,"str_pos":233758,"table":"normal","repoint":false}
+# 女王にあうときには，れいぎ正しく<br>
+# してくださいね。
+
+
+
+{"str_num":1015,"prefix":"0x7","ptr_pos":233582,"str_pos":233790,"table":"normal","repoint":false}
+# あら，人間だわ。めずらしいわね。
+
+
+
+{"str_num":1016,"prefix":"0x7","ptr_pos":233590,"str_pos":233810,"table":"normal","repoint":false}
+# 女王様は心のやさしい方です。<br>
+# でも，むかし人間にだまされて，<br>
+# 妹さんをなくされました。だから，<br>
+# 人間にはつめたいとおもいます。
+
+
+
+{"str_num":1017,"prefix":"0x7","ptr_pos":233598,"str_pos":233888,"table":"normal","repoint":false}
+# ちゃんとごはんをたべないと，体を<br>
+# こわすわよ。気をつけてね。
+
+
+
+{"str_num":1018,"prefix":"0x7","ptr_pos":233606,"str_pos":233922,"table":"normal","repoint":false}
+# エルフ族のりょうりはおいしい物<br>
+# ばかり。あなたもたべてみたい？
+
+
+
+{"str_num":1019,"prefix":"0x7","ptr_pos":233614,"str_pos":233958,"table":"normal","repoint":false}
+# また明日おいでください。
+
+
+
+{"str_num":1020,"prefix":"0x7","ptr_pos":233622,"str_pos":233974,"table":"normal","repoint":false}
+# 今，女王はお休みになっています。
+
+
+
+{"str_num":1021,"prefix":"0x7","ptr_pos":233630,"str_pos":233996,"table":"normal","repoint":false}
+# よるはお通しできません。
+
+
+
+{"str_num":1022,"prefix":"0x7","ptr_pos":233638,"str_pos":234012,"table":"normal","repoint":false}
+# ・・・・・・・・・・
+
+
+
+{"str_num":1025,"prefix":"0x7","ptr_pos":233662,"str_pos":234024,"table":"normal","repoint":false}
+# 私アイスクリ―ムが，たべたいわ！
+
+
+
+{"str_num":1026,"prefix":"0x7","ptr_pos":233670,"str_pos":234044,"table":"normal","repoint":false}
+# 大変だわ！人間を入れるなんて，<br>
+# もんばんたら，なにを考えているの<br>
+# かしら。
+
+
+
+{"str_num":1027,"prefix":"0x7","ptr_pos":233678,"str_pos":234092,"table":"normal","repoint":false}
+# うでわをお持ちですか？・・・<br>
+# 持ってますね，どうぞ奥へ。
+
+
+
+{"str_num":1028,"prefix":"0x7","ptr_pos":233686,"str_pos":234124,"table":"normal","repoint":false}
+# 女王様が，お会いして下さるかどう<br>
+# か・・・。
+
+
+
+{"str_num":1029,"prefix":"0x7","ptr_pos":233694,"str_pos":234154,"table":"normal","repoint":false}
+# 女王様のいかりにふれないように！
+
+
+
+{"str_num":1030,"prefix":"0x7","ptr_pos":233702,"str_pos":234176,"table":"normal","repoint":false}
+# おともだちからでしたら，おつき合<br>
+# いしてもいいですけど・・・。
+
+
+
+{"str_num":1031,"prefix":"0x7","ptr_pos":233710,"str_pos":234212,"table":"normal","repoint":false}
+# このまま帰った方が，身のためだと<br>
+# おもうわ。
+
+
+
+{"str_num":1032,"prefix":"0x7","ptr_pos":233718,"str_pos":234240,"table":"normal","repoint":false}
+# 人間て，おろかな生き物だと聞いて<br>
+# いるけれど，君たちはどうなの？
+
+
+
+{"str_num":1033,"prefix":"0x7","ptr_pos":234636,"str_pos":234914,"table":"normal","repoint":false}
+# いそがしいんだから，こえをかけ<br>
+# ないで！！
+
+
+
+{"str_num":1034,"prefix":"0x7","ptr_pos":234654,"str_pos":234938,"table":"normal","repoint":false}
+# だめよ，つまみぐいしちゃ。<br>
+# とくにふわふわ飛んでる，ホラ，<br>
+# ドラゴンさん，あなたのことよ。
+
+
+
+{"str_num":1035,"prefix":"0x7","ptr_pos":234662,"str_pos":234988,"table":"normal","repoint":false}
+# わたしたちエルフ族は「森・かぜ・<br>
+# 水・大地」など，そのほかいろいろ<br>
+# なしぜんと，たいわしてせいかつし<br>
+# てきました。
+
+
+
+{"str_num":1036,"prefix":"0x7","ptr_pos":234670,"str_pos":235056,"table":"normal","repoint":false}
+# このみどりのしぜんを守っていくの<br>
+# が，わたしたちの使命だとおもって<br>
+# います。
+
+
+
+{"str_num":1037,"prefix":"0x7","ptr_pos":234678,"str_pos":235100,"table":"normal","repoint":false}
+# しずかに女王の話をお聞き下さい。
+
+
+
+{"str_num":1038,"prefix":"0x7","ptr_pos":234686,"str_pos":235124,"table":"normal","repoint":false}
+# わが女王はすばらしい方ですよ。
+
+
+
+{"str_num":1039,"prefix":"0x7","ptr_pos":234754,"str_pos":235144,"table":"normal","repoint":false}
+# セルキ―「わたしはエルフの女王，<br>
+# セルキ―・マナ・ミルラ―ドです。<br>
+# 人間がわたしに何のようですか。」<scroll><player>「ちょっと，女王様に<br>
+# お聞きしたい事がありまして。<br>
+# わたしたちは人間界からやってきま<br>
+# した。<br>
+# 人間界はモンスタ―たちがあらわれ<br>
+# てとてもあれはててしまいました。<br>
+# かれらはほかの世界から入りこんで<br>
+# 来ているようなのです。」<scroll>セルキ―「そのモンスタ―が，この<br>
+# ファンタジィ―界から入りこんで<br>
+# いるということですか？」<scroll><player>「はい。」<scroll>セルキ―「まさか，わたしがモンスタ<br>
+# ―をおくりこんでいるとでも？<br>
+# やはり人間の考える事は，その様な<br>
+# ものですね。もうあなたたちとは話<br>
+# をする気はありません！！」<scroll><player>「まってください，<br>
+# 女王！！話を聞いて下さい。」<scroll>セルキ―「さようなら。おろかなる<br>
+# 人間たちよ。」<scroll><npc1>「女王様！！」
+
+
+
+{"str_num":1040,"prefix":"0x7","ptr_pos":234776,"str_pos":236796,"table":"normal","repoint":false}
+# セルキ―「わたしはエルフの女王，<br>
+# セルキ―・マナ・ミルラ―ドです。<br>
+# 人間がわたしに何のようですか。」
+
+
+
+{"str_num":1041,"prefix":"0x7","ptr_pos":234784,"str_pos":235560,"table":"normal","repoint":false}
+# セルキ―「また，あなたたちですか。<br>
+# よくもどってこれましたね。」<scroll><player>「あなたのごかいをどう<br>
+# してもときたくて。」<scroll>セルキ―「<player>，あなたは<br>
+# 人間ではなかったのですね。でも，<br>
+# わたしにはあなたたちを信用する事<br>
+# はできません。もし，どうしてもと<br>
+# いうのなら，この城の地下にほかん<br>
+# されている「しんじつのかがみ」を<br>
+# とって来てください。話はそれから<br>
+# です。」<scroll><player>「わかりました。」
+
+
+
+{"str_num":1042,"prefix":"0x7","ptr_pos":234808,"str_pos":235770,"table":"normal","repoint":false}
+# セルキ―「「しんじつのかがみ」を<br>
+# もって来なこなければ，信用する事<br>
+# はできません。」
+
+
+
+{"str_num":1043,"prefix":"0x7","ptr_pos":234816,"str_pos":235820,"table":"normal","repoint":false}
+# セルキ―「「しんじつのかがみ」は見<br>
+# つかりましたか。」<scroll><player>「はい，やくそく通り<br>
+# 見つけて来ました。」<scroll>セルキ―「このかがみにはあなたたち<br>
+# のこうどうをとおして，しんじつの<br>
+# すがたをうつしだす事ができます。<scroll> これを見ればあなたたちが信用でき<br>
+# るかどうかがわかるでしょう。<br>
+# ・・・・・・・・・・・・・・・。<scroll> かがみにうつされたすがたは，まさ<br>
+# にいつわりのないすがたです。<br>
+# わたしのおもいちがいでした。<br>
+# あやまります。」<scroll><player>「わかっていただけた<br>
+# ようですね。」<scroll>セルキ―「それでわたしに聞きたい事<br>
+# とは？」<scroll><player>「はい。世界をみだそう<br>
+# としている者がこの世界から人間界<br>
+# に来たらしいのです。何かごぞんじ<br>
+# じゃ，ありませんか？」<scroll>セルキ―「わたしの知るかぎりでは，<br>
+# この世界にはその様な者はいないと<br>
+# おもいます。湖の中にある町に行け<br>
+# ば何かわかるかもしれませんが。」
+
+
+
+{"str_num":1044,"prefix":"0x7","ptr_pos":234836,"str_pos":236248,"table":"normal","repoint":false}
+# <player>「女王様。湖に近づくと<br>
+# いどうしてしまい，中に入る事が<br>
+# できません。」<scroll>セルキ―「湖のいどうをとめるには，<br>
+# 「かぜのたてごと」が必要です。<br>
+# それはかぜの塔にかくされています<br>
+# 。<br>
+# では，島におりる事ができる様に<br>
+# してあげましょう。」
+
+
+
+{"str_num":1045,"prefix":"0x7","ptr_pos":234848,"str_pos":236388,"table":"normal","repoint":false}
+# セルキ―「何ですって！！<br>
+# <player>が敵の体ないにとりこ<br>
+# まれてしまった？」<scroll><npc1>「そうなんです，何か<br>
+# 元にもどす方法はありませんか？」<scroll>セルキ―「そうですね。ひとつだけ<br>
+# 方法がないわけではありません。<br>
+# でもそのためには<player>が<br>
+# あいてと精神力で戦い，勝たなけ<br>
+# ればなりません。」<scroll><npc9>「だいじょうぶ，きっと<br>
+# <player>は勝ちます。教えて<br>
+# ください。」<scroll>セルキ―「わかりました。まず，ブリ<br>
+# ―イッドの所に行き「れいきゅう」<br>
+# をもらってください。そして，ホ―<br>
+# リ―レイクで<player>の心をよ<br>
+# びもどし，「れいきゅう」にそそぎ<br>
+# こんでもらいます。<br>
+# そして，そのたまを敵になげつける<br>
+# のです。あとは，<player>の力<br>
+# しだいですね。」<scroll><npc1>「女王様，ありがとうご<br>
+# ざいます。」
+
+
+
+{"str_num":1046,"prefix":"0x7","ptr_pos":234860,"str_pos":236748,"table":"normal","repoint":false}
+# セルキ―「わたしは，あなたたちに<br>
+# 何かひかれるものを感じます。<br>
+# がんばってください。」
+
+
+
+{"str_num":1047,"prefix":"0x7","ptr_pos":234868,"str_pos":236854,"table":"normal","repoint":false}
+# お城の宝ばこ，勝手にあけたら困ま<br>
+# るわ。
+
+
+
+{"str_num":1048,"prefix":"0x7","ptr_pos":234876,"str_pos":236882,"table":"normal","repoint":false}
+# ゲ―ムの攻りゃく本は，おいていな<br>
+# いのよ，ごめんなさいね。
+
+
+
+{"str_num":1049,"prefix":"0x7","ptr_pos":234884,"str_pos":236916,"table":"normal","repoint":false}
+# 人間が，どうしてエルフのうでわを<br>
+# もっているの？
+
+
+
+{"str_num":1050,"prefix":"0x7","ptr_pos":234892,"str_pos":236946,"table":"normal","repoint":false}
+# キャ―人間！！ちかよらないで―
+
+
+
+{"str_num":1051,"prefix":"0x7","ptr_pos":234900,"str_pos":236966,"table":"normal","repoint":false}
+# くれぐれも，女王様のいかりにふれ<br>
+# ないようにね。
+
+
+
+{"str_num":1052,"prefix":"0x7","ptr_pos":234908,"str_pos":236996,"table":"normal","repoint":false}
+# 何をしているのですか？<br>
+# 女王様の元へすすみなさい。
+
+
+
+{"str_num":1054,"prefix":"0x7","ptr_pos":237330,"str_pos":237344,"table":"normal","repoint":false}
+# <npc1>は，<br>
+# サンレイの呪文を覚えた。
+
+
+
+{"str_num":1059,"prefix":"0x7","ptr_pos":238262,"str_pos":238540,"table":"normal","repoint":false}
+# 怪物「ウガ―，ウガ―！！」<scroll>スレイ「こいつだな。<br>
+# <player>，行くぞ！！」<scroll><player>「まかせてください！」
+
+
+
+{"str_num":1060,"prefix":"0x7","ptr_pos":238326,"str_pos":238414,"table":"normal","repoint":false}
+# スレイ「<player>，君たちも来た<br>
+# のか。」<scroll><player>「スレイさん，あまり<br>
+# むちゃをするものではないですよ。<br>
+# 結婚をひかえた体なのに。おれたち<br>
+# もいっしょに行きます。」<scroll>スレイ「すまない，<player>。<br>
+# 力をかしてくれ。」
+
+
+
+{"str_num":1061,"prefix":"0x7","ptr_pos":238342,"str_pos":238526,"table":"normal","repoint":false}
+# スレイがなかまになった。
+
+
+
+{"str_num":1065,"prefix":"0x7","ptr_pos":238944,"str_pos":238958,"table":"normal","repoint":false}
+# <npc9>は，<br>
+# ファイアボムの呪文を覚えた。
+
+
+
+{"str_num":1068,"prefix":"0x7","ptr_pos":239130,"str_pos":239142,"table":"normal","repoint":false}
+# 海賊船をおってきたら，こんな所に<br>
+# たどりついたんだ。きっとここが<br>
+# やつらのかくれがにちがいない。
+
+
+
+{"str_num":1070,"prefix":"0x7","ptr_pos":239348,"str_pos":239414,"table":"normal","repoint":false}
+# 船長「なんだ，おまえたち！！こんな<br>
+# ところまでかぎつけてくるとは。<br>
+# この，サイナック様が何をしたって<br>
+# いうんだ。おれはただ町や村であば<br>
+# れているだけじゃないか。」<scroll><player>「それがいけないんじゃ<br>
+# ないか！！」<scroll>サイナック「やっぱり，おれの名をか<br>
+# たっていやがった。おれも海賊だか<br>
+# ら強いことはいえないが，ポリシ―<br>
+# もってやってるつもりだ。おれは悪<br>
+# いやつらの船しかおそわないぜ。」<scroll>船長「お前らのあいてをしているひま<br>
+# はない。ましてや，おれがお前らに<br>
+# つかまるわけがないだろう。」
+
+
+
+{"str_num":1073,"prefix":"0x7","ptr_pos":239910,"str_pos":239924,"table":"normal","repoint":false}
+# <player>は，<br>
+# ホ―ルドの呪文を覚えた。
+
+
+
+{"str_num":1076,"prefix":"0x7","ptr_pos":240084,"str_pos":240098,"table":"normal","repoint":false}
+# <npc9>は，<br>
+# ライトニングの呪文を覚えた。
+
+
+
+{"str_num":1079,"prefix":"0x7","ptr_pos":240338,"str_pos":240468,"table":"normal","repoint":false}
+# ホルモン「こんにちわ。ひさしぶりの<br>
+# おきゃくさんだなぁ。」<scroll><player>「きみはここにすんで<br>
+# いるのかい？」<scroll>ホルモン「そうだよ，ここがぼくの<br>
+# 家さ。でもね，最近，入り口が<br>
+# 毒のぬまになっちゃって，だれも<br>
+# あそびに来てくれないんだ。」<scroll><player>「たしかに，外はひどい<br>
+# 状態だったな。」
+
+
+
+{"str_num":1080,"prefix":"0x7","ptr_pos":240352,"str_pos":240620,"table":"normal","repoint":false}
+# ホルモン「なんだ，がっかりだな。<br>
+# きみたちも，やっぱりそうなんだ。<br>
+# ひとの家の物をかってに開けたり，<br>
+# もっていっちゃったり。<br>
+# 人間って，信用できないよな。」
+
+
+
+{"str_num":1081,"prefix":"0x7","ptr_pos":240360,"str_pos":240710,"table":"normal","repoint":false}
+# ホルモン「せっかく家に来てくれた<br>
+# おれいに，きみたちにプレゼントを<br>
+# あげるよ。」<scroll><player>「プレゼントだって？」<scroll>ホルモン「うん，そこに３つの宝ばこ<br>
+# があるだろう。ひとつだけプレゼン<br>
+# トするよ。どれがいい？」
+
+
+
+{"str_num":1082,"prefix":"0x7","ptr_pos":240380,"str_pos":240820,"table":"normal","repoint":false}
+# ホルモン「ひとつだけだよ。」
+
+
+
+{"str_num":1083,"prefix":"0x7","ptr_pos":240388,"str_pos":240836,"table":"normal","repoint":false}
+# ホルモン「なかなかの宝物だろう。<br>
+# たいせつに使ってね。<br>
+# それとね，ちょっとおねがいが<br>
+# あるんだけど・・・・・。<br>
+# あのね，ぼくがたいせつにしていた<br>
+# スコップがなくなっちゃったんだ。<br>
+# もし，見つけたらとどけてくれない<br>
+# かなぁ。」
+
+
+
+{"str_num":1084,"prefix":"0x7","ptr_pos":240412,"str_pos":240958,"table":"normal","repoint":false}
+# ホルモン「あっ！ぼくのスコップだ。<br>
+# ありがとう，見つけてきてくれたん<br>
+# だね。きみたちって，いい人だね。
+
+
+
+{"str_num":1085,"prefix":"0x7","ptr_pos":240432,"str_pos":241042,"table":"normal","repoint":false}
+# お礼に魔法をおしえてあげるね。」
+
+
+
+{"str_num":1086,"prefix":"0x7","ptr_pos":240438,"str_pos":241096,"table":"normal","repoint":false}
+# <npc1>は，<br>
+# レザレクションの呪文を覚えた。
+
+
+
+{"str_num":1087,"prefix":"0x7","ptr_pos":240450,"str_pos":241014,"table":"normal","repoint":false}
+# また，いつでもあそびに来てね。<br>
+# まってるよ。」
+
+
+
+{"str_num":1088,"prefix":"0x7","ptr_pos":240462,"str_pos":241064,"table":"normal","repoint":false}
+# ホルモン「また，いつでもあそびに<br>
+# 来てね。まってるよ。」
+
+
+
+{"str_num":1090,"prefix":"0x7","ptr_pos":241374,"str_pos":241388,"table":"normal","repoint":false}
+# <npc9>は，<br>
+# ストップジエア―の呪文を覚えた。
+
+
+
+{"str_num":1094,"prefix":"0x7","ptr_pos":241516,"str_pos":241530,"table":"normal","repoint":false}
+# <player>は，<br>
+# アイスボディの呪文を覚えた。
+
+
+
+{"str_num":1097,"prefix":"0x7","ptr_pos":242028,"str_pos":242042,"table":"normal","repoint":false}
+# <npc9>は，<br>
+# ファイアスト―ムの呪文を覚えた。
+
+
+
+{"str_num":1100,"prefix":"0x7","ptr_pos":242288,"str_pos":242416,"table":"normal","repoint":false}
+# 何といってもどって来てもらおうか<br>
+# おれがあやまるのもしゃくだしな。<br>
+# かといって・・・。ぶつ・・ぶつ，<br>
+# ぶつ・・・。
+
+
+
+{"str_num":1101,"prefix":"0x7","ptr_pos":242316,"str_pos":242480,"table":"normal","repoint":false}
+# マグラド―ラ「わたしに何か？」<scroll><player>「あなたが火山妖怪さん<br>
+# ですか？」<scroll>マグラド―ラ「わたしはマグラド―ラ<br>
+# 人は火山妖怪とよぶが。」<scroll><player>「あなたのもっている<br>
+# 「あまゆきのつえ」をかしていただ<br>
+# きたいのですが。それがあればよう<br>
+# がんをかためる事ができるはずなん<br>
+# です。」<scroll>マグラド―ラ「かしてやってもいいが<br>
+# おれのたのみを聞いてもらうぞ。」<scroll><player>「どの様な事ですか？」<scroll>マグラド―ラ「あまり大きなこえでは<br>
+# いえんが，つまが出て行ってしまっ<br>
+# たのだ。つれもどしてくれんか。」<scroll><player>「わかりました。で，<br>
+# おくさんはどこに？」<scroll>マグラド―ラ「この家から南方の山間<br>
+# にある森にいる。たのんだぞ。」
+
+
+
+{"str_num":1102,"prefix":"0x7","ptr_pos":242328,"str_pos":242808,"table":"normal","repoint":false}
+# マグラド―ラ「まだ，せっとくできな<br>
+# いか・・・。」
+
+
+
+{"str_num":1103,"prefix":"0x7","ptr_pos":242336,"str_pos":242836,"table":"normal","repoint":false}
+# マグラド―ラ「いやぁ，悪かったな。<br>
+# 「あまゆきのつえ」は，かすやくそ<br>
+# くだったがきみにやろう。」
+
+
+
+{"str_num":1104,"prefix":"0x7","ptr_pos":242364,"str_pos":242888,"table":"normal","repoint":false}
+# マグラド―ラ「おや，これ以上持て<br>
+# ないようだな。<br>
+# あとで，取りに来るといい。」
+
+
+
+{"str_num":1105,"prefix":"0x7","ptr_pos":242378,"str_pos":242932,"table":"normal","repoint":false}
+# ブリザノ―ラ「やくそくだもの，帰っ<br>
+# て来てあげたわ。」
+
+
+
+{"str_num":1106,"prefix":"0x7","ptr_pos":242386,"str_pos":242964,"table":"normal","repoint":false}
+# ここは，マグド―ラ様のおやしきで<br>
+# す。
+
+
+
+{"str_num":1107,"prefix":"0x7","ptr_pos":242402,"str_pos":242988,"table":"normal","repoint":false}
+# 奥様は，森のご実家にいってらっし<br>
+# ゃいます。
+
+
+
+{"str_num":1108,"prefix":"0x7","ptr_pos":242410,"str_pos":243018,"table":"normal","repoint":false}
+# 奥様が，おもどりになって，おやし<br>
+# きに明るさが，もどりました。
+
+
+
+{"str_num":1109,"prefix":"0x7","ptr_pos":243158,"str_pos":243258,"table":"normal","repoint":false}
+# 何，あなたたちは。かってにひとの<br>
+# 家に入らないでちょうだい。
+
+
+
+{"str_num":1110,"prefix":"0x7","ptr_pos":243182,"str_pos":243294,"table":"normal","repoint":false}
+# ブリザノ―ラ「あなたたち，何なの<br>
+# ようがあるのなら，早くいってちょ<br>
+# うだい。」<scroll><player>「マグラド―ラさんが<br>
+# 帰って来てくれと。」<scroll>ブリザノ―ラ「何よ，自分で来ないで<br>
+# 人にたのむなんて・・・！！<br>
+# 帰ってもいいけど，じょうけんが<br>
+# あるわ。そこのどうくつにほかん<br>
+# してある，「こおりのゆびわ」を<br>
+# とってきてちょうだい。」
+
+
+
+{"str_num":1111,"prefix":"0x7","ptr_pos":243208,"str_pos":243468,"table":"normal","repoint":false}
+# ブリザノ―ラ「あら，ほんとうにとっ<br>
+# て来たのね。しょうがない，帰って<br>
+# あげるわ。」
+
+
+
+{"str_num":1112,"prefix":"0x7","ptr_pos":243220,"str_pos":243514,"table":"normal","repoint":false}
+# ブリザノ―ラ「ちゃんと帰るから，<br>
+# あんしんして。」
+
+
+
+{"str_num":1113,"prefix":"0x7","ptr_pos":243236,"str_pos":243542,"table":"normal","repoint":false}
+# ブリザノ―ラ様が，ひさしぶりにも<br>
+# どっておられます。
+
+
+
+{"str_num":1114,"prefix":"0x7","ptr_pos":243244,"str_pos":243572,"table":"normal","repoint":false}
+# ブリザノ―ラ様の，お生まれに，な<br>
+# った家です。
+
+
+
+{"str_num":1115,"prefix":"0x7","ptr_pos":243252,"str_pos":243600,"table":"normal","repoint":false}
+# ブリザノ―ラ様の，身のまわりのお<br>
+# 世話をしております。
+
+
+
+{"str_num":1117,"prefix":"0x7","ptr_pos":243986,"str_pos":244080,"table":"normal","repoint":false}
+# ブリ―イッド「このうずね。ちょっと<br>
+# まっててね，すぐに水のながれを<br>
+# とめるわ。」
+
+
+
+{"str_num":1118,"prefix":"0x7","ptr_pos":244002,"str_pos":244124,"table":"normal","repoint":false}
+# ブリ―イッド「水の精れいウェンディ<br>
+# よ，われに力をかしたまえ。<br>
+# ・・・・・・。え～い！！」
+
+
+
+{"str_num":1119,"prefix":"0x7","ptr_pos":244034,"str_pos":244174,"table":"normal","repoint":false}
+# ブリ―イッド「これでいいのね。それ<br>
+# じゃあ，わたしは失礼するわ。<br>
+# みなさん。がんばってね。」<scroll><player>「ほんとうにありがとう<br>
+# ございました。」
+
+
+
+{"str_num":1120,"prefix":"0x7","ptr_pos":244462,"str_pos":244670,"table":"normal","repoint":false}
+# えらばれし者，とびらの前にたたん<br>
+# さすれば道はひらかれん。
+
+
+
+{"str_num":1121,"prefix":"0x7","ptr_pos":244478,"str_pos":244736,"table":"normal","repoint":false}
+# 「ゆうき」のとびらとかいてある。
+
+
+
+{"str_num":1122,"prefix":"0x7","ptr_pos":244514,"str_pos":244754,"table":"normal","repoint":false}
+# 「ゆうじょう」のとびらとかいて<br>
+# ある。
+
+
+
+{"str_num":1123,"prefix":"0x7","ptr_pos":244550,"str_pos":244776,"table":"normal","repoint":false}
+# 「あい」のとびらとかいてある。
+
+
+
+{"str_num":1124,"prefix":"0x7","ptr_pos":244586,"str_pos":244794,"table":"normal","repoint":false}
+# 「信頼」のとびらとかいてある。
+
+
+
+{"str_num":1125,"prefix":"0x7","ptr_pos":244622,"str_pos":244814,"table":"normal","repoint":false}
+# 「運命」のとびらとかいてある。
+
+
+
+{"str_num":1126,"prefix":"0x7","ptr_pos":244650,"str_pos":244724,"table":"normal","repoint":false}
+# とびらは開かれた。
+
+
+
+{"str_num":1127,"prefix":"0x7","ptr_pos":244658,"str_pos":244706,"table":"normal","repoint":false}
+# とびらはかたくとざされている。
+
+
+
+{"str_num":1129,"prefix":"0x7","ptr_pos":245556,"str_pos":245940,"table":"normal","repoint":false}
+# サタナチア「ほう。ここまできたか。<br>
+# 人間界におくりこんだ，ガルザラ―<br>
+# ドがたおされたというほうこくが<br>
+# きていたので，おまえたちのうごき<br>
+# をさぐらせていたのだ。<br>
+# まあ，それなりの実力はありそうだ<br>
+# な。」<scroll><player>「ガルザラ―ドをおくり<br>
+# こんだ？！おまえは何者だ！！」<br>
+# サタナチア「おれは魔王サタナチア，<br>
+# 世界をせいふくするためにやって<br>
+# 来た。」<scroll><player>「おまえがモンスタ―<br>
+# たちをつかい，世界にこんらんを<br>
+# おこしているのだな。」<scroll>サタナチア「だとしたら，どうだとい<br>
+# うのだ。」<scroll><player>「おまえをたおす！！」<scroll>サタナチア「おまえたちの力では，<br>
+# わたしをたおす事はとうていむりだ<br>
+# とおもうがな。やれるだけやってみ<br>
+# るがいい。」
+
+
+
+{"str_num":1130,"prefix":"0x7","ptr_pos":245588,"str_pos":246274,"table":"normal","repoint":false}
+# <player>「わぁ～！！<br>
+# なっ，何をする！！やめろ～。」
+
+
+
+{"str_num":1131,"prefix":"0x7","ptr_pos":245604,"str_pos":246302,"table":"normal","repoint":false}
+# サタナチア「おとなしくかんねんして<br>
+# わたしの体のいちぶとなれ。」
+
+
+
+{"str_num":1132,"prefix":"0x7","ptr_pos":245624,"str_pos":246336,"table":"normal","repoint":false}
+# <npc1>「<player>～！！」<scroll><npc9>「このままじゃ，みんな<br>
+# やられてしまう。とりあえず逃げる<br>
+# んだ。」
+
+
+
+{"str_num":1133,"prefix":"0x7","ptr_pos":245742,"str_pos":246386,"table":"normal","repoint":false}
+# <npc1>は，れいきゅうを<br>
+# なげつけた。
+
+
+
+{"str_num":1134,"prefix":"0x7","ptr_pos":245762,"str_pos":246406,"table":"normal","repoint":false}
+# サタナチア「おまえたち，何をした！<br>
+# うっ，うっ～。せっかくとりこんだ<br>
+# <player>が，ぶんりする！！」
+
+
+
+{"str_num":1135,"prefix":"0x7","ptr_pos":245782,"str_pos":246458,"table":"normal","repoint":false}
+# <player>「みんな！ありがとう。<br>
+# たすかったよ。」<scroll><npc1>「<player>！！<br>
+# よかったわ。」<scroll><npc9>「だいじょうぶかい？<br>
+# <player>。」<scroll><player>「さあ，力をあわせて<br>
+# 魔王をたおそう。」
+
+
+
+{"str_num":1136,"prefix":"0x7","ptr_pos":245828,"str_pos":246544,"table":"normal","repoint":false}
+# サタナチア「う～む。これならだいじ<br>
+# ょうぶかもしれないな。」<scroll><player>「どういうことだ。何が<br>
+# だいじょうぶなんだ。」<scroll>サタナチア「それだけの実力があれば<br>
+# 魔界でもだいじょうぶだろう。」<scroll><player>「魔界だって？」<scroll>サタナチア「そうだ。わたしは魔界か<br>
+# らやって来た。人間界，ファンタジ<br>
+# ィ―界のこんらんは，魔界の帝王の<br>
+# 命によって実行されてきたのだ。」<scroll><npc1>「魔界の帝王？」<scroll>サタナチア「わたしは帝王のやり方に<br>
+# はついてけない。いつかは帝王をた<br>
+# おし，ほかの世界のせいふくなどを<br>
+# しない様にしたいのだ。それでとも<br>
+# に魔界でも戦える強い者をさがして<br>
+# いた。けっきょく，おまえたちをた<br>
+# めす事になったが。」<scroll><player>「そんな事をいったって<br>
+# すぐに信用できるわけないじゃない<br>
+# か。」<scroll>サタナチア「それはとうぜんの事かも<br>
+# しれないな。ならばいっしょに魔界<br>
+# に来てくれ。そして帝王をたおすの<br>
+# に力をかしてくれ。」<scroll><player>「あなたのいう，帝王が<br>
+# 世界のこんらんの原因ならば，行か<br>
+# なければならないでしょうね。しか<br>
+# し，あなたを信用するわけではあり<br>
+# ませんよ。」<scroll><npc1>「それでいいの。<br>
+# <player>。」<scroll><player>「ああ，おれにはもう<br>
+# 行くしかないだろう。」<scroll>サタナチア「話はきまったようだな。<br>
+# それでは魔界へあんないする。」
+
+
+
+{"str_num":1137,"prefix":"0x7","ptr_pos":245894,"str_pos":245906,"table":"normal","repoint":false}
+# サタナチア「おまえらでは，あい手に<br>
+# ならん。出なおしてこい。」
+
+
+
+{"str_num":1138,"prefix":"0x7","ptr_pos":247328,"str_pos":247512,"table":"normal","repoint":false}
+# ネビュロス「おまえたち，なぜわたし<br>
+# をつけねらう。」<scroll>しさい長「ある方のめいれいでな。<br>
+# おまえを自由にしておくと，ために<br>
+# ならないとおっしゃってな。」<scroll>ネビュロス「わたしが何をしたという<br>
+# のだ。身に覚えがないぞ。」<scroll>しさい長「何をいうか。われわれの<br>
+# なかまを大ぜいたおした者のいう<br>
+# ことばか。」<scroll><player>「また，やつらか。<br>
+# こんどは何をたくらんでるんだ。」
+
+
+
+{"str_num":1139,"prefix":"0x7","ptr_pos":247342,"str_pos":247706,"table":"normal","repoint":false}
+# ネビュロス「きみたちは？」<scroll><player>「おれは<player>。<br>
+# 世界をせいふくしようとしている者<br>
+# をたおすため旅をしています。」<scroll>しさい長「ごちゃごちゃと，何をいっ<br>
+# ている。」<scroll>アルナス「とにかくこいつらは<br>
+# おれたちにまかせてください。」
+
+
+
+{"str_num":1140,"prefix":"0x7","ptr_pos":247430,"str_pos":247828,"table":"normal","repoint":false}
+# ネビュロス「アルナス，きみたち<br>
+# の戦いを見ていて失っていたきおく<br>
+# がもどってきたよ。そうなんだ，<br>
+# わたしは戦っていたんだ。このファ<br>
+# ンタジィ―界にせめこんで来たやつ<br>
+# らと。おかげでおもいだす事ができ<br>
+# た。そうか，きみたちも戦っている<br>
+# のか。」<scroll><player>「はい。これからは，<br>
+# もっともっとつらい戦いになると<br>
+# おもいます。」<scroll>ネビュロス「<player>，わたしで<br>
+# よければいつでも力になろう。<br>
+# その時はよんでくれ。」
+
+
+
+{"str_num":1141,"prefix":"0x7","ptr_pos":247498,"str_pos":248076,"table":"normal","repoint":false}
+# ネビュロス「わたしに何か用かい？」
+
+
+
+{"str_num":1142,"prefix":"0x7","ptr_pos":247506,"str_pos":248050,"table":"normal","repoint":false}
+# ネビュロス「<player>，ともに力<br>
+# のかぎり戦おう。」
+
+
+
+{"str_num":1143,"prefix":"0x7","ptr_pos":248178,"str_pos":248236,"table":"normal","repoint":false}
+# ブリ―イッド「わたしは水のエレメン<br>
+# タル使いのブリ―イッド。わたしに<br>
+# 何か？」<scroll><player>「あなたは水を自由に<br>
+# あやつる事ができると聞きました。<br>
+# それでおねがいがあるのです。湖の<br>
+# 中ではっせいしているうずを止めて<br>
+# ほしいのです。」<scroll>ブリ―イッド「そんなことなら，おや<br>
+# すいごようだわ。その場所へわたし<br>
+# をつれてってくれる。」
+
+
+
+{"str_num":1144,"prefix":"0x7","ptr_pos":248204,"str_pos":248450,"table":"normal","repoint":false}
+# ブリ―イッド「あら，<player>が<br>
+# いないわね。どうしたの？」<scroll><npc1>「<player>が，敵の<br>
+# 体ないにとりこまれて，たすけるた<br>
+# めには「れいきゅう」が必要です。<br>
+# おねがいです，「れいきゅう」を<br>
+# いただけませんか？」<scroll>ブリ―イッド「わかったわ。<br>
+# 「れいきゅう」をあげるわ。必ず<br>
+# <player>をたすけてあげて。」
+
+
+
+{"str_num":1145,"prefix":"0x7","ptr_pos":248222,"str_pos":248416,"table":"normal","repoint":false}
+# ブリ―イッド「また何かあったら<br>
+# わたしにいって，力になるわ。」
+
+
+
+{"str_num":1148,"prefix":"0x7","ptr_pos":249376,"str_pos":249382,"table":"normal","repoint":false}
+# 飛空妖船はその世界にみちている<br>
+# エネルギ―をとりいれうごく事が<br>
+# できる。
+
+
+
+{"str_num":1150,"prefix":"0x7","ptr_pos":249844,"str_pos":249858,"table":"normal","repoint":false}
+# <player>は，<br>
+# アクアドライの呪文を覚えた。
+
+
+
+{"str_num":1154,"prefix":"0x7","ptr_pos":250094,"str_pos":250100,"table":"normal","repoint":false}
+# ドラゴンぞくは飛空妖船を使い<br>
+# ファンタジ―界と精神界を<br>
+# 行き来する事ができた。
+
+
+
+{"str_num":1156,"prefix":"0x7","ptr_pos":250386,"str_pos":250400,"table":"normal","repoint":false}
+# <npc9>は，<br>
+# ハイシ―ルドの呪文を覚えた。
+
+
+
+{"str_num":1159,"prefix":"0x7","ptr_pos":251594,"str_pos":251608,"table":"normal","repoint":false}
+# <player>は，<br>
+# ヒ―トボディの呪文を覚えた。
+
+
+
+{"str_num":1162,"prefix":"0x7","ptr_pos":251890,"str_pos":251896,"table":"normal","repoint":false}
+# ドラゴンのめいれいにより，飛空妖<br>
+# 船はきょだい化する。
+
+
+
+{"str_num":1163,"prefix":"0x7","ptr_pos":252040,"str_pos":252046,"table":"normal","repoint":false}
+# ５つのねいろかなでしものよ，それ<br>
+# ぞれのおとをかなでよ。<br>
+# さすれば宝石ひかりみち，とざされ<br>
+# たとびらひらかれん。
+
+
+
+{"str_num":1164,"prefix":"0x7","ptr_pos":252266,"str_pos":252318,"table":"normal","repoint":false}
+# ザファン「飛空妖船をつかえば，元の<br>
+# 世界に帰る事ができるだろう。<br>
+# もうわたしがいっしょにいる必要は<br>
+# ないな。力強く生きるのだぞ。」<scroll><player>「わかりました父さん。<br>
+# 必ずへいわな世界をつくってみせま<br>
+# す。」
+
+
+
+{"str_num":1166,"prefix":"0x7","ptr_pos":253082,"str_pos":253184,"table":"normal","repoint":false}
+# サタナチア「<player>！！<br>
+# ここが魔界だ！！」<scroll><player>「ここが魔界か。今まで<br>
+# の世界とまるでちがうな。」
+
+
+
+{"str_num":1167,"prefix":"0x7","ptr_pos":253108,"str_pos":253242,"table":"normal","repoint":false}
+# フェアリ―「やめて！！だれか，<br>
+# たすけて！！」<scroll>デビル「しずかにしろ。さわぐと<br>
+# いたいめにあうぞ。」<scroll><player>「何をしている！！<br>
+# いやがっているじゃないか。」<scroll>デビル「なんだと！！オレのする事に<br>
+# くちだしするんじゃねぇ！！じゃま<br>
+# をするのなら，たたきつぶすぞ。」
+
+
+
+{"str_num":1168,"prefix":"0x7","ptr_pos":253140,"str_pos":253378,"table":"normal","repoint":false}
+# <player>「だいじょうぶですか。<br>
+# けがはないですか？」<scroll>フェアリ―「ありがとうございます。<br>
+# ほんとうにたすかりました。お礼と<br>
+# いってはなんですが，いい事を教え<br>
+# てあげましょう。この魔界の真ん中<br>
+# あたりに泉があります。これは命の<br>
+# 泉といって，この水をのむと元気に<br>
+# なりますよ。」
+
+
+
+{"str_num":1169,"prefix":"0x7","ptr_pos":253716,"str_pos":253722,"table":"normal","repoint":false}
+# 魔界もんは４つのカギにより，<br>
+# ふういんされている。
+
+
+
+{"str_num":1171,"prefix":"0x7","ptr_pos":253960,"str_pos":253966,"table":"normal","repoint":false}
+# 魔界に守大公あり。この者のきる<br>
+# よろい，がん強なため，よういに<br>
+# ダメ―ジをあたえる事はかなわん。<br>
+# しかし，「ていおうのけん」もつ者<br>
+# あればそのたいしょうではない。
+
+
+
+{"str_num":1174,"prefix":"0x7","ptr_pos":254502,"str_pos":254508,"table":"normal","repoint":false}
+# 魔界に心大公あり。この者の精神力<br>
+# はかりしれず，その精神攻撃さける<br>
+# 事はかなわん。しかし，「ていおう<br>
+# のかぶと」かぶりし者あればその<br>
+# たいしょうではない。
+
+
+
+{"str_num":1175,"prefix":"0x7","ptr_pos":254814,"str_pos":254820,"table":"normal","repoint":false}
+# ４人の大公は，そのあかしとして<br>
+# それぞれがカギをもっている。
+
+
+
+{"str_num":1179,"prefix":"0x7","ptr_pos":255732,"str_pos":255738,"table":"normal","repoint":false}
+# はしらには，かくされたスイッチ<br>
+# がある。
+
+
+
+{"str_num":1182,"prefix":"0x7","ptr_pos":256034,"str_pos":256040,"table":"normal","repoint":false}
+# 魔界に力大公あり。この者のもつ力<br>
+# 強力なるため，うけるダメ―ジは<br>
+# はかりしれん。しかし，「ていおう<br>
+# のよろい」きる者あれば，そのたい<br>
+# しょうではない。
+
+
+
+{"str_num":1185,"prefix":"0x7","ptr_pos":256636,"str_pos":256642,"table":"normal","repoint":false}
+# 魔界には６つのはしらがそんざい<br>
+# する。
+
+
+
+{"str_num":1186,"prefix":"0x7","ptr_pos":256728,"str_pos":256734,"table":"normal","repoint":false}
+# 魔界に魔大公あり。この者の魔力<br>
+# はかりしれず，その魔法攻撃をさけ<br>
+# る事はかなわん。しかし，「ていお<br>
+# うのたて」もつ者あればそのたいし<br>
+# ょうではない。
+
+
+
+{"str_num":1189,"prefix":"0x7","ptr_pos":257330,"str_pos":257400,"table":"normal","repoint":false}
+# 力大公「わたしの名は，力大公アスモ<br>
+# デウス。お前たちか，人間界からや<br>
+# ってきた者たちというのは。まちく<br>
+# だびれたぞ。ひさしぶりにあばれさ<br>
+# せてもらうとするか。わたしの手に<br>
+# かかって死ねるのだ，ありがたいと<br>
+# おもえ。」
+
+
+
+{"str_num":1190,"prefix":"0x7","ptr_pos":257362,"str_pos":257556,"table":"normal","repoint":false}
+# ちからのカギを，てにいれた。
+# あJるせ」ーぁ!かさCわ/?
+# if the second line is right, change 'table' to 'menu'
+
+
+
+{"str_num":1191,"prefix":"0x7","ptr_pos":257394,"str_pos":257528,"table":"normal","repoint":false}
+# 「まほうきゅう」は，魔界もんの<br>
+# 中にあり。
+
+
+
+{"str_num":1194,"prefix":"0x7","ptr_pos":258384,"str_pos":258534,"table":"normal","repoint":false}
+# 守大公「わたしの名は，守大公アガリ<br>
+# アレプト。人間界から魔界にのりこ<br>
+# んできた，ばか者たちとはお前たち<br>
+# のことか。その様ななまはんかな力<br>
+# で，わたしと戦おうというのか？<br>
+# おまえたちの武器ではわたしに，<br>
+# かすりきずひとつつけることができ<br>
+# ないだろう。」
+
+
+
+{"str_num":1195,"prefix":"0x7","ptr_pos":258416,"str_pos":258718,"table":"normal","repoint":false}
+# まもりのカギを，てにいれた。
+# ほめれせ」ーぁ!かさCわ/?
+# if the second line is right, change 'table' to 'menu'
+
+
+
+{"str_num":1196,"prefix":"0x7","ptr_pos":258528,"str_pos":258686,"table":"normal","repoint":false}
+# ６つのボタンがおされるとき，<br>
+# 魔界もんがあらわれる。
+
+
+
+{"str_num":1198,"prefix":"0x7","ptr_pos":259618,"str_pos":259870,"table":"normal","repoint":false}
+# 心大公「わたしは心大公アスタロス。<br>
+# 帝王をたおすなどとばかな考えをも<br>
+# つ，あわれな者たちよ。わたしの<br>
+# この精神攻撃，おまえたちにたえら<br>
+# れるかな。精神がはかいされみじめ<br>
+# なすがたのまま，あの世へおくって<br>
+# やるわ。では，いくぞ！！くらえ，<br>
+# ハイパ―マインドバスタ―！！」
+
+
+
+{"str_num":1199,"prefix":"0x7","ptr_pos":259650,"str_pos":260028,"table":"normal","repoint":false}
+# <npc1>「きゃあ～！！あたまが<br>
+# あたまがわれるようにいたい。<br>
+# うっ，うっ・・・・。うっ～！！」<scroll><player>「<npc1>！！<br>
+# だいじょうぶ・・か・・。<br>
+# <npc1>，きみはいったい！」<scroll>
+
+
+
+{"str_num":1200,"prefix":"0x7","ptr_pos":259674,"str_pos":260116,"table":"normal","repoint":false}
+# <npc9>「<npc1>が天使の<br>
+# すがたにかわっていく。」
+
+
+
+{"str_num":1201,"prefix":"0x7","ptr_pos":259694,"str_pos":260142,"table":"normal","repoint":false}
+# 心大公「ええい。みんなたたきつぶし<br>
+# てくれる！！」
+
+
+
+{"str_num":1202,"prefix":"0x7","ptr_pos":259726,"str_pos":260436,"table":"normal","repoint":false}
+# こころのカギを，てにいれた。
+# RRをせ」ーぁ!かさCわ/?
+# if the second line is right, change 'table' to 'menu'
+
+
+
+{"str_num":1203,"prefix":"0x7","ptr_pos":259746,"str_pos":260172,"table":"normal","repoint":false}
+# <player>「<npc1>，きみも<br>
+# 天使だったのか。」<scroll><npc1>「ええ。わたしも今の<br>
+# 戦いで失っていたきおくがもどって<br>
+# きたわ。<br>
+# わたしは天界に生まれし者。<br>
+# だけど人間として人間界につかわさ<br>
+# れたのよ。」<scroll><player>「そうか，そうだった<br>
+# のか。」<scroll><npc9>「<npc1>まで天使<br>
+# だったなんて，びっくりしたな。」<scroll><player>「よし，<npc1>。<br>
+# 帝王をたおしにいこう！！」
+
+
+
+{"str_num":1204,"prefix":"0x7","ptr_pos":259864,"str_pos":260358,"table":"normal","repoint":false}
+# 魔界に主大公あり。この者帝王と<br>
+# どうとうの力をもつ。しかし，<br>
+# 「まほうきゅう」持つものあれば<br>
+# その力まぬがれる事もかのうなり。
+
+
+
+{"str_num":1208,"prefix":"0x7","ptr_pos":260900,"str_pos":260914,"table":"normal","repoint":false}
+# <player>は，<br>
+# サンダ―ボディの呪文を覚えた。
+
+
+
+{"str_num":1210,"prefix":"0x7","ptr_pos":261128,"str_pos":261232,"table":"normal","repoint":false}
+# 魔大公「魔界にこの魔神ありと名を<br>
+# とどろかせている，魔大公レビィア<br>
+# タンとはわたしのことだ。お前たち<br>
+# もわたしに戦いをいどむとは，おろ<br>
+# かでかわいそうなやつらよ。さあ，<br>
+# わたしのこの強力な魔力をぞんぶん<br>
+# にあじわうがいい！！」
+
+
+
+{"str_num":1211,"prefix":"0x7","ptr_pos":261160,"str_pos":261416,"table":"normal","repoint":false}
+# まのカギを，てにいれた。
+# ほせ」ーぁ!かさCわ/?
+# if the second line is right, change 'table' to 'menu'
+
+
+
+{"str_num":1213,"prefix":"0x7","ptr_pos":261226,"str_pos":261368,"table":"normal","repoint":false}
+# 「守」「力」「魔」「心」，４つの<br>
+# カギがそろう時，魔界もんがひらか<br>
+# れる。
+
+
+
+{"str_num":1215,"prefix":"0x7","ptr_pos":262552,"str_pos":262626,"table":"normal","repoint":false}
+# 主大公「わたしの名は主大公ベ―ルゼ<br>
+# ブブ。とうとうここまできたか。<br>
+# 帝王につぐ力をもつこのわたしに，<br>
+# 勝てるとでもおもっているのか？<br>
+# まあよい，死にたいのならかかって<br>
+# くるがいい。」
+
+
+
+{"str_num":1216,"prefix":"0x7","ptr_pos":262582,"str_pos":262734,"table":"normal","repoint":false}
+# <player>「あとのこすは帝王，<br>
+# ただ一人だ。」<scroll><npc1>「やっとここまで来た<br>
+# のね。」<scroll><npc9>「２人ともさいごまで<br>
+# 気をぬいちゃだめだよ。<br>
+# これからがほんとうの，戦い<br>
+# なんだから。」<scroll><player>「ああ・・・<br>
+# わかってるさ。」
+
+
+
+{"str_num":1217,"prefix":"0x7","ptr_pos":262614,"str_pos":262852,"table":"normal","repoint":false}
+# 「たいこうのマント」もつ者だけが<br>
+# 帝王の城の出入りがゆるされる。
+
+
+
+{"str_num":1218,"prefix":"0x7","ptr_pos":263220,"str_pos":263400,"table":"normal","repoint":false}
+# サタナチア「<player>，わたしは<br>
+# ここからは，わかれて行どうする<br>
+# 事にする。じゃあ，気をつけて。」
+
+
+
+{"str_num":1219,"prefix":"0x7","ptr_pos":263236,"str_pos":263452,"table":"normal","repoint":false}
+# <player>「サタナチア，ちょっと<br>
+# まって。ああ，行ってしまった。」
+
+
+
+{"str_num":1224,"prefix":"0x7","ptr_pos":264438,"str_pos":264886,"table":"normal","repoint":false}
+# ルキフェル「とうとう，わたしの所<br>
+# までやってきたか。わたしが魔界の<br>
+# 帝王ルキフェルだ。しかし，魔界の<br>
+# ５人の大公をたおすとは，なかなか<br>
+# 力をつけたものだな。それでこそ<br>
+# わたしが戦ういみがある。心して<br>
+# かかるがよい。」<scroll><player>「ルキフェル！！<br>
+# ファンタジィ―界，人間界をお前の<br>
+# すきにはさせない。あばれまわる<br>
+# モンスタ―たちのせいで，どれだけ<br>
+# のぎせい者が出たことか。おれは<br>
+# お前をたおしてみせる！！」<scroll>ルキフェル「ではその実力，見せても<br>
+# らう事にしよう。おまえのなかま<br>
+# たちを使ってな。」
+
+
+
+{"str_num":1225,"prefix":"0x7","ptr_pos":264454,"str_pos":265166,"table":"normal","repoint":false}
+# ルキフェル「ねむりし魔性の心よ。<br>
+# おろかなる情をけしさり，いにしえ<br>
+# のきおくをよびさまさん。<br>
+# 今こそ，その力ときはなち，われの<br>
+# いしのまま敵をせんめつせん。」
+
+
+
+{"str_num":1226,"prefix":"0x7","ptr_pos":264464,"str_pos":265256,"table":"normal","repoint":false}
+# <player>「う，うっ，ううっ。<br>
+# く，くるしい・・・。<br>
+# 何がおこったというんだ！！<br>
+# う，うわぁ～！！」<scroll><npc1>「<player>！！<br>
+# しっかりして！！」<scroll><npc9>「<player>が悪魔の<br>
+# すがたに変わっていく！！」
+
+
+
+{"str_num":1227,"prefix":"0x7","ptr_pos":264486,"str_pos":265356,"table":"normal","repoint":false}
+# <npc1>「いったい，どうなって<br>
+# しまったの。<br>
+# <player>！！<br>
+# 私よ，わからないの？<br>
+# きゃあ～，やめて～！！」
+
+
+
+{"str_num":1228,"prefix":"0x7","ptr_pos":264534,"str_pos":265414,"table":"normal","repoint":false}
+# <npc9>「わ～っつ！！」<br>
+# <player>～。」
+
+
+
+{"str_num":1229,"prefix":"0x7","ptr_pos":264552,"str_pos":265434,"table":"normal","repoint":false}
+# <npc1>「おねがい目をさまして<br>
+# <player>！！<br>
+# あなたはあたたかい心をもった，<br>
+# とてもやさしい人のはずよ。こんな<br>
+# ことをしてはいけないわ。」
+
+
+
+{"str_num":1230,"prefix":"0x7","ptr_pos":264558,"str_pos":265508,"table":"normal","repoint":false}
+# リリスのひとみに，大つぶのなみだが<br>
+# ひかりかがやいた。
+
+
+
+{"str_num":1231,"prefix":"0x7","ptr_pos":264564,"str_pos":265538,"table":"normal","repoint":false}
+# <player>「ん，ん？おれは<br>
+# いったい何をしていたんだ？」
+
+
+
+{"str_num":1232,"prefix":"0x7","ptr_pos":264578,"str_pos":265566,"table":"normal","repoint":false}
+# <player>「<npc1>！！<br>
+# どうしたんだ？だいじょうぶか。」<scroll><npc1>「<player>・・・。<br>
+# 正気にもどったのね。よかった・」
+
+
+
+{"str_num":1233,"prefix":"0x7","ptr_pos":264588,"str_pos":265622,"table":"normal","repoint":false}
+# <player>「ルキフェル！！<br>
+# いったい，おれに何をした！！」<scroll>ルキフェル「私はただ，おまえを<br>
+# ほんとうのすがたにしてやっただけ<br>
+# だ。おまえは自らの手で，なかまた<br>
+# ちをたおしていったのだよ。」<scroll><player>「何だって。<br>
+# おれは何という事を・・・・・・」<scroll><npc1>「私はもうだめだわ。<br>
+# 私のこの，のこった力，すべて<br>
+# あなたにあげるわ。必ず帝王をたお<br>
+# してね。」
+
+
+
+{"str_num":1234,"prefix":"0x7","ptr_pos":264622,"str_pos":265846,"table":"normal","repoint":false}
+# <player>「<npc1>～！！」
+
+
+
+{"str_num":1235,"prefix":"0x7","ptr_pos":264640,"str_pos":265858,"table":"normal","repoint":false}
+# <player>「ルキフェル！！<br>
+# おれは命にかえても，必ずおまえを<br>
+# たおす！！ かくごしろ。」
+
+
+
+{"str_num":1236,"prefix":"0x7","ptr_pos":264660,"str_pos":265904,"table":"normal","repoint":false}
+# サタナチア「<player>！！<br>
+# かせいに来たぜ。」
+
+
+
+{"str_num":1237,"prefix":"0x7","ptr_pos":264712,"str_pos":265928,"table":"normal","repoint":false}
+# ルキフェル「強くなったな，<br>
+# <player>。<br>
+# いや，わが子サルガタナスよ。」<scroll><player>「わが子？<br>
+# いったい，どういう事なんだ。」<scroll>ルキフェル「おまえはわたしの<br>
+# 息子だ。世界をとういつする者と<br>
+# して，人間界におくりこんだのだ。<br>
+# しかし，神の力がかいにゅうし，<br>
+# おまえは悪魔の心をわすれてしまっ<br>
+# た。天使のすがたにされてしまって<br>
+# いた。」<scroll><player>「なぜその様な事を。」<scroll>ルキフェル「わたしはつねに感じて<br>
+# いた，神たちのおうぼうさに。<br>
+# われらの世界はすべて，神のおもう<br>
+# がままにうごかされている。そこに<br>
+# 生きる者たちは，まるでゲ―ムの<br>
+# コマのように生かされたり，ころさ<br>
+# れたりしている。」<scroll><player>「神がその様な事を？」<scroll>ルキフェル「わたしはその様な事を<br>
+# やめさせるために，力をたくわえ，<br>
+# 神に戦いをいどむつもりであった。<br>
+# そのために人間界やほかの世界を<br>
+# とういつする必要があった。」<scroll>サタナチア「父上，力によるとういつ<br>
+# は何のいみもなさないのです。<br>
+# わたしはあなたに，それをわかって<br>
+# ほしかった。」<scroll>ルキフェル「サタナチア，おまえが<br>
+# ただしかったのかもしれぬな。<br>
+# <player>よ，おまえの兄<br>
+# サタナチアと力を合わせ神と戦って<br>
+# ほしい。そして自由な世界をとりも<br>
+# どしてくれ。自分のいしで生きてい<br>
+# ける世界をな・・・・・。<br>
+# ２人とも，たのん・だ・ぞ・・・」
+
+
+
+{"str_num":1238,"prefix":"0x7","ptr_pos":264736,"str_pos":266572,"table":"normal","repoint":false}
+# <player>「おれはいったい何を<br>
+# していたんだ。まさかこれも神の<br>
+# おもうままにあやつられていたの<br>
+# だろうか。だとしたら，いままでに<br>
+# 死んでいった者たちはどうなる。<br>
+# <npc1>や，<npc9>。<br>
+# 父ザファンのぎせいは・・・。」
+
+
+
+{"str_num":1239,"prefix":"0x7","ptr_pos":264752,"str_pos":266684,"table":"normal","repoint":false}
+# サタナチア「お前がどういう考えか<br>
+# わからんが，わたしは父上のいしを<br>
+# ついで神と戦おうとおもっている」
+
+
+
+{"str_num":1240,"prefix":"0x7","ptr_pos":264762,"str_pos":266742,"table":"normal","repoint":false}
+# <player>「そうだ，そうなんだ。<br>
+# 神だ，神をたおすのだ。おれには<br>
+# もう，その道しかないのだな・・<br>
+# ・・・・・・・・・・・・・・・<br>
+# ・・・・・・・・・・・・・・・」
+
+
+
+{"str_num":1242,"prefix":"0x7","ptr_pos":267280,"str_pos":267482,"table":"normal","repoint":false}
+# ある日，ザファン・ウォンロ―は<br>
+# 家の近くをあるいていた。
+
+
+
+{"str_num":1243,"prefix":"0x7","ptr_pos":267294,"str_pos":267514,"table":"normal","repoint":false}
+# その時，山間からモンスタ―が飛んで<br>
+# くるのを見つけた。
+
+
+
+{"str_num":1244,"prefix":"0x7","ptr_pos":267356,"str_pos":267548,"table":"normal","repoint":false}
+# そのしゅんかん，何かがかがやき<br>
+# モンスタ―の体をつらぬいていた。
+
+
+
+{"str_num":1245,"prefix":"0x7","ptr_pos":267370,"str_pos":267582,"table":"normal","repoint":false}
+# くろこげになったモンスタ―に<br>
+# ザファンは，近づいた。
+
+
+
+{"str_num":1246,"prefix":"0x7","ptr_pos":267380,"str_pos":267610,"table":"normal","repoint":false}
+# ザファンは，モンスタ―がかかえてい<br>
+# たあかんぼうに気がついた。
+
+
+
+{"str_num":1247,"prefix":"0x7","ptr_pos":267402,"str_pos":267644,"table":"normal","repoint":false}
+# ザファンは，あかんぼうをひろい上げ<br>
+# 家につれて帰る事にきめた。
+
+
+
+{"str_num":1248,"prefix":"0x7","ptr_pos":267426,"str_pos":267680,"table":"normal","repoint":false}
+# そして，１６年のち。<br>
+# あのあかんぼうは，<player>と<br>
+# 名づけられ，たくましいせいねんに<br>
+# せいちょうしていた。
+
+
+
+{"str_num":1249,"prefix":"0x7","ptr_pos":267804,"str_pos":267976,"table":"normal","repoint":false}
+# <player>「母さん<br>
+# 父さんは，今日も王様のところに<br>
+# いったのかい。」<scroll>母「ええ，また最近モンスタ―がよく<br>
+# あらわれるようになったからね。」
+
+
+
+{"str_num":1250,"prefix":"0x7","ptr_pos":267830,"str_pos":268056,"table":"normal","repoint":false}
+# バタン       <br>
+# <player>「父さん，お帰り。」
+
+
+
+{"str_num":1251,"prefix":"0x7","ptr_pos":267868,"str_pos":268084,"table":"normal","repoint":false}
+# <player>「父さん，どうしたんだ<br>
+# 傷だらけじゃないか。」<scroll>母「あなた，どうしたの。」
+
+
+
+{"str_num":1252,"prefix":"0x7","ptr_pos":267882,"str_pos":268128,"table":"normal","repoint":false}
+# <player>「父さん！」
+
+
+
+{"str_num":1253,"prefix":"0x7","ptr_pos":267904,"str_pos":268138,"table":"normal","repoint":false}
+# <player>「父さん<br>
+# しっかりして！」
+
+
+
+{"str_num":1254,"prefix":"0x7","ptr_pos":267914,"str_pos":268156,"table":"normal","repoint":false}
+# ザファン「<player>，モンスタ―<br>
+# にやられてしまった。」
+
+
+

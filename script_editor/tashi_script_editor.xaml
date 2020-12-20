@@ -48,7 +48,7 @@
                 <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
             </Label.Foreground>
         </Label>
-        <TextBox x:Name="EN_textbox" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible" KeyDown="EN_textbox_KeyDown" FontSize="18" VerticalContentAlignment="Stretch" HorizontalContentAlignment="Stretch" Margin="10,61,30,19" Grid.Row="3" Grid.Column="1" TextChanged="EN_textbox_TextChanged" IsEnabled="False" >
+        <TextBox x:Name="EN_textbox" AcceptsReturn="True" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible" KeyDown="EN_textbox_KeyDown" FontSize="18" VerticalContentAlignment="Stretch" HorizontalContentAlignment="Stretch" Margin="10,61,30,19" Grid.Row="3" Grid.Column="1" TextChanged="EN_textbox_TextChanged" IsEnabled="False" >
             <TextBox.Foreground>
                 <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
             </TextBox.Foreground>
@@ -124,7 +124,7 @@
                 <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
             </Label.Foreground>
         </Label>
-        <TextBox x:Name="ja_textbox" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible" FontSize="18" RenderTransformOrigin="0.5,0.5" Margin="10,43,30,11" Grid.Row="2" Grid.Column="1" IsEnabled="False" >
+        <TextBox x:Name="ja_textbox" AcceptsReturn="True" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible" FontSize="18" RenderTransformOrigin="0.5,0.5" Margin="10,43,30,11" Grid.Row="2" Grid.Column="1" IsEnabled="False" >
             <TextBox.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform ScaleY="1"/>

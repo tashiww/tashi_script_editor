@@ -102,7 +102,7 @@ namespace script_editor
 							{
 								currentString.ja_text += "\n";
 							}
-							currentString.ja_text += line[1..].Replace("<br>", "<br>\n").TrimEnd();
+							currentString.ja_text += line[1..].Replace("<br>", "<br>\n").Trim();
 						}
 						else if (currentString != null)
                         {
@@ -173,6 +173,11 @@ namespace script_editor
 						EN_textbox.Text += "<npc1>";
 						EN_textbox.Select(EN_textbox.Text.Length, 0);
 						break;
+					case Key.D5:
+						EN_textbox.Text += "<scroll>";
+						EN_textbox.Select(EN_textbox.Text.Length, 0);
+						break;
+
 					case Key.Return:
 						stringSelector.SelectedItem = stringSelector.Items.GetItemAt(stringSelector.SelectedIndex+1);
 						break;
