@@ -17,6 +17,7 @@ using System.Windows.Forms;
 using Newtonsoft.Json;
 using KeyEventArgs = System.Windows.Input.KeyEventArgs;
 using TextBox = System.Windows.Controls.TextBox;
+using System.Windows.Controls.Primitives;
 /*
 * Regarding Json.net:
 * Copyright (c) 2007 James Newton-King
@@ -35,8 +36,29 @@ namespace script_editor
 		public MainWindow()
 		{
 			InitializeComponent();
-		}
+            StringSelector.ItemContainerGenerator.StatusChanged += ItemContainerGenerator_StatusChanged;
 
+		}
+		private void ItemContainerGenerator_StatusChanged(object sender, EventArgs e)
+		{
+			if (StringSelector.ItemContainerGenerator.Status == GeneratorStatus.ContainersGenerated)
+			{
+				//StringSelector.ItemContainerGenerator.StatusChanged	-= ItemContainerGenerator_StatusChanged;
+				Dispatcher.BeginInvoke(System.Windows.Threading.DispatcherPriority.Input,
+					new Action(DelayedAction));
+				
+
+			}
+
+		}
+		private void DelayedAction()
+        {
+			StringSelector.UpdateLayout();
+			//var i = StringSelector.ItemContainerGenerator.ContainerFromIndex(StringSelector.SelectedIndex) as ListBoxItem;
+			//i.IsSelected = true;
+			//i.Focus();
+			StringSelector.ScrollIntoView(StringSelector.SelectedIndex);
+		}
 		public class ScriptString
         {
 			public uint str_num;
@@ -122,11 +144,11 @@ namespace script_editor
 				stringIDList.Add(currentString.str_num);
 				stringList[currentString.str_num] = currentString;
 			}
-			stringSelector.ItemsSource = stringIDList;
+			StringSelector.ItemsSource = stringIDList;
 			
 			if (stringIDList.Count > 0)
 			{
-				stringSelector.SelectedItem = stringSelector.Items.GetItemAt(0);
+				StringSelector.SelectedItem = StringSelector.Items.GetItemAt(0);
 
 			}
 
@@ -187,28 +209,28 @@ namespace script_editor
 						EN_textbox.Select(EN_textbox.Text.Length, 0);
 						break;
 					case Key.PageUp:
-						if (stringSelector.SelectedIndex > 0)
+						if (StringSelector.SelectedIndex > 0)
 						{
-							stringSelector.SelectedIndex -= 1;
+							StringSelector.SelectedIndex -= 1;
 						}
 						else
                         {
-							stringSelector.SelectedIndex = stringSelector.Items.Count-1;
+							StringSelector.SelectedIndex = StringSelector.Items.Count-1;
                         }
 						break;
 					case Key.PageDown:
-						if (stringSelector.SelectedIndex < stringSelector.Items.Count-1)
+						if (StringSelector.SelectedIndex < StringSelector.Items.Count-1)
                         {
-							stringSelector.SelectedIndex += 1;
+							StringSelector.SelectedIndex += 1;
                         }
 						else
                         {
-							stringSelector.SelectedIndex = 0;
+							StringSelector.SelectedIndex = 0;
                         }
 						break;
 
 					case Key.Return:
-						stringSelector.SelectedItem = stringSelector.Items.GetItemAt(stringSelector.SelectedIndex+1);
+						StringSelector.SelectedItem = StringSelector.Items.GetItemAt(StringSelector.SelectedIndex+1);
 						break;
 					
 
@@ -223,8 +245,19 @@ namespace script_editor
 			uint selectedID;
 			// sender.id read ID from list -> populate english and japanese textbox
 			//en_textbox.Text = ((System.Windows.Controls.ListBox)sender).SelectedItem.ToString();
-
-			selectedID = (uint) ((System.Windows.Controls.ListBox)sender).SelectedItem;
+			if (StringSelector.Items.Count == 0)
+            {
+				return;
+            }
+			if (((System.Windows.Controls.ListBox)sender).SelectedItem != null)
+			{
+				selectedID = (uint)((System.Windows.Controls.ListBox)sender).SelectedItem;
+			}
+			else
+            {
+				StringSelector.ScrollIntoView(StringSelector.SelectedIndex);
+				return;
+            }
 			selectedString = stringList[selectedID];
 			JA_textbox.Text = selectedString.ja_text;
 			EN_textbox.Text = selectedString.en_text;
@@ -251,22 +284,21 @@ namespace script_editor
 				MenuRB.IsChecked = true;
             }
 
-			stringSelector.ScrollIntoView(selectedID);
+			StringSelector.ScrollIntoView(selectedID);
 			HighlightTranslated();
-
 
 		}
 
-        private void HighlightTranslated()
+		private void HighlightTranslated()
         {
-			for (int i = 0; i < stringSelector.Items.Count; i++)
+			for (int i = 0; i < StringSelector.Items.Count; i++)
 			{
-				uint stringID = (uint)stringSelector.Items[i];
+				uint stringID = (uint)StringSelector.Items[i];
 				bool translated = !String.IsNullOrEmpty(stringList[stringID].en_text);
 
 				if (translated)
 				{
-					ListBoxItem li = (ListBoxItem)stringSelector.ItemContainerGenerator.ContainerFromIndex(i);
+					ListBoxItem li = (ListBoxItem)StringSelector.ItemContainerGenerator.ContainerFromIndex(i);
 					if (li != null)
 					{
 						var tledColor = (SolidColorBrush)(new BrushConverter().ConvertFrom("#FF2C3E40"));
@@ -294,5 +326,38 @@ namespace script_editor
 			TextBox jaTextbox = (TextBox)sender;
 			selectedString.ja_text = jaTextbox.Text;
 		}
-    }
+
+		private void StringSearch_TextChanged(object sender, TextChangedEventArgs e)
+        {
+			if (StringSearch.Text.Length > 0)
+			{
+				var filteredIDList = new List<uint>();
+				foreach (ScriptString line in stringList.Values)
+				{
+					if ((!String.IsNullOrEmpty(line.en_text) && line.en_text.Contains(StringSearch.Text)) || 
+						(!String.IsNullOrEmpty(line.ja_text) && line.ja_text.Contains(StringSearch.Text)))
+					{
+						filteredIDList.Add(line.str_num);
+					}
+				}
+				StringSelector.ItemsSource = filteredIDList;
+				StringSelector.SelectedIndex = 0;
+			}
+			else
+            {
+				StringSelector.ItemsSource = stringList.Keys;
+				StringSelector.UpdateLayout();
+				StringSelector.ScrollIntoView(StringSelector.SelectedIndex);
+
+
+			}
+		}
+private void StringSelector_SourceUpdated(object sender, DataTransferEventArgs e)
+        {
+			StringSelector.UpdateLayout();
+			StringSelector.ScrollIntoView(StringSelector.SelectedIndex);
+
+		}
+
+	}
 }

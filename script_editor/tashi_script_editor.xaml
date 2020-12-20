@@ -58,7 +58,7 @@
         </TextBox>
         <Button Content="Open File" HorizontalAlignment="Left" Margin="8,20,0,0" VerticalAlignment="Top" Width="79" Click="Button_OpenFile" Grid.Column="1"/>
         <Button Content="Save File" HorizontalAlignment="Left" Margin="124,20,0,0" VerticalAlignment="Top" Width="86" Click="Button_SaveFile" Grid.Column="1"/>
-        <ListBox  Name="stringSelector" Margin="22,27,0,22" SelectionChanged="ListBox_SelectionChanged" Width="150" HorizontalAlignment="Left" Grid.Row="1" Grid.RowSpan="4">
+        <ListBox  Name="StringSelector" Margin="22,27,0,22" SelectionChanged="ListBox_SelectionChanged" Width="150" HorizontalAlignment="Left" Grid.Row="1" Grid.RowSpan="4">
             <ListBox.Foreground>
                 <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
             </ListBox.Foreground>
@@ -153,6 +153,19 @@
                 <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
             </TextBox.Foreground>
         </TextBox>
+        <TextBox x:Name="StringSearch" TextChanged="StringSearch_TextChanged" HorizontalAlignment="Left" Margin="577,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="188" Height="32" FontSize="18" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Grid.Column="1" IsTabStop="False">
+            <TextBox.Background>
+                <SolidColorBrush Color="{DynamicResource darkmode_bg1}"/>
+            </TextBox.Background>
+            <TextBox.Foreground>
+                <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
+            </TextBox.Foreground>
+        </TextBox>
+        <Label Content="String Search" HorizontalAlignment="Left" Margin="413,29,0,0" VerticalAlignment="Top" Width="159" FontWeight="Bold" FontSize="18" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Grid.Column="1">
+            <Label.Foreground>
+                <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
+            </Label.Foreground>
+        </Label>
 
     </Grid>
 </Window>
