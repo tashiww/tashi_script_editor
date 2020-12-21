@@ -230,7 +230,10 @@ namespace script_editor
 						break;
 
 					case Key.Return:
-						StringSelector.SelectedItem = StringSelector.Items.GetItemAt(StringSelector.SelectedIndex+1);
+						if (StringSelector.SelectedIndex < StringSelector.Items.Count - 1)
+						{
+							StringSelector.SelectedIndex += 1;
+						}
 						break;
 					
 
