@@ -57,7 +57,7 @@
             </TextBox.Background>
         </TextBox>
         <Button Content="Open File" HorizontalAlignment="Left" Margin="8,20,0,0" VerticalAlignment="Top" Width="79" Click="Button_OpenFile" Grid.Column="1"/>
-        <Button Content="Save File" HorizontalAlignment="Left" Margin="124,20,0,0" VerticalAlignment="Top" Width="86" Click="Button_SaveFile" Grid.Column="1"/>
+        <Button Content="Save As..." HorizontalAlignment="Left" Margin="124,20,0,0" VerticalAlignment="Top" Width="86" Click="Button_SaveFile" Grid.Column="1"/>
         <ListBox  Name="StringSelector" Margin="22,27,0,22" SelectionChanged="ListBox_SelectionChanged" Width="150" HorizontalAlignment="Left" Grid.Row="1" Grid.RowSpan="4">
             <ListBox.Foreground>
                 <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
@@ -114,7 +114,7 @@
                 <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
             </Label.Foreground>
         </Label>
-        <Label Content="Keyboard Shortcuts:&#xA;CTRL+#:&#x9;1=&lt;player&gt; 2=&lt;pc__itm&gt; 3=&lt;val&gt; 4=&lt;npc1&gt;. CTRL+Enter advances to the next string." HorizontalAlignment="Left" VerticalAlignment="Center" Height="62" Width="768" Grid.Row="4" Grid.Column="1">
+        <Label Content="Keyboard Shortcuts (in English textbox only):&#xA;CTRL+#:&#x9;1=&lt;player&gt; 2=&lt;pc__itm&gt; 3=&lt;val&gt; 4=&lt;npc1&gt;. CTRL+Enter advances to the next string. CTRL+PgUp/Dn Prev/Next string&#xD;&#xA;CTRL+S: Save over current file" HorizontalAlignment="Left" VerticalAlignment="Center" Height="62" Width="768" Grid.Row="4" Grid.Column="1">
             <Label.Foreground>
                 <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
             </Label.Foreground>
@@ -166,6 +166,10 @@
                 <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
             </Label.Foreground>
         </Label>
+        <TextBlock x:Name="msgbox" HorizontalAlignment="Left" Margin="263,22,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Grid.Column="1" Text="">
+            <TextBlock.Foreground>
+                <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
+            </TextBlock.Foreground></TextBlock>
 
     </Grid>
 </Window>

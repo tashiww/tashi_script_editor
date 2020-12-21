@@ -165,22 +165,27 @@ namespace script_editor
             if (saveFileDialog.ShowDialog() == System.Windows.Forms.DialogResult.OK)
 			{
 				string fn = saveFileDialog.FileName;
-				(new FileStream(fn, FileMode.Truncate)).Close();
-                using StreamWriter sw = File.AppendText(fn);
-                foreach (ScriptString script_string in stringList.Values)
-                {
-                    string json_string = JsonConvert.SerializeObject(script_string);
-                    sw.WriteLine(json_string);
-                    sw.WriteLine("# " + script_string.ja_text.Replace("\n", "\n# "));
-                    sw.WriteLine(script_string.en_text);
-                    sw.WriteLine("\n");
+				scriptPath.Text = fn;
+				SaveFile(fn);
 
-                }
-
-                //File.WriteAllText(fn, txtEditor.Text);
             }
 		}
 
+		private void SaveFile(string fn)
+        {
+			(new FileStream(fn, FileMode.Truncate)).Close();
+			using StreamWriter sw = File.AppendText(fn);
+			foreach (ScriptString script_string in stringList.Values)
+			{
+				string json_string = JsonConvert.SerializeObject(script_string);
+				sw.WriteLine(json_string);
+				sw.WriteLine("# " + script_string.ja_text.Replace("\n", "\n# "));
+				sw.WriteLine(script_string.en_text);
+				sw.WriteLine("\n");
+			}
+			msgbox.Text = "File saved successfully.";
+
+		}
 		private void EN_textbox_KeyDown(object sender, KeyEventArgs e)
 		{
 			// make this switch/case
@@ -228,7 +233,9 @@ namespace script_editor
 							StringSelector.SelectedIndex = 0;
                         }
 						break;
-
+					case Key.S:
+						SaveFile(scriptPath.Text);
+						break;
 					case Key.Return:
 						if (StringSelector.SelectedIndex < StringSelector.Items.Count - 1)
 						{
@@ -289,7 +296,7 @@ namespace script_editor
 
 			StringSelector.ScrollIntoView(selectedID);
 			HighlightTranslated();
-
+			msgbox.Text = "";
 		}
 
 		private void HighlightTranslated()
