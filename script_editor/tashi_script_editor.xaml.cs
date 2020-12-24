@@ -173,7 +173,10 @@ namespace script_editor
 
 		private void SaveFile(string fn)
         {
-			(new FileStream(fn, FileMode.Truncate)).Close();
+			if (File.Exists(fn))
+			{
+				(new FileStream(fn, FileMode.Truncate)).Close();
+			}
 			using StreamWriter sw = File.AppendText(fn);
 			foreach (ScriptString script_string in stringList.Values)
 			{
@@ -211,6 +214,10 @@ namespace script_editor
 						break;
 					case Key.D5:
 						EN_textbox.Text += "<scroll>";
+						EN_textbox.Select(EN_textbox.Text.Length, 0);
+						break;
+					case Key.D6:
+						EN_textbox.Text += "<npc9>";
 						EN_textbox.Select(EN_textbox.Text.Length, 0);
 						break;
 					case Key.PageUp:

@@ -48,7 +48,7 @@
                 <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
             </Label.Foreground>
         </Label>
-        <TextBox x:Name="EN_textbox" AcceptsReturn="True" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible" KeyDown="EN_textbox_KeyDown" FontSize="18" VerticalContentAlignment="Stretch" HorizontalContentAlignment="Stretch" Margin="10,61,30,19" Grid.Row="3" Grid.Column="1" TextChanged="EN_textbox_TextChanged" IsEnabled="False" >
+        <TextBox x:Name="EN_textbox" SpellCheck.IsEnabled="True" AcceptsReturn="True" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible" KeyDown="EN_textbox_KeyDown" FontSize="18" VerticalContentAlignment="Stretch" HorizontalContentAlignment="Stretch" Margin="10,61,30,19" Grid.Row="3" Grid.Column="1" TextChanged="EN_textbox_TextChanged" IsEnabled="False" >
             <TextBox.Foreground>
                 <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
             </TextBox.Foreground>
@@ -114,7 +114,7 @@
                 <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
             </Label.Foreground>
         </Label>
-        <Label Content="Keyboard Shortcuts (in English textbox only):&#xA;CTRL+#:&#x9;1=&lt;player&gt; 2=&lt;pc__itm&gt; 3=&lt;val&gt; 4=&lt;npc1&gt;. CTRL+Enter advances to the next string. CTRL+PgUp/Dn Prev/Next string&#xD;&#xA;CTRL+S: Save over current file" HorizontalAlignment="Left" VerticalAlignment="Center" Height="62" Width="768" Grid.Row="4" Grid.Column="1">
+        <Label Content="Keyboard Shortcuts (in English textbox only):&#xA;CTRL+#:&#x9;1=&lt;player&gt; 2=&lt;pc__itm&gt; 3=&lt;val&gt; 4=&lt;npc1&gt; 5=&lt;scroll&gt; 6=&lt;npc9&gt;. CTRL+Enter advances to the next string. &#xD;&#xA;CTRL+PgUp/Dn Prev/Next strin CTRL+S: Save over current file" HorizontalAlignment="Left" VerticalAlignment="Center" Height="62" Width="768" Grid.Row="4" Grid.Column="1">
             <Label.Foreground>
                 <SolidColorBrush Color="{DynamicResource darkmode_fg1}"/>
             </Label.Foreground>
