@@ -61,28 +61,31 @@ namespace script_editor
 		}
 		public class ScriptString
         {
-			public uint str_num;
 			public string prefix;
 			public uint ptr_pos;
 			public uint str_pos;
+			public string ptr_hex;
+			public string str_hex;
 			public string table;
 			public bool repoint;
+			public string ptr_type;
 			[JsonIgnore]
 			public string ja_text;
 			[JsonIgnore]
 			public string en_text;
-			public ScriptString(uint StrNum, string Prefix, uint PtrPos, uint StrPos, string Table, bool Repoint)
+			public ScriptString(uint StrNum, string Prefix, uint PtrPos, uint StrPos, string Table, bool Repoint, string PtrType)
             {
-				str_num = StrNum;
 				prefix = Prefix;
 				ptr_pos = PtrPos;
                 str_pos = StrPos;
+				str_hex = StrPos.ToString("X4");
 				table = Table;
 				repoint = Repoint;
+				ptr_type = PtrType;
 			}
 		}
 
-        // list of strings from script, keyed by str_num
+        // list of strings from script, keyed by ptr_pos
         readonly IDictionary<uint, ScriptString> stringList = new Dictionary<uint, ScriptString>();
 
         private void Button_OpenFile(object sender, RoutedEventArgs e)
@@ -100,49 +103,54 @@ namespace script_editor
 
                 //ja_textbox.Text = File.ReadAllText(openFileDialog.FileName);
                 scriptPath.Text = openFileDialog.FileName;
-				
+
 				// this should be a function "parseScriptFile" or something.
-				System.IO.StreamReader file = new System.IO.StreamReader(openFileDialog.FileName);
-				ScriptString currentString = null;
-				EN_textbox.Text = "";
-				JA_textbox.Text = "";
+				using (System.IO.StreamReader file = new System.IO.StreamReader(openFileDialog.FileName))
+				{
+					ScriptString currentString = null;
+					EN_textbox.Text = "";
+					JA_textbox.Text = "";
 
-				while ((line = file.ReadLine()) != null)
-                {
-					if (line.Length > 0)
+					while ((line = file.ReadLine()) != null)
 					{
-						if (line.StartsWith("{"))
+						if (line.Length > 0)
 						{
-							if (currentString != null && !currentString.repoint)
+							if (line.StartsWith("{"))
 							{
-								stringIDList.Add(currentString.str_num);
-								stringList[currentString.str_num] = currentString;
-							}
+								if (currentString != null)
+								{
+									stringIDList.Add(currentString.ptr_pos);
+									stringList[currentString.ptr_pos] = currentString;
+								}
 
-							currentString = JsonConvert.DeserializeObject<ScriptString>(line);
-							// en_textbox.Text += currentString.str_num + "\n";
-						}
-						else if (line.StartsWith("#") && currentString != null)
-						{
-							if (!String.IsNullOrEmpty(currentString.ja_text))
-							{
-								currentString.ja_text += "\n";
+								currentString = JsonConvert.DeserializeObject<ScriptString>(line);
+								currentString.ptr_hex = currentString.ptr_pos.ToString("X4");
+								currentString.str_hex = currentString.str_pos.ToString("X4");
+
+								// en_textbox.Text += currentString.ptr_pos + "\n";
 							}
-							currentString.ja_text += line[1..].Replace("<br>", "<br>\n").Trim();
-						}
-						else if (currentString != null)
-                        {
-							if (!String.IsNullOrEmpty(currentString.en_text))
+							else if (line.StartsWith("#") && currentString != null)
 							{
-								currentString.en_text += "\n";
+								if (!String.IsNullOrEmpty(currentString.ja_text))
+								{
+									currentString.ja_text += "\n";
+								}
+								currentString.ja_text += line[1..].Replace("<br>", "<br>\n").Trim();
 							}
+							else if (currentString != null)
+							{
+								if (!String.IsNullOrEmpty(currentString.en_text))
+								{
+									currentString.en_text += "\n";
+								}
 								currentString.en_text += line;
-                        }
+							}
 
+						}
 					}
-                }
-				stringIDList.Add(currentString.str_num);
-				stringList[currentString.str_num] = currentString;
+					stringIDList.Add(currentString.ptr_pos);
+					stringList[currentString.ptr_pos] = currentString;
+				}
 			}
 			StringSelector.ItemsSource = stringIDList;
 			
@@ -278,14 +286,23 @@ namespace script_editor
 			selectedString = stringList[selectedID];
 			JA_textbox.Text = selectedString.ja_text;
 			EN_textbox.Text = selectedString.en_text;
-			
-			JA_textbox.IsEnabled = true;
-			EN_textbox.IsEnabled = true;
+
+			if (selectedString.repoint)
+            {
+				EN_textbox.IsEnabled = false;
+				JA_textbox.IsEnabled = false;
+
+			}
+			else
+            {
+				JA_textbox.IsEnabled = true;
+				EN_textbox.IsEnabled = true;
+			}
 
 			PointerOffset.Text = $"0x{selectedString.ptr_pos:X}";
 			StringOffset.Text = $"0x{selectedString.str_pos:X}";
 
-			int stringCount = stringList.Count;
+			int stringCount = stringList.Where(pair => pair.Value.repoint == false).Select(pair => pair.Key).Count();
 			var matches = stringList.Where(pair => pair.Value.en_text != null).Select(pair => pair.Key);
             int tledCount = matches.Count();
 			float completionPercent = (float)tledCount / (float)stringCount;
@@ -354,7 +371,7 @@ namespace script_editor
 					if ((!String.IsNullOrEmpty(line.en_text) && line.en_text.Contains(StringSearch.Text)) || 
 						(!String.IsNullOrEmpty(line.ja_text) && line.ja_text.Contains(StringSearch.Text)))
 					{
-						filteredIDList.Add(line.str_num);
+						filteredIDList.Add(line.ptr_pos);
 					}
 				}
 				StringSelector.ItemsSource = filteredIDList;
